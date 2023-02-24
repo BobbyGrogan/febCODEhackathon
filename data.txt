@@ -638,9 +638,9 @@ March 14, 2021, Jett, Grace, Thomas, Shiven, Camil, Arnav, Max, $896.5, 148, 113
 March 15, 2021, Grace, Thomas, Camil, Arnav, Arun, Shiven, Max, $885.0, 147, 108, 107
 March 16, 2021, Grace, Thomas, Arnav, Shiven, Jett, Arun, Andres, $882.5, 147, 107, 107
 March 17, 2021, Grace, Thomas, Arnav, Shiven, Jett, Camil, Kimberly, $877.5, 147, 105, 107
-March 18, 2021, Grace, Arnav, Jett, Mallory, Neeraj, Elena, Kimberly, $883.5, 146, 107, 108
-March 20, 2021, Grace, Jett, Mallory, Elena, Arun, Camil, Kimberly, $877.5, 146, 107, 106
-March 21, 2021, Jett, Mallory, Arun, Camil, Shiven, Arnav, Kimberly, $874.5, 146, 107, 105
+March 18, 2021, Arnav, Jett, Mallory, Neeraj, Elena, Kimberly, $883.5, 146, 107, 108
+March 20, 2021, Jett, Mallory, Elena, Arun, Camil, Kimberly, $877.5, 146, 107, 106
+March 21, 2021, Mallory, Arun, Camil, Shiven, Arnav, Kimberly, $874.5, 146, 107, 105
 March 22, 2021, Mallory, Arun, Shiven, Arnav, Jett, Mark, Kimberly, $869.5, 146, 105, 105
 March 23, 2021, Arun, Shiven, Arnav, Mark, Aryan, Thomas, Kimberly, $875.5, 145, 107, 106
 March 24, 2021, Arun, Arnav, Mark, Thomas, Anushka, Aryan, Kimberly, $880.5, 145, 109, 106
@@ -652,10 +652,10 @@ March 30, 2021, Mark, Prashant, Camil, Thomas, Arnav, Arun, Kimberly, $880.0, 14
 March 31, 2021, Prashant, Camil, Thomas, Arun, Arnav, Grace, Kimberly, $881.0, 144, 104, 111
 April 01, 2021, Prashant, Camil, Thomas, Arun, Arnav, Mallory, Kimberly, $883.5, 145, 103, 112
 April 03, 2021, Prashant, Thomas, Arun, Arnav, Mallory, Grace, Kimberly, $890.0, 146, 106, 111
-April 04, 2021, Prashant, Arun, Mallory, Grace, Thomas, Aryan, Kimberly, $885.0, 146, 104, 111
-April 05, 2021, Prashant, Arun, Grace, Thomas, Aryan, Anushka, Kimberly, $890.5, 146, 105, 112
-April 06, 2021, Prashant, Arun, Grace, Aryan, Anushka, Camil, Kimberly, $893.0, 146, 106, 112
-April 07, 2021, Prashant, Grace, Aryan, Anushka, Camil, Jett, Kimberly, $905.5, 147, 109, 113
+April 04, 2021, Arun, Mallory, Grace, Thomas, Aryan, Kimberly, $885.0, 146, 104, 111
+April 05, 2021, Arun, Grace, Thomas, Aryan, Anushka, Kimberly, $890.5, 146, 105, 112
+April 06, 2021, Grace, Aryan, Anushka, Camil, Kimberly, $893.0, 146, 106, 112
+April 07, 2021, Grace, Aryan, Anushka, Camil, Jett, Kimberly, $905.5, 147, 109, 113
 April 08, 2021, Grace, Aryan, Anushka, Camil, Jett, Thomas, Kimberly, $900.5, 147, 107, 113
 April 10, 2021, Aryan, Anushka, Camil, Jett, Thomas, Prashant, Kimberly, $898.0, 147, 106, 113
 April 11, 2021, Anushka, Camil, Jett, Thomas, Mallory, Neeraj, Kimberly, $898.0, 146, 108, 112
@@ -670,7 +670,7 @@ April 20, 2021, Grace, Prashant, Arnav, Shiven, Aryan, Anushka, Andres, $896.5, 
 April 21, 2021, Prashant, Shiven, Aryan, Anushka, Jett, Neeraj, Andres, $894.5, 140, 109, 114
 April 22, 2021, Shiven, Aryan, Anushka, Jett, Neeraj, Thomas, Andres, $899.5, 140, 111, 114
 April 24, 2021, Shiven, Anushka, Jett, Thomas, Camil, Mallory, Andres, $894.5, 140, 109, 114
-April 25, 2021, Shiven, Anushka, Jett, Thomas, Camil, Arnav, Andres, $895.5, 139, 109, 115
+April 25, 2021, Anushka, Jett, Thomas, Camil, Arnav, Andres, $895.5, 139, 109, 115
 April 26, 2021, Shiven, Jett, Camil, Arnav, Grace, Aryan, Max, $895.0, 139, 110, 114
 April 27, 2021, Shiven, Jett, Camil, Arnav, Grace, Aryan, Max, $903.0, 139, 112, 115
 April 28, 2021, Shiven, Jett, Camil, Grace, Aryan, Elena, Max, $911.0, 139, 114, 116
@@ -689,8 +689,8 @@ May 12, 2021, Thomas, Aryan, Prashant, Mark, Camil, Anushka, Andres, $925.5, 139
 May 13, 2021, Thomas, Aryan, Prashant, Mark, Camil, Anushka, Andres, $931.0, 139, 110, 126
 May 15, 2021, Thomas, Aryan, Prashant, Camil, Neeraj, Arnav, Andres, $942.0, 139, 112, 128
 May 16, 2021, Thomas, Aryan, Camil, Neeraj, Arnav, Jett, Andres, $942.0, 139, 112, 128
-May 17, 2021, Thomas, Aryan, Neeraj, Arnav, Mallory, Grace, Andres, $947.0, 139, 114, 128
-May 18, 2021, Aryan, Neeraj, Mallory, Grace, Prashant, Shiven, Andres, $949.5, 139, 115, 128
+May 17, 2021, Aryan, Neeraj, Arnav, Mallory, Grace, Andres, $947.0, 139, 114, 128
+May 18, 2021, Neeraj, Mallory, Grace, Prashant, Shiven, Andres, $949.5, 139, 115, 128
 May 19, 2021, Neeraj, Mallory, Grace, Prashant, Shiven, Mark, Andres, $947.5, 138, 115, 128
 May 20, 2021, Neeraj, Mallory, Grace, Prashant, Mark, Arun, Andres, $953.0, 138, 116, 129
 May 22, 2021, Mallory, Grace, Prashant, Mark, Jett, Neeraj, Andres, $955.5, 138, 117, 129
@@ -739,14 +739,14 @@ July 10, 2021, Camil, Aryan, Shiven, Thomas, Mark, Arun, Andres, $1005.0, 138, 1
 July 11, 2021, Aryan, Shiven, Mark, Arun, Camil, Prashant, Andres, $1002.5, 138, 137, 128
 July 12, 2021, Aryan, Shiven, Mark, Camil, Prashant, Thomas, Max, $1011.0, 138, 138, 130
 July 13, 2021, Aryan, Mark, Prashant, Anushka, Elena, Thomas, Max, $1010.5, 138, 139, 129
-July 14, 2021, Aryan, Mark, Prashant, Anushka, Elena, Thomas, Andres, $1010.5, 138, 139, 129
-July 15, 2021, Mark, Anushka, Elena, Thomas, Aryan, Grace, Kimberly, $1018.0, 139, 140, 130
-July 17, 2021, Mark, Anushka, Elena, Thomas, Aryan, Grace, Kimberly, $1020.0, 139, 142, 129
-July 18, 2021, Anushka, Elena, Thomas, Aryan, Grace, Shiven, Kimberly, $1025.5, 139, 143, 130
-July 19, 2021, Elena, Thomas, Grace, Shiven, Jett, Anushka, Kimberly, $1028.0, 139, 144, 130
-July 20, 2021, Thomas, Shiven, Jett, Arun, Aryan, Anushka, Kimberly, $1031.5, 138, 145, 131
-July 21, 2021, Shiven, Arun, Aryan, Anushka, Thomas, Elena, Kimberly, $1040.0, 138, 146, 133
-July 22, 2021, Shiven, Aryan, Anushka, Thomas, Elena, Arun, Max, $1042.5, 139, 145, 134
+July 14, 2021, Mark, Prashant, Anushka, Elena, Thomas, Andres, $1010.5, 138, 139, 129
+July 15, 2021, Elena, Thomas, Aryan, Grace, Kimberly, $1018.0, 139, 140, 130
+July 17, 2021, Anushka, Elena, Thomas, Aryan, Grace, Kimberly, $1020.0, 139, 142, 129
+July 18, 2021, Elena, Thomas, Aryan, Grace, Shiven, Kimberly, $1025.5, 139, 143, 130
+July 19, 2021, Thomas, Grace, Shiven, Jett, Anushka, Kimberly, $1028.0, 139, 144, 130
+July 20, 2021, Shiven, Jett, Arun, Aryan, Anushka, Kimberly, $1031.5, 138, 145, 131
+July 21, 2021, Arun, Aryan, Anushka, Thomas, Elena, Kimberly, $1040.0, 138, 146, 133
+July 22, 2021, Aryan, Anushka, Thomas, Elena, Arun, Max, $1042.5, 139, 145, 134
 July 24, 2021, Aryan, Thomas, Elena, Arun, Mark, Shiven, Max, $1050.5, 139, 147, 135
 July 25, 2021, Aryan, Thomas, Arun, Shiven, Mallory, Elena, Max, $1046.0, 137, 148, 134
 July 26, 2021, Aryan, Thomas, Arun, Shiven, Elena, Prashant, Max, $1056.0, 138, 150, 135
@@ -765,8 +765,8 @@ August 09, 2021, Jett, Camil, Elena, Arnav, Arun, Aryan, Kimberly, $1086.0, 137,
 August 10, 2021, Jett, Camil, Elena, Arnav, Arun, Anushka, Andres, $1086.0, 138, 156, 140
 August 11, 2021, Camil, Arnav, Anushka, Jett, Prashant, Neeraj, Andres, $1081.0, 137, 156, 139
 August 12, 2021, Camil, Arnav, Anushka, Jett, Neeraj, Shiven, Kimberly, $1088.5, 137, 159, 139
-August 14, 2021, Camil, Arnav, Anushka, Jett, Neeraj, Shiven, Andres, $1091.0, 137, 160, 139
-August 15, 2021, Camil, Anushka, Neeraj, Shiven, Mark, Jett, Max, $1092.0, 136, 160, 140
+August 14, 2021, Arnav, Anushka, Jett, Neeraj, Shiven, Andres, $1091.0, 137, 160, 139
+August 15, 2021, Anushka, Neeraj, Shiven, Mark, Jett, Max, $1092.0, 136, 160, 140
 August 16, 2021, Camil, Anushka, Neeraj, Shiven, Mark, Jett, Max, $1092.0, 136, 160, 140
 August 17, 2021, Anushka, Shiven, Mark, Thomas, Camil, Prashant, Max, $1089.5, 135, 161, 139
 August 18, 2021, Shiven, Thomas, Prashant, Aryan, Camil, Grace, Max, $1097.5, 135, 163, 140
@@ -800,9 +800,9 @@ September 19, 2021, Elena, Jett, Camil, Prashant, Anushka, Arun, Max, $1146.5, 1
 September 20, 2021, Elena, Jett, Camil, Anushka, Arun, Shiven, Kimberly, $1147.0, 137, 180, 141
 September 21, 2021, Jett, Camil, Anushka, Arun, Shiven, Mallory, Kimberly, $1142.0, 137, 178, 141
 September 22, 2021, Jett, Anushka, Shiven, Mallory, Mark, Prashant, Kimberly, $1149.5, 137, 181, 141
-September 23, 2021, Anushka, Shiven, Mark, Prashant, Thomas, Grace, Andres, $1152.0, 137, 182, 141
-September 25, 2021, Shiven, Mark, Prashant, Thomas, Camil, Neeraj, Andres, $1159.0, 137, 186, 140
-September 26, 2021, Shiven, Prashant, Thomas, Neeraj, Aryan, Mallory, Andres, $1144.0, 136, 182, 139
+September 23, 2021, Shiven, Mark, Prashant, Thomas, Grace, Andres, $1152.0, 137, 182, 141
+September 25, 2021, Mark, Prashant, Thomas, Camil, Neeraj, Andres, $1159.0, 137, 186, 140
+September 26, 2021, Prashant, Thomas, Neeraj, Aryan, Mallory, Andres, $1144.0, 136, 182, 139
 September 27, 2021, Prashant, Thomas, Neeraj, Mallory, Grace, Arun, Andres, $1140.0, 135, 180, 140
 September 28, 2021, Prashant, Thomas, Neeraj, Mallory, Arun, Camil, Max, $1140.0, 135, 180, 140
 September 29, 2021, Prashant, Thomas, Neeraj, Arun, Camil, Elena, Max, $1145.0, 135, 182, 140
@@ -831,8 +831,8 @@ October 25, 2021, Jett, Elena, Shiven, Mark, Neeraj, Grace, Andres, $1155.5, 131
 October 26, 2021, Jett, Elena, Mark, Grace, Shiven, Arnav, Andres, $1159.5, 130, 187, 144
 October 27, 2021, Jett, Elena, Mark, Grace, Shiven, Arnav, Andres, $1159.5, 130, 187, 144
 October 28, 2021, Elena, Grace, Shiven, Arnav, Prashant, Arun, Andres, $1157.0, 130, 186, 144
-October 30, 2021, Elena, Grace, Arnav, Arun, Mallory, Shiven, Andres, $1149.5, 130, 183, 144
-October 31, 2021, Elena, Grace, Arun, Shiven, Neeraj, Jett, Andres, $1163.0, 129, 188, 145
+October 30, 2021, Elena, Grace, Arnav, Mallory, Shiven, Andres, $1149.5, 130, 183, 144
+October 31, 2021, Elena, Grace, Arun, Neeraj, Jett, Andres, $1163.0, 129, 188, 145
 November 01, 2021, Elena, Arun, Shiven, Jett, Arnav, Prashant, Andres, $1163.0, 129, 188, 145
 November 02, 2021, Elena, Arun, Shiven, Jett, Arnav, Prashant, Andres, $1165.5, 129, 189, 145
 November 03, 2021, Elena, Arun, Shiven, Arnav, Prashant, Thomas, Andres, $1173.0, 129, 192, 145
@@ -878,8 +878,8 @@ December 19, 2021, Mallory, Shiven, Mark, Aryan, Arnav, Grace, Max, $1237.5, 127
 December 20, 2021, Mallory, Mark, Aryan, Arnav, Grace, Camil, Max, $1241.5, 128, 219, 146
 December 21, 2021, Mark, Aryan, Arnav, Grace, Camil, Mallory, Andres, $1242.0, 128, 218, 147
 December 22, 2021, Mark, Arnav, Grace, Mallory, Elena, Neeraj, Andres, $1246.5, 129, 219, 147
-December 23, 2021, Mark, Arnav, Mallory, Neeraj, Grace, Arun, Max, $1264.5, 129, 225, 148
-December 25, 2021, Arnav, Mallory, Grace, Arun, Prashant, Camil, Max, $1269.5, 130, 225, 149
+December 23, 2021, Mallory, Neeraj, Grace, Arun, Max, $1264.5, 129, 225, 148
+December 25, 2021, Mallory, Grace, Arun, Prashant, Camil, Max, $1269.5, 130, 225, 149
 December 26, 2021, Arnav, Mallory, Arun, Prashant, Camil, Jett, Max, $1259.0, 130, 222, 148
 December 27, 2021, Mallory, Prashant, Camil, Jett, Grace, Mark, Max, $1262.0, 130, 222, 149
 December 28, 2021, Mallory, Prashant, Jett, Mark, Camil, Elena, Kimberly, $1267.5, 130, 223, 150
@@ -899,8 +899,8 @@ January 12, 2022, Aryan, Neeraj, Arnav, Anushka, Grace, Jett, Max, $1313.0, 131,
 January 13, 2022, Neeraj, Anushka, Grace, Jett, Elena, Aryan, Max, $1322.0, 130, 234, 159
 January 15, 2022, Anushka, Jett, Elena, Aryan, Arnav, Camil, Andres, $1317.5, 129, 233, 159
 January 16, 2022, Anushka, Jett, Elena, Aryan, Arnav, Thomas, Kimberly, $1315.0, 129, 232, 159
-January 17, 2022, Anushka, Jett, Elena, Aryan, Arnav, Mallory, Kimberly, $1315.5, 129, 231, 160
-January 18, 2022, Jett, Elena, Arnav, Shiven, Arun, Aryan, Kimberly, $1321.5, 128, 233, 161
+January 17, 2022, Jett, Elena, Aryan, Arnav, Mallory, Kimberly, $1315.5, 129, 231, 160
+January 18, 2022, Elena, Arnav, Shiven, Arun, Aryan, Kimberly, $1321.5, 128, 233, 161
 January 19, 2022, Jett, Arnav, Shiven, Arun, Anushka, Prashant, Kimberly, $1324.0, 128, 234, 161
 January 20, 2022, Jett, Arnav, Shiven, Arun, Prashant, Grace, Kimberly, $1321.0, 128, 234, 160
 January 22, 2022, Jett, Arnav, Arun, Prashant, Grace, Thomas, Kimberly, $1326.0, 128, 236, 160
@@ -932,8 +932,8 @@ February 20, 2022, Elena, Jett, Arnav, Aryan, Anushka, Thomas, Andres, $1360.0, 
 February 21, 2022, Elena, Jett, Arnav, Anushka, Thomas, Grace, Andres, $1365.5, 126, 239, 172
 February 22, 2022, Jett, Arnav, Anushka, Grace, Mark, Elena, Andres, $1354.5, 126, 237, 170
 February 23, 2022, Arnav, Anushka, Grace, Mark, Elena, Camil, Andres, $1359.5, 126, 239, 170
-February 24, 2022, Anushka, Grace, Mark, Elena, Camil, Mallory, Andres, $1352.0, 126, 236, 170
-February 26, 2022, Grace, Mark, Camil, Mallory, Arnav, Jett, Kimberly, $1342.5, 124, 235, 169
+February 24, 2022, Grace, Mark, Elena, Camil, Mallory, Andres, $1352.0, 126, 236, 170
+February 26, 2022, Mark, Camil, Mallory, Arnav, Jett, Kimberly, $1342.5, 124, 235, 169
 February 27, 2022, Mark, Camil, Mallory, Arnav, Jett, Shiven, Andres, $1348.0, 125, 234, 171
 February 28, 2022, Camil, Arnav, Jett, Neeraj, Mark, Prashant, Andres, $1340.0, 125, 232, 170
 March 01, 2022, Camil, Arnav, Jett, Neeraj, Mark, Prashant, Max, $1342.5, 125, 233, 170
@@ -945,323 +945,6 @@ March 07, 2022, Jett, Mark, Grace, Anushka, Thomas, Arun, Kimberly, $1348.0, 124
 March 08, 2022, Mark, Grace, Anushka, Arun, Elena, Arnav, Andres, $1355.0, 123, 236, 173
 March 09, 2022, Mark, Grace, Arun, Elena, Arnav, Neeraj, Andres, $1368.0, 123, 240, 174
 March 10, 2022, Mark, Grace, Arun, Elena, Arnav, Neeraj, Andres, $1368.0, 123, 240, 174
-
-LOCATION: Willowbrook
-Rent: $3900
-
-
-March 13, 2021, Emmanuel, Carlos, Viha, Rishika, $712.0, 127, 92, 76
-March 14, 2021, Emmanuel, Viha, Vladimir, Rishika, $701.5, 128, 87, 76
-March 15, 2021, Emmanuel, Viha, Vladimir, Caroline, $704.0, 128, 88, 76
-March 16, 2021, Emmanuel, Viha, Vladimir, Caroline, $709.0, 128, 90, 76
-March 17, 2021, Emmanuel, Vladimir, Viha, Caroline, $712.5, 128, 89, 78
-March 18, 2021, Vladimir, Viha, Songting, Rishika, $704.5, 128, 87, 77
-March 20, 2021, Vladimir, Viha, Songting, Caroline, $703.0, 128, 84, 79
-March 21, 2021, Vladimir, Viha, Emmanuel, Caroline, $708.0, 129, 84, 80
-March 22, 2021, Viha, Emmanuel, Jesus, Caroline, $707.5, 129, 85, 79
-March 23, 2021, Viha, Emmanuel, Jesus, Caroline, $711.5, 130, 87, 78
-March 24, 2021, Emmanuel, Jesus, Viha, Caroline, $703.5, 130, 85, 77
-March 25, 2021, Emmanuel, Viha, Luca, Caroline, $705.5, 130, 87, 76
-March 27, 2021, Viha, Vladimir, Jesus, Caroline, $705.5, 131, 85, 77
-March 28, 2021, Viha, Vladimir, Luca, Caroline, $715.0, 132, 88, 77
-March 29, 2021, Viha, Luca, Songting, Caroline, $717.0, 132, 90, 76
-March 30, 2021, Viha, Luca, Songting, Caroline, $714.5, 133, 87, 77
-March 31, 2021, Viha, Luca, Songting, Caroline, $713.5, 134, 87, 76
-April 01, 2021, Viha, Luca, Igor, Caroline, $708.0, 135, 84, 76
-April 03, 2021, Viha, Luca, Jesus, Caroline, $707.5, 135, 85, 75
-April 04, 2021, Viha, Jesus, Emmanuel, Rishika, $707.0, 136, 84, 75
-April 05, 2021, Viha, Jesus, Emmanuel, Rishika, $712.0, 137, 84, 76
-April 06, 2021, Viha, Jesus, Songting, Rishika, $707.0, 138, 80, 77
-April 07, 2021, Viha, Jesus, Songting, Rishika, $706.0, 139, 80, 76
-April 08, 2021, Viha, Jesus, Songting, Rishika, $705.5, 139, 81, 75
-April 10, 2021, Viha, Jesus, Songting, Rishika, $699.5, 140, 79, 74
-April 11, 2021, Jesus, Viha, Songting, Caroline, $691.5, 141, 75, 74
-April 12, 2021, Jesus, Songting, Vladimir, Caroline, $692.0, 141, 74, 75
-April 13, 2021, Jesus, Songting, Vladimir, Rishika, $701.5, 142, 77, 75
-April 14, 2021, Jesus, Vladimir, Viha, Caroline, $709.0, 142, 80, 75
-April 15, 2021, Jesus, Vladimir, Viha, Caroline, $708.5, 142, 81, 74
-April 17, 2021, Vladimir, Viha, Emmanuel, Caroline, $716.0, 143, 82, 75
-April 18, 2021, Vladimir, Viha, Emmanuel, Caroline, $721.5, 143, 83, 76
-April 19, 2021, Vladimir, Emmanuel, Jesus, Rishika, $726.0, 144, 84, 76
-April 20, 2021, Vladimir, Emmanuel, Jesus, Rishika, $727.5, 145, 85, 75
-April 21, 2021, Vladimir, Jesus, Songting, Rishika, $729.5, 146, 85, 75
-April 22, 2021, Vladimir, Jesus, Songting, Rishika, $729.5, 147, 83, 76
-April 24, 2021, Vladimir, Jesus, Songting, Caroline, $744.0, 148, 88, 76
-April 25, 2021, Vladimir, Jesus, Emmanuel, Rishika, $753.5, 149, 91, 76
-April 26, 2021, Jesus, Emmanuel, Songting, Rishika, $758.5, 150, 91, 77
-April 27, 2021, Emmanuel, Songting, Luca, Rishika, $765.5, 151, 93, 77
-April 28, 2021, Emmanuel, Songting, Luca, Rishika, $771.0, 151, 94, 78
-April 29, 2021, Songting, Luca, Vladimir, Rishika, $768.0, 151, 94, 77
-May 01, 2021, Songting, Vladimir, Viha, Rishika, $765.0, 152, 92, 77
-May 02, 2021, Songting, Vladimir, Viha, Rishika, $762.0, 153, 90, 77
-May 03, 2021, Songting, Viha, Jesus, Rishika, $774.5, 154, 93, 78
-May 04, 2021, Songting, Jesus, Vladimir, Rishika, $774.0, 155, 92, 78
-May 05, 2021, Songting, Jesus, Carlos, Caroline, $775.5, 156, 93, 77
-May 06, 2021, Songting, Carlos, Emmanuel, Caroline, $780.5, 156, 95, 77
-May 08, 2021, Songting, Emmanuel, Jesus, Caroline, $790.0, 157, 98, 77
-May 09, 2021, Songting, Emmanuel, Jesus, Caroline, $795.0, 158, 98, 78
-May 10, 2021, Songting, Emmanuel, Jesus, Caroline, $805.5, 159, 99, 80
-May 11, 2021, Songting, Emmanuel, Jesus, Caroline, $808.5, 158, 101, 80
-May 12, 2021, Emmanuel, Jesus, Vladimir, Caroline, $803.0, 157, 102, 78
-May 13, 2021, Jesus, Luca, Carlos, Caroline, $798.5, 157, 99, 79
-May 15, 2021, Luca, Carlos, Vladimir, Caroline, $805.0, 157, 98, 82
-May 16, 2021, Luca, Vladimir, Viha, Caroline, $809.5, 158, 99, 82
-May 17, 2021, Luca, Vladimir, Viha, Caroline, $808.0, 160, 98, 81
-May 18, 2021, Luca, Vladimir, Viha, Caroline, $805.5, 161, 95, 82
-May 19, 2021, Vladimir, Emmanuel, Igor, Caroline, $800.5, 162, 91, 83
-May 20, 2021, Emmanuel, Igor, Vladimir, Rishika, $800.5, 163, 89, 84
-May 22, 2021, Emmanuel, Igor, Vladimir, Rishika, $803.0, 163, 90, 84
-May 23, 2021, Emmanuel, Igor, Vladimir, Rishika, $813.5, 164, 91, 86
-May 24, 2021, Igor, Vladimir, Carlos, Rishika, $808.5, 164, 89, 86
-May 25, 2021, Igor, Carlos, Emmanuel, Rishika, $808.0, 165, 88, 86
-May 26, 2021, Igor, Emmanuel, Luca, Rishika, $807.5, 166, 87, 86
-May 27, 2021, Igor, Emmanuel, Luca, Rishika, $815.0, 167, 88, 87
-May 29, 2021, Igor, Emmanuel, Luca, Rishika, $813.5, 167, 85, 89
-May 30, 2021, Igor, Emmanuel, Luca, Rishika, $811.5, 167, 83, 90
-May 31, 2021, Emmanuel, Luca, Vladimir, Caroline, $822.0, 167, 86, 91
-June 01, 2021, Luca, Vladimir, Viha, Caroline, $827.0, 168, 86, 92
-June 02, 2021, Luca, Viha, Vladimir, Caroline, $832.5, 169, 85, 94
-June 03, 2021, Luca, Viha, Vladimir, Rishika, $835.5, 170, 83, 96
-June 05, 2021, Viha, Jesus, Luca, Caroline, $842.5, 171, 85, 96
-June 06, 2021, Jesus, Viha, Vladimir, Caroline, $839.5, 171, 85, 95
-June 07, 2021, Jesus, Viha, Vladimir, Caroline, $852.0, 172, 88, 96
-June 08, 2021, Viha, Vladimir, Carlos, Caroline, $855.5, 172, 87, 98
-June 09, 2021, Viha, Vladimir, Emmanuel, Rishika, $851.0, 172, 84, 99
-June 10, 2021, Viha, Vladimir, Emmanuel, Rishika, $854.0, 174, 86, 97
-June 12, 2021, Viha, Vladimir, Emmanuel, Rishika, $855.5, 175, 87, 96
-June 13, 2021, Vladimir, Emmanuel, Luca, Rishika, $857.0, 176, 88, 95
-June 14, 2021, Vladimir, Luca, Viha, Rishika, $856.5, 177, 87, 95
-June 15, 2021, Vladimir, Luca, Viha, Rishika, $853.5, 177, 87, 94
-June 16, 2021, Vladimir, Luca, Viha, Rishika, $847.5, 178, 85, 93
-June 17, 2021, Vladimir, Viha, Carlos, Rishika, $855.0, 179, 86, 94
-June 19, 2021, Vladimir, Viha, Luca, Rishika, $856.5, 180, 87, 93
-June 20, 2021, Viha, Luca, Emmanuel, Rishika, $858.0, 181, 88, 92
-June 21, 2021, Viha, Emmanuel, Jesus, Rishika, $855.0, 181, 88, 91
-June 22, 2021, Viha, Emmanuel, Jesus, Rishika, $855.0, 181, 88, 91
-June 23, 2021, Viha, Jesus, Vladimir, Rishika, $862.5, 181, 91, 91
-June 24, 2021, Viha, Jesus, Vladimir, Rishika, $862.0, 181, 92, 90
-June 26, 2021, Viha, Jesus, Songting, Rishika, $850.5, 182, 89, 88
-June 27, 2021, Jesus, Songting, Viha, Rishika, $859.5, 184, 91, 88
-June 28, 2021, Jesus, Songting, Vladimir, Rishika, $861.0, 185, 92, 87
-June 29, 2021, Songting, Vladimir, Emmanuel, Rishika, $861.5, 185, 91, 88
-June 30, 2021, Songting, Vladimir, Emmanuel, Rishika, $866.5, 185, 93, 88
-July 01, 2021, Songting, Vladimir, Emmanuel, Rishika, $875.5, 185, 93, 91
-July 03, 2021, Vladimir, Emmanuel, Carlos, Rishika, $877.5, 185, 95, 90
-July 04, 2021, Vladimir, Carlos, Jesus, Rishika, $874.0, 186, 94, 89
-July 05, 2021, Vladimir, Carlos, Jesus, Rishika, $876.0, 187, 94, 89
-July 06, 2021, Vladimir, Jesus, Luca, Rishika, $880.5, 188, 95, 89
-July 07, 2021, Jesus, Luca, Igor, Rishika, $882.5, 189, 95, 89
-July 08, 2021, Luca, Songting, Emmanuel, Caroline, $889.5, 190, 97, 89
-July 10, 2021, Luca, Songting, Emmanuel, Caroline, $897.5, 190, 99, 90
-July 11, 2021, Luca, Emmanuel, Viha, Rishika, $882.5, 190, 93, 90
-July 12, 2021, Luca, Emmanuel, Carlos, Rishika, $888.0, 191, 92, 92
-July 13, 2021, Luca, Carlos, Vladimir, Rishika, $897.5, 192, 95, 92
-July 14, 2021, Luca, Carlos, Jesus, Rishika, $895.0, 191, 96, 91
-July 15, 2021, Luca, Carlos, Jesus, Rishika, $894.0, 192, 96, 90
-July 17, 2021, Carlos, Jesus, Viha, Rishika, $885.0, 191, 92, 91
-July 18, 2021, Carlos, Jesus, Viha, Rishika, $887.5, 192, 91, 92
-July 19, 2021, Carlos, Jesus, Viha, Rishika, $891.5, 193, 93, 91
-July 20, 2021, Carlos, Jesus, Luca, Rishika, $894.5, 193, 93, 92
-July 21, 2021, Carlos, Jesus, Luca, Rishika, $886.0, 195, 88, 92
-July 22, 2021, Jesus, Luca, Songting, Rishika, $884.0, 195, 86, 93
-July 24, 2021, Jesus, Luca, Songting, Rishika, $881.0, 195, 86, 92
-July 25, 2021, Luca, Songting, Viha, Rishika, $877.0, 196, 86, 90
-July 26, 2021, Songting, Vladimir, Luca, Rishika, $878.0, 198, 86, 89
-July 27, 2021, Songting, Luca, Emmanuel, Rishika, $880.0, 199, 86, 89
-July 28, 2021, Songting, Emmanuel, Igor, Rishika, $886.5, 199, 91, 87
-July 29, 2021, Songting, Igor, Viha, Rishika, $886.0, 200, 90, 87
-July 31, 2021, Songting, Igor, Viha, Rishika, $876.0, 199, 88, 86
-August 01, 2021, Songting, Viha, Emmanuel, Rishika, $883.5, 199, 91, 86
-August 02, 2021, Viha, Emmanuel, Jesus, Rishika, $890.5, 200, 93, 86
-August 03, 2021, Viha, Emmanuel, Jesus, Rishika, $888.5, 201, 89, 88
-August 04, 2021, Viha, Jesus, Luca, Rishika, $891.0, 202, 88, 89
-August 05, 2021, Viha, Jesus, Luca, Caroline, $893.5, 203, 87, 90
-August 07, 2021, Viha, Luca, Emmanuel, Caroline, $898.0, 204, 88, 90
-August 08, 2021, Viha, Luca, Emmanuel, Caroline, $897.0, 205, 88, 89
-August 09, 2021, Viha, Emmanuel, Songting, Caroline, $896.5, 206, 87, 89
-August 10, 2021, Viha, Emmanuel, Songting, Caroline, $902.5, 206, 87, 91
-August 11, 2021, Emmanuel, Songting, Luca, Caroline, $896.5, 207, 85, 90
-August 12, 2021, Emmanuel, Songting, Luca, Caroline, $896.5, 207, 85, 90
-August 14, 2021, Emmanuel, Luca, Carlos, Rishika, $896.5, 208, 83, 91
-August 15, 2021, Emmanuel, Luca, Carlos, Rishika, $890.5, 209, 81, 90
-August 16, 2021, Emmanuel, Luca, Igor, Caroline, $895.5, 210, 81, 91
-August 17, 2021, Luca, Songting, Viha, Caroline, $897.0, 212, 80, 91
-August 18, 2021, Luca, Viha, Songting, Caroline, $902.0, 212, 82, 91
-August 19, 2021, Luca, Viha, Songting, Caroline, $902.5, 212, 81, 92
-August 21, 2021, Luca, Viha, Songting, Caroline, $911.0, 212, 82, 94
-August 22, 2021, Viha, Songting, Vladimir, Caroline, $908.5, 213, 79, 95
-August 23, 2021, Viha, Songting, Emmanuel, Caroline, $920.0, 215, 82, 95
-August 24, 2021, Songting, Emmanuel, Luca, Caroline, $916.5, 216, 81, 94
-August 25, 2021, Songting, Luca, Vladimir, Caroline, $920.5, 217, 83, 93
-August 26, 2021, Luca, Songting, Jesus, Caroline, $923.5, 217, 83, 94
-August 28, 2021, Luca, Songting, Jesus, Caroline, $926.5, 217, 83, 95
-August 29, 2021, Luca, Songting, Jesus, Caroline, $928.0, 218, 84, 94
-August 30, 2021, Songting, Jesus, Luca, Caroline, $935.5, 219, 85, 95
-August 31, 2021, Songting, Luca, Vladimir, Caroline, $942.5, 220, 87, 95
-September 01, 2021, Songting, Luca, Vladimir, Caroline, $944.5, 221, 87, 95
-September 02, 2021, Luca, Viha, Igor, Rishika, $934.0, 222, 82, 95
-September 04, 2021, Luca, Viha, Igor, Rishika, $946.5, 223, 85, 96
-September 05, 2021, Viha, Emmanuel, Luca, Rishika, $948.5, 224, 85, 96
-September 06, 2021, Emmanuel, Luca, Jesus, Rishika, $948.5, 224, 85, 96
-September 07, 2021, Emmanuel, Luca, Jesus, Rishika, $947.5, 225, 85, 95
-September 08, 2021, Emmanuel, Jesus, Songting, Rishika, $949.5, 225, 87, 94
-September 09, 2021, Emmanuel, Songting, Carlos, Rishika, $956.0, 225, 86, 97
-September 11, 2021, Emmanuel, Carlos, Songting, Rishika, $958.0, 226, 86, 97
-September 12, 2021, Carlos, Emmanuel, Songting, Rishika, $970.0, 227, 90, 97
-September 13, 2021, Emmanuel, Luca, Jesus, Rishika, $965.0, 227, 88, 97
-September 14, 2021, Emmanuel, Luca, Jesus, Caroline, $967.5, 227, 89, 97
-September 15, 2021, Emmanuel, Luca, Jesus, Caroline, $973.5, 227, 89, 99
-September 16, 2021, Luca, Jesus, Igor, Rishika, $981.0, 228, 90, 100
-September 18, 2021, Jesus, Igor, Viha, Rishika, $988.5, 229, 91, 101
-September 19, 2021, Jesus, Igor, Songting, Rishika, $984.0, 230, 92, 98
-September 20, 2021, Jesus, Igor, Emmanuel, Rishika, $982.0, 230, 90, 99
-September 21, 2021, Jesus, Igor, Emmanuel, Caroline, $987.0, 230, 92, 99
-September 22, 2021, Igor, Emmanuel, Carlos, Caroline, $989.0, 231, 92, 99
-September 23, 2021, Igor, Emmanuel, Carlos, Caroline, $988.5, 232, 91, 99
-September 25, 2021, Emmanuel, Vladimir, Viha, Rishika, $981.0, 232, 88, 99
-September 26, 2021, Emmanuel, Vladimir, Viha, Rishika, $973.0, 232, 86, 98
-September 27, 2021, Emmanuel, Viha, Carlos, Rishika, $965.0, 232, 84, 97
-September 28, 2021, Emmanuel, Carlos, Jesus, Rishika, $959.5, 233, 81, 97
-September 29, 2021, Carlos, Jesus, Songting, Caroline, $962.5, 233, 81, 98
-September 30, 2021, Carlos, Jesus, Songting, Rishika, $970.5, 233, 83, 99
-October 02, 2021, Carlos, Jesus, Songting, Rishika, $962.0, 234, 80, 98
-October 03, 2021, Carlos, Jesus, Songting, Caroline, $957.0, 234, 78, 98
-October 04, 2021, Carlos, Jesus, Songting, Caroline, $957.5, 234, 77, 99
-October 05, 2021, Jesus, Songting, Vladimir, Caroline, $960.5, 234, 77, 100
-October 06, 2021, Jesus, Songting, Vladimir, Caroline, $968.0, 234, 80, 100
-October 07, 2021, Jesus, Songting, Vladimir, Caroline, $967.0, 235, 80, 99
-October 09, 2021, Jesus, Vladimir, Viha, Caroline, $965.0, 235, 78, 100
-October 10, 2021, Jesus, Viha, Carlos, Caroline, $969.5, 236, 79, 100
-October 11, 2021, Jesus, Viha, Carlos, Caroline, $971.5, 237, 79, 100
-October 12, 2021, Viha, Carlos, Luca, Caroline, $982.0, 237, 82, 101
-October 13, 2021, Viha, Carlos, Luca, Caroline, $987.0, 238, 82, 102
-October 14, 2021, Viha, Carlos, Luca, Caroline, $981.5, 238, 81, 101
-October 16, 2021, Viha, Carlos, Songting, Caroline, $986.0, 239, 82, 101
-October 17, 2021, Carlos, Songting, Vladimir, Caroline, $975.0, 239, 80, 99
-October 18, 2021, Carlos, Songting, Vladimir, Caroline, $979.5, 240, 81, 99
-October 19, 2021, Carlos, Songting, Luca, Caroline, $982.5, 240, 81, 100
-October 20, 2021, Carlos, Songting, Luca, Caroline, $974.5, 240, 79, 99
-October 21, 2021, Songting, Luca, Jesus, Caroline, $982.0, 240, 82, 99
-October 23, 2021, Songting, Luca, Jesus, Caroline, $978.5, 241, 81, 98
-October 24, 2021, Songting, Luca, Vladimir, Caroline, $980.0, 242, 82, 97
-October 25, 2021, Songting, Luca, Vladimir, Caroline, $971.5, 242, 81, 95
-October 26, 2021, Songting, Vladimir, Jesus, Caroline, $971.0, 242, 82, 94
-October 27, 2021, Songting, Vladimir, Luca, Caroline, $967.5, 243, 81, 93
-October 28, 2021, Songting, Luca, Emmanuel, Caroline, $964.0, 244, 80, 92
-October 30, 2021, Songting, Luca, Jesus, Caroline, $964.5, 245, 77, 94
-October 31, 2021, Songting, Jesus, Luca, Rishika, $974.5, 246, 79, 95
-November 01, 2021, Songting, Jesus, Luca, Rishika, $979.5, 246, 81, 95
-November 02, 2021, Songting, Luca, Jesus, Rishika, $983.0, 246, 80, 97
-November 03, 2021, Songting, Luca, Jesus, Rishika, $985.0, 246, 82, 96
-November 04, 2021, Songting, Luca, Jesus, Rishika, $991.5, 247, 85, 95
-November 06, 2021, Luca, Jesus, Emmanuel, Rishika, $988.0, 247, 86, 93
-November 07, 2021, Luca, Jesus, Emmanuel, Rishika, $986.0, 247, 84, 94
-November 08, 2021, Luca, Jesus, Emmanuel, Caroline, $994.0, 247, 86, 95
-November 09, 2021, Jesus, Emmanuel, Vladimir, Caroline, $986.0, 247, 84, 94
-November 10, 2021, Emmanuel, Viha, Jesus, Caroline, $983.0, 247, 84, 93
-November 11, 2021, Emmanuel, Jesus, Vladimir, Caroline, $993.0, 247, 88, 93
-November 13, 2021, Emmanuel, Jesus, Viha, Caroline, $991.5, 247, 85, 95
-November 14, 2021, Emmanuel, Viha, Carlos, Caroline, $1003.5, 248, 89, 95
-November 15, 2021, Emmanuel, Viha, Carlos, Caroline, $1010.5, 249, 91, 95
-November 16, 2021, Viha, Carlos, Jesus, Caroline, $1018.5, 249, 93, 96
-November 17, 2021, Carlos, Jesus, Emmanuel, Caroline, $1025.0, 250, 96, 95
-November 18, 2021, Carlos, Jesus, Emmanuel, Caroline, $1027.5, 251, 95, 96
-November 20, 2021, Carlos, Emmanuel, Luca, Caroline, $1023.5, 251, 97, 93
-November 21, 2021, Carlos, Emmanuel, Luca, Caroline, $1026.0, 251, 98, 93
-November 22, 2021, Emmanuel, Vladimir, Songting, Caroline, $1036.0, 252, 100, 94
-November 23, 2021, Vladimir, Songting, Carlos, Caroline, $1022.5, 253, 95, 93
-November 24, 2021, Vladimir, Carlos, Jesus, Caroline, $1028.0, 254, 94, 95
-November 25, 2021, Vladimir, Carlos, Jesus, Caroline, $1036.5, 255, 93, 98
-November 27, 2021, Vladimir, Carlos, Jesus, Caroline, $1044.0, 256, 94, 99
-November 28, 2021, Carlos, Jesus, Viha, Caroline, $1045.5, 257, 95, 98
-November 29, 2021, Carlos, Viha, Luca, Caroline, $1045.0, 258, 94, 98
-November 30, 2021, Viha, Luca, Igor, Caroline, $1036.5, 258, 93, 96
-December 01, 2021, Viha, Igor, Songting, Caroline, $1039.0, 258, 94, 96
-December 02, 2021, Igor, Songting, Viha, Rishika, $1036.0, 258, 94, 95
-December 04, 2021, Igor, Songting, Viha, Caroline, $1039.0, 258, 94, 96
-December 05, 2021, Igor, Songting, Viha, Caroline, $1028.0, 258, 92, 94
-December 06, 2021, Igor, Viha, Carlos, Caroline, $1037.5, 259, 95, 94
-December 07, 2021, Igor, Carlos, Vladimir, Rishika, $1034.5, 260, 93, 94
-December 08, 2021, Igor, Carlos, Luca, Caroline, $1038.0, 260, 92, 96
-December 09, 2021, Carlos, Luca, Songting, Caroline, $1038.5, 261, 89, 98
-December 11, 2021, Carlos, Luca, Songting, Rishika, $1048.5, 262, 91, 99
-December 12, 2021, Luca, Songting, Carlos, Rishika, $1047.5, 263, 91, 98
-December 13, 2021, Songting, Carlos, Jesus, Rishika, $1054.0, 264, 94, 97
-December 14, 2021, Songting, Jesus, Emmanuel, Rishika, $1053.5, 264, 95, 96
-December 15, 2021, Songting, Emmanuel, Luca, Caroline, $1055.0, 265, 96, 95
-December 16, 2021, Songting, Emmanuel, Jesus, Caroline, $1055.5, 265, 95, 96
-December 18, 2021, Emmanuel, Jesus, Igor, Caroline, $1052.5, 265, 95, 95
-December 19, 2021, Jesus, Igor, Songting, Caroline, $1054.0, 266, 96, 94
-December 20, 2021, Jesus, Igor, Songting, Caroline, $1054.5, 266, 95, 95
-December 21, 2021, Igor, Emmanuel, Vladimir, Caroline, $1051.0, 266, 96, 93
-December 22, 2021, Igor, Emmanuel, Vladimir, Caroline, $1047.5, 266, 97, 91
-December 23, 2021, Emmanuel, Vladimir, Songting, Caroline, $1045.0, 267, 94, 92
-December 25, 2021, Vladimir, Songting, Jesus, Caroline, $1054.5, 268, 97, 92
-December 26, 2021, Vladimir, Songting, Jesus, Caroline, $1068.0, 268, 100, 94
-December 27, 2021, Vladimir, Jesus, Viha, Caroline, $1067.0, 269, 100, 93
-December 28, 2021, Vladimir, Jesus, Viha, Caroline, $1064.5, 268, 101, 92
-December 29, 2021, Vladimir, Jesus, Viha, Caroline, $1067.0, 269, 100, 93
-December 30, 2021, Vladimir, Jesus, Emmanuel, Caroline, $1077.0, 270, 102, 94
-January 01, 2022, Vladimir, Emmanuel, Carlos, Caroline, $1083.0, 270, 102, 96
-January 02, 2022, Vladimir, Emmanuel, Carlos, Caroline, $1090.0, 271, 104, 96
-January 03, 2022, Vladimir, Carlos, Jesus, Caroline, $1092.0, 272, 104, 96
-January 04, 2022, Vladimir, Carlos, Jesus, Caroline, $1089.5, 272, 103, 96
-January 05, 2022, Vladimir, Carlos, Jesus, Caroline, $1076.5, 272, 99, 95
-January 06, 2022, Vladimir, Carlos, Jesus, Caroline, $1080.5, 273, 101, 94
-January 08, 2022, Vladimir, Carlos, Jesus, Caroline, $1082.0, 274, 102, 93
-January 09, 2022, Vladimir, Carlos, Jesus, Caroline, $1076.5, 274, 101, 92
-January 10, 2022, Carlos, Jesus, Luca, Caroline, $1076.5, 275, 99, 93
-January 11, 2022, Carlos, Jesus, Luca, Caroline, $1072.0, 275, 96, 94
-January 12, 2022, Carlos, Jesus, Luca, Caroline, $1073.5, 276, 97, 93
-January 13, 2022, Carlos, Jesus, Songting, Caroline, $1078.5, 277, 97, 94
-January 15, 2022, Jesus, Carlos, Igor, Caroline, $1075.5, 278, 95, 94
-January 16, 2022, Carlos, Songting, Igor, Rishika, $1083.0, 279, 96, 95
-January 17, 2022, Songting, Igor, Viha, Caroline, $1072.5, 278, 95, 93
-January 18, 2022, Igor, Viha, Carlos, Rishika, $1077.0, 279, 96, 93
-January 19, 2022, Igor, Viha, Carlos, Rishika, $1069.5, 279, 93, 93
-January 20, 2022, Igor, Viha, Carlos, Rishika, $1064.0, 280, 90, 93
-January 22, 2022, Igor, Viha, Songting, Rishika, $1074.5, 281, 91, 95
-January 23, 2022, Igor, Viha, Songting, Rishika, $1079.0, 282, 92, 95
-January 24, 2022, Igor, Viha, Songting, Rishika, $1087.0, 282, 94, 96
-January 25, 2022, Viha, Emmanuel, Songting, Rishika, $1086.0, 283, 94, 95
-January 26, 2022, Viha, Emmanuel, Songting, Rishika, $1084.0, 283, 92, 96
-January 27, 2022, Emmanuel, Songting, Viha, Rishika, $1084.0, 283, 92, 96
-January 29, 2022, Songting, Emmanuel, Jesus, Rishika, $1068.0, 284, 86, 95
-January 30, 2022, Songting, Emmanuel, Jesus, Rishika, $1065.0, 284, 86, 94
-January 31, 2022, Emmanuel, Jesus, Viha, Rishika, $1061.5, 285, 85, 93
-February 01, 2022, Emmanuel, Jesus, Viha, Rishika, $1053.5, 286, 81, 93
-February 02, 2022, Jesus, Viha, Songting, Rishika, $1060.5, 287, 83, 93
-February 03, 2022, Viha, Luca, Igor, Rishika, $1060.0, 288, 82, 93
-February 05, 2022, Viha, Luca, Igor, Rishika, $1063.0, 288, 82, 94
-February 06, 2022, Viha, Luca, Igor, Rishika, $1063.0, 289, 80, 95
-February 07, 2022, Viha, Luca, Igor, Rishika, $1068.0, 290, 80, 96
-February 08, 2022, Viha, Luca, Igor, Rishika, $1063.5, 291, 75, 98
-February 09, 2022, Luca, Igor, Songting, Rishika, $1055.0, 292, 72, 97
-February 10, 2022, Luca, Songting, Carlos, Rishika, $1062.0, 293, 74, 97
-February 12, 2022, Songting, Carlos, Igor, Caroline, $1067.5, 293, 75, 98
-February 13, 2022, Songting, Carlos, Luca, Rishika, $1069.5, 294, 75, 98
-February 14, 2022, Carlos, Luca, Jesus, Rishika, $1079.5, 295, 77, 99
-February 15, 2022, Carlos, Luca, Jesus, Rishika, $1091.5, 296, 81, 99
-February 16, 2022, Luca, Jesus, Igor, Rishika, $1091.5, 296, 81, 99
-February 17, 2022, Jesus, Igor, Vladimir, Rishika, $1094.0, 296, 82, 99
-February 19, 2022, Jesus, Igor, Vladimir, Rishika, $1099.5, 296, 83, 100
-February 20, 2022, Jesus, Vladimir, Carlos, Caroline, $1094.0, 297, 80, 100
-February 21, 2022, Jesus, Vladimir, Carlos, Caroline, $1104.5, 297, 83, 101
-February 22, 2022, Jesus, Carlos, Igor, Caroline, $1109.5, 297, 85, 101
-February 23, 2022, Jesus, Carlos, Vladimir, Caroline, $1104.5, 297, 83, 101
-February 24, 2022, Carlos, Vladimir, Viha, Caroline, $1096.5, 298, 79, 101
-February 26, 2022, Carlos, Vladimir, Viha, Caroline, $1099.0, 299, 78, 102
-February 27, 2022, Carlos, Vladimir, Songting, Caroline, $1097.0, 299, 76, 103
-February 28, 2022, Vladimir, Igor, Viha, Caroline, $1098.0, 299, 74, 105
-March 01, 2022, Vladimir, Viha, Luca, Caroline, $1105.5, 299, 77, 105
-March 02, 2022, Viha, Luca, Carlos, Caroline, $1113.0, 300, 78, 106
-March 03, 2022, Viha, Luca, Carlos, Caroline, $1118.0, 301, 78, 107
-March 05, 2022, Viha, Luca, Carlos, Caroline, $1107.5, 301, 75, 106
-March 06, 2022, Viha, Luca, Carlos, Caroline, $1114.5, 302, 77, 106
-March 07, 2022, Viha, Luca, Carlos, Rishika, $1114.0, 303, 76, 106
-March 08, 2022, Viha, Carlos, Vladimir, Rishika, $1118.5, 304, 77, 106
-March 09, 2022, Carlos, Igor, Vladimir, Rishika, $1115.5, 305, 75, 106
-March 10, 2022, Carlos, Igor, Viha, Rishika, $1115.0, 306, 74, 106
 
 LOCATION: Lombard
 Rent: $3200
