@@ -1,0 +1,8 @@
+/* Date, total sales, # of blueberry sold, # of ..., # of ..., Manager name, employee names, was today a holiday */
+
+HINSDALE LOCATION:
+(January 12th, 2023, $224.33, 12, 9, 33, Susie, Joe, George, Gio, Yes)
+(January 13th, 2023, $258.33, 12, 9, 33, Susie, Joe, George, Gio, Yes)
+(January 14th, 2023, $254.33, 12, 9, 33, Helen, Joe, George, Gio, Yes)
+(January 15th, 2023, $324.33, 12, 9, 33, Susie, Joe, George, Gio, Yes)
+(January 16th, 2023, $264.33, 12, 9, 33, Susie, Joe, George, Gio, Yes)

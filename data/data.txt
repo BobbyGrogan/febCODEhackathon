@@ -1,0 +1,1580 @@
+LOCATION: Hinsdale
+Rent: $4300
+
+March 13, 2021, Enris, Taiyo, Sabiha, Cole, $481.5, 76, 43, 74
+March 14, 2021, Enris, Taiyo, Sabiha, Cole, $483.0, 80, 44, 71
+March 15, 2021, Enris, Taiyo, Sabiha, Jason, $479.5, 87, 43, 66
+March 16, 2021, Taiyo, Sabiha, Enris, Jason, $504.0, 92, 44, 70
+March 17, 2021, Taiyo, Sabiha, Enris, Jason, $509.0, 99, 44, 67
+March 18, 2021, Taiyo, Sabiha, Enris, Jason, $509.5, 102, 43, 66
+March 20, 2021, Taiyo, Sabiha, Enris, Jason, $517.0, 103, 44, 67
+March 21, 2021, Taiyo, Enris, Shreya, Jason, $546.0, 110, 44, 72
+March 22, 2021, Taiyo, Enris, Shreya, Jason, $556.0, 115, 44, 72
+March 23, 2021, Taiyo, Enris, Shreya, Jason, $555.0, 122, 44, 67
+March 24, 2021, Enris, Taiyo, Robert, Jason, $560.5, 126, 43, 67
+March 25, 2021, Taiyo, Robert, Maurizio, Jason, $584.5, 130, 47, 69
+March 27, 2021, Taiyo, Robert, Maurizio, Cole, $616.0, 133, 56, 70
+March 28, 2021, Taiyo, Maurizio, Sabiha, Cole, $648.0, 138, 60, 74
+March 29, 2021, Taiyo, Maurizio, Sabiha, Cole, $676.0, 140, 66, 77
+March 30, 2021, Taiyo, Maurizio, Shreya, Jason, $720.0, 144, 72, 84
+March 31, 2021, Taiyo, Shreya, Maurizio, Jason, $758.0, 151, 78, 87
+April 01, 2021, Shreya, Maurizio, Evelyn, Jason, $761.5, 148, 83, 86
+April 03, 2021, Shreya, Evelyn, Sabiha, Jason, $774.0, 147, 84, 90
+April 04, 2021, Shreya, Sabiha, Enris, Jason, $788.0, 145, 84, 96
+April 05, 2021, Shreya, Enris, Robert, Jason, $786.0, 144, 84, 96
+April 06, 2021, Shreya, Enris, Robert, Jason, $779.0, 142, 84, 95
+April 07, 2021, Enris, Maurizio, Taiyo, Jason, $813.0, 148, 88, 99
+April 08, 2021, Enris, Taiyo, Sabiha, Jason, $827.5, 152, 87, 102
+April 10, 2021, Taiyo, Sabiha, Evelyn, Jason, $839.0, 156, 86, 104
+April 11, 2021, Taiyo, Sabiha, Evelyn, Jason, $861.0, 158, 86, 110
+April 12, 2021, Sabiha, Evelyn, Maurizio, Jason, $866.0, 156, 92, 108
+April 13, 2021, Sabiha, Evelyn, Robert, Jason, $859.0, 154, 92, 107
+April 14, 2021, Evelyn, Robert, Enris, Jason, $861.5, 155, 91, 108
+April 15, 2021, Robert, Evelyn, Maurizio, Jason, $878.0, 154, 96, 110
+April 17, 2021, Evelyn, Maurizio, Shreya, Jason, $878.5, 152, 99, 109
+April 18, 2021, Maurizio, Shreya, Taiyo, Cole, $894.0, 157, 106, 105
+April 19, 2021, Maurizio, Shreya, Taiyo, Cole, $897.0, 161, 110, 100
+April 20, 2021, Shreya, Taiyo, Sabiha, Cole, $894.5, 164, 109, 98
+April 21, 2021, Shreya, Taiyo, Robert, Cole, $910.0, 164, 108, 104
+April 22, 2021, Shreya, Taiyo, Robert, Cole, $919.5, 164, 107, 108
+April 24, 2021, Taiyo, Robert, Enris, Cole, $935.5, 173, 105, 109
+April 25, 2021, Robert, Maurizio, Taiyo, Cole, $944.5, 180, 109, 104
+April 26, 2021, Robert, Maurizio, Sabiha, Cole, $971.5, 178, 113, 111
+April 27, 2021, Robert, Maurizio, Sabiha, Cole, $985.0, 176, 120, 111
+April 28, 2021, Maurizio, Sabiha, Robert, Cole, $1001.5, 175, 125, 113
+April 29, 2021, Maurizio, Sabiha, Robert, Cole, $1015.5, 173, 131, 114
+May 01, 2021, Maurizio, Sabiha, Robert, Cole, $1006.0, 172, 134, 109
+May 02, 2021, Sabiha, Robert, Evelyn, Cole, $1000.5, 172, 133, 108
+May 03, 2021, Sabiha, Robert, Evelyn, Cole, $1016.0, 169, 132, 116
+May 04, 2021, Sabiha, Robert, Evelyn, Cole, $1008.0, 168, 132, 114
+May 05, 2021, Sabiha, Evelyn, Taiyo, Cole, $1011.5, 168, 131, 116
+May 06, 2021, Sabiha, Evelyn, Robert, Jason, $1018.0, 168, 130, 119
+May 08, 2021, Sabiha, Evelyn, Shreya, Jason, $1008.5, 169, 129, 116
+May 09, 2021, Sabiha, Shreya, Taiyo, Jason, $1032.0, 173, 128, 122
+May 10, 2021, Sabiha, Shreya, Taiyo, Jason, $1018.5, 175, 127, 117
+May 11, 2021, Sabiha, Shreya, Taiyo, Jason, $1023.5, 183, 125, 115
+May 12, 2021, Shreya, Taiyo, Enris, Cole, $1037.0, 188, 124, 117
+May 13, 2021, Taiyo, Enris, Robert, Jason, $1042.0, 190, 122, 119
+May 15, 2021, Taiyo, Enris, Robert, Jason, $1053.5, 200, 121, 117
+May 16, 2021, Taiyo, Enris, Robert, Jason, $1060.5, 205, 121, 116
+May 17, 2021, Enris, Robert, Shreya, Jason, $1046.5, 202, 119, 115
+May 18, 2021, Robert, Enris, Evelyn, Jason, $1044.0, 202, 118, 115
+May 19, 2021, Robert, Evelyn, Shreya, Jason, $1031.5, 200, 117, 113
+May 20, 2021, Evelyn, Shreya, Sabiha, Jason, $1027.0, 199, 116, 113
+May 22, 2021, Evelyn, Shreya, Sabiha, Cole, $1043.0, 198, 116, 119
+May 23, 2021, Shreya, Enris, Robert, Cole, $1028.5, 195, 115, 117
+May 24, 2021, Shreya, Enris, Robert, Cole, $1015.0, 194, 114, 114
+May 25, 2021, Shreya, Robert, Evelyn, Cole, $1014.0, 192, 114, 115
+May 26, 2021, Robert, Evelyn, Enris, Cole, $1001.0, 190, 114, 112
+May 27, 2021, Evelyn, Enris, Robert, Cole, $990.0, 189, 114, 109
+May 29, 2021, Enris, Robert, Shreya, Jason, $967.0, 188, 114, 102
+May 30, 2021, Enris, Shreya, Sabiha, Jason, $959.5, 187, 113, 101
+May 31, 2021, Enris, Sabiha, Taiyo, Jason, $963.0, 190, 112, 101
+June 01, 2021, Sabiha, Taiyo, Shreya, Jason, $971.5, 191, 111, 104
+June 02, 2021, Taiyo, Shreya, Robert, Jason, $975.5, 193, 111, 104
+June 03, 2021, Shreya, Robert, Taiyo, Jason, $976.5, 195, 111, 103
+June 05, 2021, Shreya, Robert, Maurizio, Cole, $977.5, 194, 117, 99
+June 06, 2021, Shreya, Maurizio, Enris, Cole, $977.5, 193, 119, 98
+June 07, 2021, Shreya, Maurizio, Enris, Cole, $999.5, 192, 125, 101
+June 08, 2021, Shreya, Maurizio, Enris, Cole, $997.0, 189, 130, 98
+June 09, 2021, Shreya, Enris, Sabiha, Cole, $1005.0, 188, 128, 103
+June 10, 2021, Shreya, Enris, Sabiha, Cole, $1000.0, 188, 126, 103
+June 12, 2021, Shreya, Sabiha, Enris, Jason, $1000.5, 188, 125, 104
+June 13, 2021, Shreya, Enris, Sabiha, Jason, $990.5, 189, 125, 100
+June 14, 2021, Shreya, Sabiha, Evelyn, Jason, $969.0, 187, 124, 95
+June 15, 2021, Sabiha, Evelyn, Maurizio, Jason, $980.5, 186, 127, 97
+June 16, 2021, Evelyn, Sabiha, Enris, Jason, $991.5, 184, 127, 102
+June 17, 2021, Evelyn, Enris, Shreya, Jason, $986.0, 184, 126, 101
+June 19, 2021, Enris, Shreya, Evelyn, Jason, $993.5, 183, 125, 105
+June 20, 2021, Enris, Evelyn, Taiyo, Jason, $989.0, 185, 124, 103
+June 21, 2021, Enris, Evelyn, Taiyo, Jason, $984.5, 190, 123, 99
+June 22, 2021, Enris, Evelyn, Maurizio, Cole, $998.5, 189, 127, 101
+June 23, 2021, Enris, Maurizio, Robert, Cole, $1004.0, 188, 130, 101
+June 24, 2021, Maurizio, Robert, Enris, Cole, $1012.5, 187, 133, 102
+June 26, 2021, Robert, Shreya, Sabiha, Cole, $1015.0, 185, 132, 105
+June 27, 2021, Shreya, Enris, Maurizio, Cole, $1029.0, 182, 140, 105
+June 28, 2021, Enris, Maurizio, Robert, Cole, $1036.5, 180, 141, 108
+June 29, 2021, Maurizio, Robert, Enris, Cole, $1057.0, 180, 148, 109
+June 30, 2021, Robert, Enris, Maurizio, Cole, $1072.0, 179, 150, 113
+July 01, 2021, Robert, Enris, Maurizio, Cole, $1072.5, 177, 153, 112
+July 03, 2021, Robert, Enris, Maurizio, Cole, $1064.5, 176, 153, 110
+July 04, 2021, Enris, Sabiha, Shreya, Cole, $1066.0, 175, 152, 112
+July 05, 2021, Enris, Sabiha, Shreya, Cole, $1060.5, 172, 151, 113
+July 06, 2021, Enris, Sabiha, Shreya, Cole, $1055.0, 169, 150, 114
+July 07, 2021, Enris, Sabiha, Taiyo, Cole, $1066.0, 173, 150, 115
+July 08, 2021, Sabiha, Robert, Enris, Cole, $1068.0, 172, 148, 118
+July 10, 2021, Sabiha, Enris, Robert, Cole, $1068.5, 172, 147, 119
+July 11, 2021, Sabiha, Enris, Robert, Cole, $1050.5, 170, 145, 116
+July 12, 2021, Sabiha, Enris, Robert, Jason, $1022.0, 165, 140, 114
+July 13, 2021, Sabiha, Enris, Robert, Jason, $1023.5, 164, 139, 116
+July 14, 2021, Enris, Robert, Taiyo, Jason, $1033.5, 166, 139, 118
+July 15, 2021, Enris, Taiyo, Shreya, Jason, $1063.0, 173, 138, 124
+July 17, 2021, Taiyo, Shreya, Evelyn, Jason, $1084.5, 176, 137, 130
+July 18, 2021, Taiyo, Shreya, Evelyn, Cole, $1057.5, 173, 131, 128
+July 19, 2021, Taiyo, Evelyn, Shreya, Cole, $1056.0, 175, 130, 127
+July 20, 2021, Taiyo, Shreya, Evelyn, Jason, $1056.5, 178, 129, 126
+July 21, 2021, Shreya, Taiyo, Maurizio, Jason, $1079.0, 183, 134, 126
+July 22, 2021, Shreya, Taiyo, Sabiha, Jason, $1093.0, 187, 134, 128
+July 24, 2021, Taiyo, Enris, Sabiha, Cole, $1092.5, 191, 133, 126
+July 25, 2021, Enris, Sabiha, Shreya, Cole, $1088.0, 190, 132, 126
+July 26, 2021, Enris, Shreya, Sabiha, Cole, $1067.0, 186, 128, 125
+July 27, 2021, Shreya, Sabiha, Maurizio, Jason, $1064.0, 183, 134, 121
+July 28, 2021, Shreya, Sabiha, Maurizio, Jason, $1056.0, 179, 134, 121
+July 29, 2021, Shreya, Sabiha, Maurizio, Cole, $1043.0, 174, 134, 120
+July 31, 2021, Shreya, Sabiha, Maurizio, Cole, $1058.0, 173, 136, 124
+August 01, 2021, Sabiha, Maurizio, Enris, Cole, $1073.5, 173, 141, 125
+August 02, 2021, Sabiha, Maurizio, Enris, Cole, $1078.0, 169, 140, 130
+August 03, 2021, Sabiha, Enris, Taiyo, Cole, $1074.5, 176, 139, 125
+August 04, 2021, Enris, Sabiha, Taiyo, Jason, $1083.0, 177, 138, 128
+August 05, 2021, Sabiha, Taiyo, Robert, Jason, $1070.5, 183, 133, 124
+August 07, 2021, Sabiha, Robert, Enris, Jason, $1062.5, 182, 133, 122
+August 08, 2021, Sabiha, Robert, Shreya, Jason, $1046.0, 181, 132, 118
+August 09, 2021, Sabiha, Robert, Shreya, Jason, $1033.5, 179, 131, 116
+August 10, 2021, Sabiha, Shreya, Taiyo, Jason, $1047.5, 186, 131, 116
+August 11, 2021, Sabiha, Shreya, Taiyo, Jason, $1046.5, 186, 127, 119
+August 12, 2021, Sabiha, Shreya, Taiyo, Jason, $1064.0, 193, 126, 121
+August 14, 2021, Sabiha, Taiyo, Robert, Jason, $1060.0, 194, 120, 124
+August 15, 2021, Sabiha, Robert, Taiyo, Jason, $1070.5, 198, 121, 124
+August 16, 2021, Sabiha, Robert, Taiyo, Jason, $1074.0, 204, 120, 122
+August 17, 2021, Robert, Taiyo, Sabiha, Cole, $1076.0, 205, 120, 122
+August 18, 2021, Robert, Sabiha, Maurizio, Cole, $1094.0, 203, 124, 126
+August 19, 2021, Sabiha, Maurizio, Enris, Jason, $1081.0, 202, 128, 119
+August 21, 2021, Maurizio, Enris, Sabiha, Jason, $1080.0, 199, 130, 119
+August 22, 2021, Enris, Sabiha, Taiyo, Jason, $1076.0, 202, 126, 119
+August 23, 2021, Enris, Taiyo, Maurizio, Cole, $1086.5, 204, 131, 117
+August 24, 2021, Taiyo, Maurizio, Robert, Cole, $1097.5, 207, 133, 117
+August 25, 2021, Maurizio, Sabiha, Robert, Cole, $1085.5, 201, 133, 117
+August 26, 2021, Maurizio, Sabiha, Taiyo, Cole, $1111.5, 203, 137, 121
+August 28, 2021, Maurizio, Sabiha, Taiyo, Cole, $1102.0, 202, 134, 121
+August 29, 2021, Maurizio, Sabiha, Taiyo, Cole, $1127.0, 205, 138, 124
+August 30, 2021, Maurizio, Taiyo, Shreya, Cole, $1124.5, 203, 141, 122
+August 31, 2021, Maurizio, Taiyo, Shreya, Jason, $1115.0, 208, 138, 118
+September 01, 2021, Maurizio, Shreya, Sabiha, Cole, $1121.0, 206, 142, 118
+September 02, 2021, Shreya, Sabiha, Maurizio, Jason, $1123.0, 200, 144, 121
+September 04, 2021, Sabiha, Taiyo, Robert, Jason, $1109.5, 201, 139, 120
+September 05, 2021, Sabiha, Taiyo, Robert, Cole, $1122.5, 206, 139, 121
+September 06, 2021, Taiyo, Robert, Enris, Jason, $1137.0, 210, 138, 124
+September 07, 2021, Robert, Enris, Evelyn, Jason, $1123.5, 206, 137, 123
+September 08, 2021, Robert, Enris, Evelyn, Jason, $1128.0, 205, 136, 126
+September 09, 2021, Enris, Shreya, Maurizio, Jason, $1148.0, 202, 144, 128
+September 11, 2021, Enris, Maurizio, Evelyn, Cole, $1133.5, 198, 145, 125
+September 12, 2021, Enris, Maurizio, Taiyo, Cole, $1134.0, 199, 142, 127
+September 13, 2021, Maurizio, Taiyo, Robert, Cole, $1168.0, 203, 150, 129
+September 14, 2021, Maurizio, Robert, Shreya, Jason, $1179.5, 202, 153, 131
+September 15, 2021, Robert, Shreya, Evelyn, Jason, $1167.5, 203, 151, 128
+September 16, 2021, Robert, Shreya, Evelyn, Jason, $1146.0, 201, 150, 123
+September 18, 2021, Robert, Shreya, Maurizio, Jason, $1150.5, 198, 153, 124
+September 19, 2021, Robert, Maurizio, Taiyo, Jason, $1162.0, 196, 158, 125
+September 20, 2021, Maurizio, Taiyo, Robert, Jason, $1172.0, 196, 162, 125
+September 21, 2021, Maurizio, Taiyo, Robert, Jason, $1203.5, 200, 169, 127
+September 22, 2021, Taiyo, Sabiha, Shreya, Jason, $1219.0, 203, 168, 131
+September 23, 2021, Taiyo, Shreya, Enris, Jason, $1212.0, 207, 162, 131
+September 25, 2021, Taiyo, Enris, Maurizio, Cole, $1202.5, 202, 161, 132
+September 26, 2021, Enris, Maurizio, Robert, Cole, $1223.0, 198, 170, 134
+September 27, 2021, Enris, Robert, Evelyn, Jason, $1208.5, 194, 165, 136
+September 28, 2021, Enris, Robert, Evelyn, Jason, $1215.5, 193, 165, 139
+September 29, 2021, Enris, Robert, Taiyo, Jason, $1214.0, 195, 164, 138
+September 30, 2021, Enris, Robert, Taiyo, Jason, $1206.5, 196, 159, 139
+October 02, 2021, Enris, Robert, Evelyn, Jason, $1198.0, 193, 158, 139
+October 03, 2021, Enris, Evelyn, Maurizio, Jason, $1198.0, 187, 158, 143
+October 04, 2021, Evelyn, Taiyo, Robert, Jason, $1204.5, 193, 157, 142
+October 05, 2021, Taiyo, Maurizio, Shreya, Jason, $1222.0, 199, 164, 138
+October 06, 2021, Taiyo, Shreya, Robert, Jason, $1242.5, 203, 163, 143
+October 07, 2021, Taiyo, Robert, Sabiha, Jason, $1248.0, 207, 162, 143
+October 09, 2021, Taiyo, Robert, Sabiha, Jason, $1276.0, 213, 160, 150
+October 10, 2021, Taiyo, Robert, Sabiha, Jason, $1289.5, 221, 159, 150
+October 11, 2021, Taiyo, Sabiha, Robert, Jason, $1294.0, 222, 154, 155
+October 12, 2021, Taiyo, Robert, Shreya, Cole, $1316.5, 230, 153, 158
+October 13, 2021, Taiyo, Shreya, Evelyn, Cole, $1311.0, 236, 152, 153
+October 14, 2021, Taiyo, Evelyn, Robert, Cole, $1311.0, 240, 150, 152
+October 16, 2021, Taiyo, Evelyn, Robert, Cole, $1294.0, 242, 144, 150
+October 17, 2021, Taiyo, Evelyn, Robert, Cole, $1296.5, 245, 139, 153
+October 18, 2021, Taiyo, Evelyn, Robert, Jason, $1316.5, 249, 139, 157
+October 19, 2021, Evelyn, Sabiha, Enris, Cole, $1293.0, 245, 134, 156
+October 20, 2021, Sabiha, Enris, Robert, Cole, $1285.5, 244, 133, 155
+October 21, 2021, Sabiha, Enris, Shreya, Cole, $1279.0, 242, 132, 155
+October 23, 2021, Sabiha, Enris, Shreya, Jason, $1265.5, 241, 131, 152
+October 24, 2021, Sabiha, Shreya, Maurizio, Jason, $1275.0, 240, 132, 155
+October 25, 2021, Shreya, Maurizio, Evelyn, Jason, $1281.5, 235, 135, 158
+October 26, 2021, Maurizio, Taiyo, Sabiha, Jason, $1301.0, 238, 138, 160
+October 27, 2021, Maurizio, Sabiha, Taiyo, Jason, $1327.5, 245, 143, 160
+October 28, 2021, Sabiha, Taiyo, Evelyn, Jason, $1328.5, 243, 139, 165
+October 30, 2021, Sabiha, Evelyn, Shreya, Jason, $1308.5, 238, 135, 165
+October 31, 2021, Sabiha, Evelyn, Shreya, Jason, $1303.0, 235, 134, 166
+November 01, 2021, Evelyn, Sabiha, Shreya, Jason, $1284.0, 232, 130, 165
+November 02, 2021, Evelyn, Shreya, Taiyo, Jason, $1258.5, 233, 125, 160
+November 03, 2021, Evelyn, Shreya, Taiyo, Jason, $1253.0, 236, 124, 157
+November 04, 2021, Evelyn, Shreya, Taiyo, Jason, $1252.5, 236, 119, 161
+November 06, 2021, Shreya, Evelyn, Maurizio, Jason, $1260.0, 235, 124, 160
+November 07, 2021, Shreya, Evelyn, Robert, Jason, $1256.5, 233, 123, 161
+November 08, 2021, Shreya, Robert, Sabiha, Jason, $1237.5, 228, 117, 163
+November 09, 2021, Robert, Shreya, Sabiha, Jason, $1245.5, 226, 117, 167
+November 10, 2021, Robert, Shreya, Taiyo, Jason, $1232.5, 226, 113, 166
+November 11, 2021, Robert, Taiyo, Shreya, Jason, $1224.5, 231, 113, 160
+November 13, 2021, Robert, Taiyo, Shreya, Jason, $1227.5, 231, 113, 161
+November 14, 2021, Robert, Taiyo, Enris, Jason, $1224.0, 235, 112, 158
+November 15, 2021, Robert, Taiyo, Sabiha, Jason, $1246.5, 243, 111, 161
+November 16, 2021, Robert, Sabiha, Shreya, Jason, $1224.5, 237, 107, 161
+November 17, 2021, Robert, Sabiha, Shreya, Jason, $1230.0, 235, 106, 165
+November 18, 2021, Robert, Sabiha, Shreya, Jason, $1237.5, 234, 105, 169
+November 20, 2021, Sabiha, Robert, Taiyo, Jason, $1233.5, 236, 103, 168
+November 21, 2021, Sabiha, Taiyo, Enris, Jason, $1220.0, 240, 98, 165
+November 22, 2021, Taiyo, Enris, Sabiha, Jason, $1225.5, 247, 97, 163
+November 23, 2021, Enris, Sabiha, Taiyo, Cole, $1198.0, 247, 92, 158
+November 24, 2021, Enris, Sabiha, Taiyo, Cole, $1207.5, 253, 91, 158
+November 25, 2021, Enris, Sabiha, Shreya, Cole, $1204.0, 250, 92, 158
+November 27, 2021, Enris, Sabiha, Shreya, Cole, $1201.0, 247, 92, 159
+November 28, 2021, Enris, Sabiha, Shreya, Cole, $1198.5, 246, 93, 158
+November 29, 2021, Sabiha, Shreya, Robert, Cole, $1178.5, 241, 89, 158
+November 30, 2021, Sabiha, Robert, Taiyo, Cole, $1173.5, 245, 85, 157
+December 01, 2021, Sabiha, Taiyo, Maurizio, Jason, $1211.0, 251, 94, 158
+December 02, 2021, Sabiha, Taiyo, Maurizio, Jason, $1221.5, 255, 101, 153
+December 04, 2021, Sabiha, Taiyo, Enris, Jason, $1240.0, 258, 100, 158
+December 05, 2021, Sabiha, Enris, Maurizio, Jason, $1254.0, 255, 108, 158
+December 06, 2021, Sabiha, Enris, Taiyo, Cole, $1240.5, 252, 105, 158
+December 07, 2021, Sabiha, Enris, Taiyo, Jason, $1256.5, 257, 105, 160
+December 08, 2021, Sabiha, Taiyo, Robert, Jason, $1236.5, 256, 99, 159
+December 09, 2021, Sabiha, Taiyo, Robert, Jason, $1239.5, 259, 99, 158
+December 11, 2021, Sabiha, Robert, Shreya, Jason, $1208.5, 253, 95, 155
+December 12, 2021, Sabiha, Robert, Shreya, Jason, $1195.5, 251, 95, 152
+December 13, 2021, Sabiha, Robert, Shreya, Jason, $1174.0, 245, 90, 153
+December 14, 2021, Sabiha, Shreya, Evelyn, Jason, $1163.0, 240, 86, 156
+December 15, 2021, Sabiha, Evelyn, Enris, Jason, $1163.0, 237, 86, 158
+December 16, 2021, Sabiha, Evelyn, Enris, Jason, $1148.5, 233, 81, 160
+December 18, 2021, Sabiha, Enris, Taiyo, Jason, $1177.5, 237, 81, 167
+December 19, 2021, Sabiha, Enris, Taiyo, Jason, $1173.5, 241, 81, 163
+December 20, 2021, Sabiha, Enris, Taiyo, Jason, $1188.0, 242, 80, 168
+December 21, 2021, Sabiha, Enris, Taiyo, Jason, $1200.5, 245, 79, 171
+December 22, 2021, Sabiha, Enris, Taiyo, Jason, $1181.0, 246, 74, 168
+December 23, 2021, Enris, Taiyo, Maurizio, Cole, $1175.0, 248, 76, 163
+December 25, 2021, Enris, Taiyo, Maurizio, Cole, $1195.5, 251, 83, 162
+December 26, 2021, Enris, Taiyo, Maurizio, Cole, $1216.5, 253, 85, 166
+December 27, 2021, Enris, Maurizio, Taiyo, Cole, $1232.0, 251, 88, 170
+December 28, 2021, Enris, Maurizio, Taiyo, Jason, $1265.5, 255, 91, 176
+December 29, 2021, Enris, Maurizio, Taiyo, Jason, $1266.0, 253, 94, 175
+December 30, 2021, Enris, Taiyo, Robert, Cole, $1270.5, 258, 93, 174
+January 01, 2022, Taiyo, Robert, Maurizio, Jason, $1287.5, 258, 95, 178
+January 02, 2022, Robert, Maurizio, Sabiha, Cole, $1276.5, 253, 97, 176
+January 03, 2022, Robert, Sabiha, Maurizio, Cole, $1280.5, 253, 101, 174
+January 04, 2022, Sabiha, Maurizio, Enris, Cole, $1295.5, 251, 105, 177
+January 05, 2022, Maurizio, Enris, Robert, Cole, $1300.5, 249, 111, 175
+January 06, 2022, Maurizio, Enris, Robert, Cole, $1297.5, 247, 115, 172
+January 08, 2022, Maurizio, Enris, Shreya, Cole, $1291.5, 244, 115, 172
+January 09, 2022, Maurizio, Shreya, Robert, Cole, $1291.5, 238, 115, 176
+January 10, 2022, Shreya, Sabiha, Enris, Cole, $1284.5, 236, 115, 175
+January 11, 2022, Shreya, Sabiha, Enris, Cole, $1292.0, 235, 114, 179
+January 12, 2022, Shreya, Enris, Sabiha, Jason, $1283.5, 232, 113, 179
+January 13, 2022, Shreya, Enris, Sabiha, Jason, $1299.5, 231, 113, 185
+January 15, 2022, Shreya, Enris, Sabiha, Jason, $1283.0, 226, 108, 187
+January 16, 2022, Enris, Sabiha, Evelyn, Cole, $1273.0, 224, 108, 185
+January 17, 2022, Enris, Evelyn, Robert, Cole, $1258.0, 220, 104, 186
+January 18, 2022, Evelyn, Robert, Taiyo, Cole, $1255.0, 220, 104, 185
+January 19, 2022, Evelyn, Robert, Sabiha, Cole, $1250.0, 219, 104, 184
+January 20, 2022, Evelyn, Robert, Taiyo, Cole, $1259.5, 222, 103, 186
+January 22, 2022, Evelyn, Robert, Taiyo, Cole, $1257.0, 222, 102, 186
+January 23, 2022, Evelyn, Robert, Taiyo, Cole, $1279.0, 227, 102, 190
+January 24, 2022, Evelyn, Robert, Taiyo, Jason, $1302.0, 233, 98, 197
+January 25, 2022, Robert, Taiyo, Enris, Jason, $1294.0, 234, 94, 197
+January 26, 2022, Taiyo, Enris, Shreya, Jason, $1306.0, 240, 94, 197
+January 27, 2022, Taiyo, Shreya, Maurizio, Cole, $1320.0, 243, 96, 198
+January 29, 2022, Taiyo, Shreya, Maurizio, Cole, $1330.5, 247, 103, 193
+January 30, 2022, Taiyo, Shreya, Maurizio, Cole, $1347.0, 253, 106, 192
+January 31, 2022, Taiyo, Maurizio, Sabiha, Cole, $1342.5, 252, 105, 192
+February 01, 2022, Taiyo, Maurizio, Evelyn, Cole, $1351.5, 253, 109, 191
+February 02, 2022, Taiyo, Maurizio, Sabiha, Cole, $1357.0, 257, 114, 186
+February 03, 2022, Taiyo, Maurizio, Sabiha, Cole, $1359.5, 255, 119, 184
+February 05, 2022, Taiyo, Sabiha, Robert, Cole, $1375.0, 258, 118, 188
+February 06, 2022, Taiyo, Robert, Evelyn, Cole, $1370.0, 259, 114, 189
+February 07, 2022, Robert, Evelyn, Enris, Cole, $1384.0, 257, 114, 195
+February 08, 2022, Robert, Enris, Evelyn, Jason, $1369.0, 253, 110, 196
+February 09, 2022, Robert, Evelyn, Taiyo, Jason, $1359.0, 253, 106, 196
+February 10, 2022, Evelyn, Taiyo, Shreya, Cole, $1385.5, 260, 105, 201
+February 12, 2022, Evelyn, Taiyo, Maurizio, Cole, $1401.0, 262, 112, 199
+February 13, 2022, Evelyn, Taiyo, Maurizio, Cole, $1405.0, 263, 114, 198
+February 14, 2022, Evelyn, Taiyo, Maurizio, Cole, $1407.0, 261, 114, 200
+February 15, 2022, Evelyn, Maurizio, Enris, Cole, $1410.5, 260, 115, 201
+February 16, 2022, Evelyn, Enris, Shreya, Cole, $1420.5, 259, 115, 205
+February 17, 2022, Evelyn, Enris, Shreya, Cole, $1423.5, 259, 115, 206
+February 19, 2022, Evelyn, Enris, Taiyo, Cole, $1430.0, 261, 110, 211
+February 20, 2022, Evelyn, Enris, Taiyo, Cole, $1415.5, 261, 109, 207
+February 21, 2022, Evelyn, Enris, Taiyo, Cole, $1417.5, 261, 105, 211
+February 22, 2022, Evelyn, Enris, Taiyo, Cole, $1403.5, 259, 101, 211
+February 23, 2022, Evelyn, Taiyo, Maurizio, Jason, $1418.0, 261, 104, 212
+February 24, 2022, Taiyo, Maurizio, Sabiha, Jason, $1433.0, 262, 108, 213
+February 26, 2022, Taiyo, Maurizio, Sabiha, Jason, $1448.0, 264, 116, 210
+February 27, 2022, Taiyo, Sabiha, Maurizio, Jason, $1483.0, 265, 122, 216
+February 28, 2022, Taiyo, Maurizio, Shreya, Jason, $1476.5, 267, 119, 215
+March 01, 2022, Taiyo, Maurizio, Shreya, Jason, $1495.5, 270, 117, 221
+March 02, 2022, Taiyo, Maurizio, Shreya, Jason, $1511.5, 272, 117, 225
+March 03, 2022, Taiyo, Shreya, Sabiha, Jason, $1487.5, 274, 113, 219
+March 05, 2022, Taiyo, Shreya, Enris, Jason, $1480.0, 282, 112, 212
+March 06, 2022, Taiyo, Shreya, Enris, Jason, $1501.5, 285, 111, 218
+March 07, 2022, Taiyo, Enris, Maurizio, Jason, $1518.0, 286, 118, 217
+March 08, 2022, Taiyo, Enris, Maurizio, Jason, $1527.5, 288, 119, 218
+March 09, 2022, Enris, Taiyo, Maurizio, Jason, $1536.0, 291, 126, 213
+March 10, 2022, Enris, Maurizio, Shreya, Jason, $1541.0, 287, 130, 214
+
+LOCATION: Naperville
+Rent: $8500
+
+March 13, 2021, Svelko, Alton, Anna, James, Austin, Hillary, Edward, Valerie, Chrissa, Charmaine, $1661.5, 282, 201, 205
+March 14, 2021, Svelko, Anna, James, Austin, Hillary, Edward, Valerie, Jenna, Layla, Charmaine, $1660.5, 283, 201, 204
+March 15, 2021, Svelko, James, Austin, Hillary, Edward, Valerie, Layla, Alton, Lauren, Charmaine, $1681.0, 282, 202, 204
+March 16, 2021, Svelko, James, Austin, Hillary, Valerie, Layla, Lauren, Paul, Jenna, Charmaine, $1669.5, 282, 203, 206
+March 17, 2021, Svelko, James, Austin, Hillary, Valerie, Lauren, Paul, Jenna, Edward, Charmaine, $1683.0, 283, 204, 209
+March 18, 2021, Svelko, James, Hillary, Valerie, Lauren, Paul, Jenna, Layla, Charlie, Ana, $1710.5, 284, 205, 210
+March 20, 2021, Svelko, Hillary, Valerie, Lauren, Paul, Layla, Charlie, Alex, Alton, Janelle, $1715.0, 285, 206, 210
+March 21, 2021, Svelko, Hillary, Lauren, Paul, Layla, Charlie, Alton, Jake, James, Janelle, $1694.5, 284, 207, 203
+March 22, 2021, Svelko, Hillary, Paul, Charlie, Alton, Jake, James, Jenna, Satchel, Janelle, $1692.0, 283, 208, 202
+March 23, 2021, Svelko, Paul, Charlie, Jake, James, Satchel, Alex, Anna, George, Janelle, $1666.0, 283, 208, 200
+March 24, 2021, Paul, Charlie, Jake, James, Satchel, Alex, Anna, George, Alton, Janelle, $1671.0, 283, 208, 195
+March 25, 2021, Charlie, Jake, James, Satchel, Anna, Alton, Layla, Paul, Chrissa, Janelle, $1674.0, 283, 208, 196
+March 27, 2021, Charlie, Jake, James, Satchel, Anna, Alton, Layla, Paul, George, Jacob, $1666.0, 282, 208, 194
+March 28, 2021, Charlie, James, Anna, Alton, Layla, Paul, George, Valerie, Alex, Jacob, $1673.0, 284, 208, 195
+March 29, 2021, Charlie, James, Anna, Layla, Paul, George, Valerie, Alex, Lauren, Janelle, $1680.0, 286, 208, 196
+March 30, 2021, Charlie, Anna, Paul, George, Valerie, Alex, Satchel, Jenna, Chrissa, Janelle, $1687.0, 285, 208, 199
+March 31, 2021, Charlie, Anna, George, Valerie, Alex, Jenna, Edward, Alton, Hillary, Janelle, $1687.0, 285, 208, 199
+April 01, 2021, Charlie, Anna, George, Valerie, Alex, Jenna, Edward, Alton, Hillary, Janelle, $1694.0, 284, 208, 202
+April 03, 2021, Charlie, Anna, Valerie, Jenna, Alton, Hillary, Lauren, Satchel, Paul, Janelle, $1718.5, 286, 209, 208
+April 04, 2021, Charlie, Valerie, Jenna, Alton, Hillary, Lauren, Satchel, George, Layla, Janelle, $1718.0, 286, 210, 207
+April 05, 2021, Charlie, Valerie, Alton, Lauren, Satchel, George, Layla, Paul, Chrissa, Janelle, $1723.0, 287, 210, 208
+April 06, 2021, Charlie, Valerie, Alton, Lauren, Satchel, Layla, Paul, Chrissa, Hillary, Janelle, $1743.0, 288, 210, 214
+April 07, 2021, Charlie, Alton, Satchel, Layla, Chrissa, Hillary, Alex, James, Austin, Janelle, $1746.5, 290, 211, 213
+April 08, 2021, Charlie, Alton, Satchel, Layla, Hillary, Alex, James, Austin, Jenna, Janelle, $1741.5, 289, 211, 212
+April 10, 2021, Alton, Satchel, Layla, Alex, James, Austin, Jenna, Lauren, Edward, Janelle, $1738.0, 289, 212, 210
+April 11, 2021, Alton, Satchel, Layla, James, Jenna, Lauren, Hillary, Austin, Edward, Janelle, $1750.0, 289, 212, 214
+April 12, 2021, Alton, Satchel, Layla, James, Lauren, Hillary, Edward, Chrissa, Austin, Janelle, $1763.5, 290, 213, 217
+April 13, 2021, Satchel, Layla, Lauren, Hillary, Edward, Austin, Alton, James, Svelko, Ana, $1749.5, 290, 213, 219
+April 14, 2021, Layla, Lauren, Hillary, Austin, Alton, James, Svelko, Satchel, Alex, Ana, $1779.0, 290, 214, 228
+April 15, 2021, Lauren, Hillary, Austin, Alton, James, Svelko, Alex, Edward, Charlie, Ana, $1809.5, 291, 215, 230
+April 17, 2021, Lauren, Austin, Alton, James, Alex, Charlie, Jake, Layla, Paul, Ana, $1815.5, 291, 215, 232
+April 18, 2021, Austin, Alton, James, Alex, Charlie, Jake, Layla, Anna, Chrissa, Ana, $1838.0, 292, 216, 238
+April 19, 2021, Austin, Alton, James, Alex, Charlie, Jake, Layla, Chrissa, Paul, Charmaine, $1846.0, 296, 216, 238
+April 20, 2021, Austin, Alton, James, Charlie, Layla, Chrissa, Paul, Edward, Alex, Charmaine, $1862.5, 297, 217, 242
+April 21, 2021, Alton, Charlie, Layla, Paul, Alex, George, James, Austin, Jake, Charmaine, $1872.0, 296, 218, 245
+April 22, 2021, Alton, Charlie, Layla, Paul, Alex, George, Austin, Jake, Lauren, Charmaine, $1866.0, 296, 218, 243
+April 24, 2021, Charlie, Layla, Paul, George, Jake, Lauren, James, Alton, Edward, Charmaine, $1874.5, 296, 219, 245
+April 25, 2021, Charlie, Layla, Paul, George, Jake, James, Alton, Edward, Alex, Charmaine, $1890.5, 295, 219, 251
+April 26, 2021, Layla, Paul, Jake, James, Alton, Edward, Charlie, Valerie, George, Charmaine, $1895.5, 296, 219, 252
+April 27, 2021, Layla, Paul, Jake, Alton, Edward, Charlie, Valerie, Austin, Satchel, Charmaine, $1903.5, 297, 219, 254
+April 28, 2021, Layla, Paul, Jake, Edward, Charlie, Valerie, Austin, Satchel, Lauren, Charmaine, $1907.5, 296, 219, 256
+April 29, 2021, Paul, Jake, Edward, Charlie, Austin, Lauren, Layla, Chrissa, Alton, Charmaine, $1921.5, 297, 219, 260
+May 01, 2021, Paul, Jake, Charlie, Austin, Lauren, Chrissa, Alton, Valerie, Hillary, Charmaine, $1906.0, 297, 220, 254
+May 02, 2021, Paul, Jake, Charlie, Austin, Lauren, Chrissa, Alton, Valerie, James, Jacob, $1899.0, 298, 220, 251
+May 03, 2021, Paul, Jake, Austin, Lauren, Chrissa, Valerie, James, Hillary, Alex, Ana, $1908.0, 298, 220, 254
+May 04, 2021, Jake, Austin, Chrissa, Valerie, James, Hillary, Alex, Edward, Layla, Ana, $1910.5, 299, 219, 255
+May 05, 2021, Austin, Chrissa, Valerie, James, Hillary, Edward, Alton, Lauren, Layla, Ana, $1909.5, 300, 219, 254
+May 06, 2021, Austin, Chrissa, Valerie, Hillary, Edward, Alton, Lauren, Layla, Charlie, Ana, $1909.5, 300, 219, 254
+May 08, 2021, Austin, Chrissa, Hillary, Edward, Lauren, Layla, George, Satchel, Svelko, Ana, $1931.5, 302, 219, 260
+May 09, 2021, Chrissa, Edward, Lauren, Layla, Satchel, Svelko, Valerie, Alton, Anna, Ana, $1909.5, 304, 219, 258
+May 10, 2021, Chrissa, Edward, Layla, Satchel, Svelko, Valerie, Alton, Anna, Jenna, Ana, $1942.0, 306, 220, 260
+May 11, 2021, Chrissa, Edward, Satchel, Svelko, Alton, Anna, Jenna, Lauren, James, Ana, $1947.0, 307, 220, 261
+May 12, 2021, Chrissa, Edward, Satchel, Alton, Anna, Jenna, Lauren, James, Valerie, Ana, $1968.5, 309, 221, 266
+May 13, 2021, Edward, Satchel, Anna, Jenna, James, Jake, Alex, Lauren, Layla, Janelle, $1965.5, 309, 221, 265
+May 15, 2021, Edward, Satchel, Anna, Jenna, James, Jake, Alex, Lauren, Layla, Janelle, $1962.5, 309, 221, 264
+May 16, 2021, Edward, Anna, Jenna, Jake, Alex, Lauren, Layla, Chrissa, Satchel, Janelle, $1963.0, 311, 222, 262
+May 17, 2021, Edward, Anna, Jenna, Alex, Layla, Chrissa, Satchel, Alton, Charlie, Janelle, $1974.0, 312, 222, 265
+May 18, 2021, Edward, Anna, Alex, Layla, Chrissa, Satchel, Alton, Charlie, Jenna, Janelle, $1991.5, 315, 223, 268
+May 19, 2021, Edward, Alex, Layla, Satchel, Alton, Charlie, Jenna, Anna, Valerie, Janelle, $1992.5, 316, 225, 266
+May 20, 2021, Alex, Layla, Alton, Charlie, Anna, Valerie, George, Jake, Svelko, Janelle, $1993.0, 316, 226, 272
+May 22, 2021, Alex, Alton, Charlie, Anna, Valerie, Jake, Satchel, Paul, James, Janelle, $2008.5, 317, 227, 269
+May 23, 2021, Alex, Alton, Charlie, Anna, Valerie, Jake, Satchel, Paul, James, Ana, $2014.0, 317, 228, 270
+May 24, 2021, Alex, Charlie, Anna, Valerie, Jake, Satchel, Paul, James, Chrissa, Ana, $2008.0, 317, 228, 268
+May 25, 2021, Alex, Charlie, Valerie, Satchel, Paul, James, Jenna, Lauren, Alton, Ana, $2017.0, 317, 228, 271
+May 26, 2021, Alex, Charlie, Satchel, James, Jenna, Lauren, Alton, Svelko, Anna, Ana, $1998.5, 318, 229, 270
+May 27, 2021, Alex, Charlie, Satchel, James, Jenna, Alton, Svelko, Anna, Layla, Ana, $2026.0, 319, 230, 271
+May 29, 2021, Alex, Satchel, Jenna, Alton, Anna, George, Austin, Hillary, Jake, Charmaine, $2027.0, 321, 230, 270
+May 30, 2021, Alex, Satchel, Jenna, Alton, Anna, Austin, Hillary, Jake, Paul, Ana, $2044.5, 321, 231, 275
+May 31, 2021, Satchel, Jenna, Alton, Anna, Hillary, Paul, Alex, James, Charlie, Ana, $2069.5, 323, 231, 282
+June 01, 2021, Jenna, Alton, Anna, Hillary, Paul, Alex, James, Satchel, Chrissa, Ana, $2063.5, 323, 231, 280
+June 02, 2021, Jenna, Anna, Hillary, Paul, Alex, James, Satchel, Lauren, Edward, Ana, $2067.5, 322, 231, 282
+June 03, 2021, Jenna, Anna, Hillary, Alex, James, Satchel, Edward, Alton, Chrissa, Ana, $2059.0, 321, 232, 279
+June 05, 2021, Jenna, Hillary, Alex, James, Satchel, Alton, Chrissa, Lauren, Svelko, Ana, $2067.5, 321, 233, 281
+June 06, 2021, Hillary, Alex, James, Alton, Chrissa, Svelko, Edward, Anna, Jake, Ana, $2069.0, 322, 234, 280
+June 07, 2021, Alex, Alton, Chrissa, Svelko, Edward, Anna, Jake, Lauren, Jenna, Ana, $2066.0, 323, 234, 285
+June 08, 2021, Alex, Chrissa, Edward, Anna, Lauren, Alton, Satchel, Austin, Svelko, Ana, $2077.0, 324, 234, 288
+June 09, 2021, Alex, Chrissa, Edward, Anna, Alton, Satchel, Austin, Svelko, Valerie, Ana, $2084.0, 326, 234, 289
+June 10, 2021, Alex, Edward, Alton, Satchel, Austin, Valerie, George, Layla, Jake, Ana, $2087.0, 325, 234, 284
+June 12, 2021, Alex, Alton, Satchel, Austin, Valerie, George, Jake, Hillary, Lauren, Ana, $2083.0, 326, 234, 282
+June 13, 2021, Alex, Alton, Satchel, Austin, Valerie, George, Jake, Lauren, James, Ana, $2086.5, 325, 235, 283
+June 14, 2021, Alton, Satchel, Austin, Valerie, George, Lauren, James, Charlie, Jake, Ana, $2092.0, 325, 236, 284
+June 15, 2021, Satchel, Valerie, George, Lauren, Charlie, Jake, Edward, Alton, Chrissa, Ana, $2101.0, 325, 236, 287
+June 16, 2021, Satchel, George, Charlie, Edward, Alton, Chrissa, Lauren, Jake, Alex, Ana, $2101.0, 325, 236, 287
+June 17, 2021, Satchel, George, Charlie, Edward, Alton, Lauren, Alex, Jenna, Austin, Ana, $2120.5, 326, 237, 292
+June 19, 2021, Satchel, George, Charlie, Alton, Lauren, Jenna, Austin, Jake, Svelko, Ana, $2097.0, 326, 238, 290
+June 20, 2021, Satchel, Charlie, Lauren, Jenna, Austin, Jake, Svelko, Valerie, Paul, Ana, $2078.0, 327, 238, 283
+June 21, 2021, Satchel, Lauren, Jenna, Jake, Svelko, Valerie, Paul, George, Alton, Ana, $2079.0, 329, 238, 282
+June 22, 2021, Lauren, Jake, Svelko, Valerie, Paul, George, Anna, Satchel, Edward, Charmaine, $2085.0, 329, 238, 284
+June 23, 2021, Lauren, Jake, Svelko, Valerie, Paul, Anna, Edward, Alton, Alex, Charmaine, $2074.0, 331, 238, 279
+June 24, 2021, Lauren, Jake, Svelko, Valerie, Paul, Edward, Alex, Jenna, James, Charmaine, $2087.5, 331, 239, 276
+June 26, 2021, Lauren, Jake, Svelko, Valerie, Paul, Alex, James, George, Jenna, Charmaine, $2055.5, 331, 239, 272
+June 27, 2021, Jake, Svelko, Valerie, Paul, Alex, George, Jenna, Layla, Satchel, Charmaine, $2072.0, 334, 240, 268
+June 28, 2021, Jake, Svelko, Valerie, Paul, Alex, George, Jenna, Layla, Satchel, Charmaine, $2052.5, 336, 241, 266
+June 29, 2021, Jake, Svelko, Valerie, Paul, Alex, George, Jenna, Layla, Lauren, Charmaine, $2090.0, 336, 242, 271
+June 30, 2021, Jake, Svelko, Paul, Alex, Jenna, Layla, Lauren, James, Charlie, Charmaine, $2102.0, 336, 242, 275
+July 01, 2021, Jake, Paul, Jenna, Layla, Lauren, Charlie, Svelko, Hillary, Alton, Charmaine, $2106.0, 338, 242, 275
+July 03, 2021, Jake, Jenna, Layla, Lauren, Charlie, Hillary, Alton, James, Valerie, Charmaine, $2090.5, 338, 243, 269
+July 04, 2021, Jake, Jenna, Layla, Charlie, Alton, James, Valerie, Lauren, Austin, Charmaine, $2095.5, 339, 243, 270
+July 05, 2021, Jake, Jenna, Layla, Charlie, James, Valerie, Lauren, Austin, Paul, Charmaine, $2101.0, 339, 244, 271
+July 06, 2021, Jake, Jenna, Layla, Charlie, Valerie, Lauren, Paul, Satchel, Hillary, Charmaine, $2110.5, 338, 245, 274
+July 07, 2021, Jenna, Layla, Charlie, Valerie, Lauren, Paul, Satchel, Hillary, George, Ana, $2113.0, 338, 246, 274
+July 08, 2021, Jenna, Charlie, Valerie, Lauren, Paul, Satchel, Hillary, George, Svelko, Ana, $2114.5, 339, 247, 273
+July 10, 2021, Jenna, Charlie, Valerie, Paul, Satchel, George, Svelko, Layla, Jake, Janelle, $2123.0, 339, 248, 275
+July 11, 2021, Charlie, Paul, Satchel, George, Layla, Alex, Valerie, Anna, Alton, Janelle, $2124.0, 340, 250, 273
+July 12, 2021, Charlie, Paul, Satchel, George, Alex, Valerie, Anna, Alton, Lauren, Janelle, $2120.5, 340, 251, 271
+July 13, 2021, Paul, Satchel, George, Alex, Valerie, Alton, Lauren, Charlie, Svelko, Janelle, $2108.0, 341, 252, 272
+July 14, 2021, Satchel, George, Alex, Valerie, Alton, Lauren, Charlie, Jake, James, Janelle, $2132.5, 342, 253, 272
+July 15, 2021, George, Alex, Valerie, Alton, Lauren, Charlie, Jake, James, Satchel, Janelle, $2147.0, 342, 254, 276
+July 17, 2021, George, Alex, Valerie, Alton, Lauren, Jake, Satchel, Layla, Chrissa, Janelle, $2141.0, 342, 254, 274
+July 18, 2021, George, Alex, Alton, Lauren, Jake, Satchel, Chrissa, Hillary, James, Janelle, $2142.0, 344, 254, 273
+July 19, 2021, George, Alex, Alton, Lauren, Jake, Satchel, Chrissa, Hillary, James, Janelle, $2130.0, 344, 254, 269
+July 20, 2021, Alex, Lauren, Jake, Satchel, Chrissa, Hillary, James, Paul, Charlie, Janelle, $2152.0, 346, 254, 275
+July 21, 2021, Lauren, Satchel, Chrissa, Hillary, James, Paul, Valerie, Anna, Charlie, Charmaine, $2157.5, 346, 255, 276
+July 22, 2021, Lauren, Satchel, Chrissa, James, Paul, Valerie, Charlie, Alton, Svelko, Charmaine, $2159.0, 347, 256, 275
+July 24, 2021, Satchel, Chrissa, James, Valerie, Charlie, Alton, Svelko, Anna, Hillary, Janelle, $2151.0, 347, 256, 279
+July 25, 2021, Satchel, Chrissa, Valerie, Alton, Svelko, Hillary, James, Paul, George, Janelle, $2167.5, 348, 255, 278
+July 26, 2021, Chrissa, Valerie, Alton, Svelko, Hillary, James, George, Charlie, Lauren, Jacob, $2170.0, 348, 256, 278
+July 27, 2021, Chrissa, Valerie, Alton, Svelko, Hillary, James, George, Charlie, Lauren, Jacob, $2151.0, 350, 256, 277
+July 28, 2021, Valerie, Alton, Svelko, Hillary, James, George, Charlie, Lauren, Layla, Janelle, $2161.5, 350, 257, 273
+July 29, 2021, Valerie, Alton, Svelko, Hillary, George, Lauren, Layla, Edward, Paul, Janelle, $2144.0, 350, 258, 273
+July 31, 2021, Valerie, Alton, Svelko, George, Layla, Edward, Paul, Lauren, Jake, Janelle, $2155.5, 349, 259, 270
+August 01, 2021, Valerie, Svelko, George, Layla, Edward, Lauren, Alton, Jenna, Austin, Jacob, $2139.0, 350, 260, 263
+August 02, 2021, Valerie, Svelko, George, Layla, Lauren, Alton, Jenna, Austin, Satchel, Jacob, $2132.5, 348, 261, 268
+August 03, 2021, Valerie, George, Layla, Lauren, Jenna, Satchel, Charlie, Jake, Alex, Jacob, $2163.0, 349, 262, 270
+August 04, 2021, George, Layla, Lauren, Jenna, Charlie, Alex, Alton, Jake, Anna, Jacob, $2182.0, 351, 262, 275
+August 05, 2021, Layla, Lauren, Jenna, Charlie, Alex, Alton, Anna, Chrissa, Satchel, Jacob, $2190.0, 352, 262, 277
+August 07, 2021, Lauren, Jenna, Charlie, Alex, Anna, Chrissa, Satchel, Edward, George, Jacob, $2186.5, 352, 263, 275
+August 08, 2021, Jenna, Charlie, Alex, Anna, Chrissa, Edward, Lauren, Paul, Hillary, Jacob, $2208.5, 354, 263, 281
+August 09, 2021, Charlie, Alex, Anna, Edward, Paul, Satchel, Svelko, Layla, Valerie, Jacob, $2213.5, 355, 263, 282
+August 10, 2021, Charlie, Alex, Anna, Edward, Paul, Satchel, Svelko, Layla, Alton, Jacob, $2190.0, 355, 264, 280
+August 11, 2021, Charlie, Alex, Anna, Edward, Paul, Satchel, Svelko, Layla, Valerie, Jacob, $2209.0, 356, 264, 279
+August 12, 2021, Charlie, Anna, Edward, Paul, Satchel, Svelko, Layla, Chrissa, Valerie, Janelle, $2207.0, 358, 264, 277
+August 14, 2021, Charlie, Anna, Edward, Paul, Satchel, Svelko, Layla, Valerie, Austin, Janelle, $2217.5, 359, 265, 279
+August 15, 2021, Charlie, Anna, Paul, Satchel, Layla, Valerie, Austin, Chrissa, Lauren, Janelle, $2220.5, 359, 265, 280
+August 16, 2021, Charlie, Anna, Satchel, Layla, Valerie, Chrissa, Lauren, James, George, Janelle, $2237.5, 360, 265, 285
+August 17, 2021, Charlie, Satchel, Valerie, Chrissa, Lauren, James, George, Svelko, Layla, Janelle, $2243.0, 360, 266, 286
+August 18, 2021, Charlie, Satchel, Valerie, Lauren, James, George, Svelko, Layla, Hillary, Janelle, $2237.0, 360, 266, 284
+August 19, 2021, Charlie, Valerie, Lauren, James, George, Layla, Hillary, Chrissa, Jake, Janelle, $2239.5, 360, 267, 284
+August 21, 2021, Charlie, Lauren, George, Hillary, Chrissa, Valerie, Jenna, Svelko, Jake, Janelle, $2249.5, 359, 267, 288
+August 22, 2021, Charlie, Lauren, Hillary, Valerie, Jenna, Svelko, Edward, Paul, George, Janelle, $2253.0, 358, 268, 289
+August 23, 2021, Charlie, Lauren, Hillary, Valerie, Svelko, Paul, George, Chrissa, Anna, Janelle, $2263.0, 360, 268, 291
+August 24, 2021, Lauren, Hillary, Valerie, Svelko, Paul, Chrissa, Anna, Alton, Austin, Janelle, $2269.0, 360, 268, 293
+August 25, 2021, Lauren, Valerie, Svelko, Chrissa, Anna, Austin, Satchel, Jake, James, Janelle, $2256.0, 361, 268, 288
+August 26, 2021, Lauren, Valerie, Svelko, Chrissa, Anna, Austin, Satchel, James, Edward, Janelle, $2237.5, 362, 269, 287
+August 28, 2021, Valerie, Chrissa, Anna, Austin, James, Jake, Hillary, Lauren, Edward, Janelle, $2260.5, 362, 269, 288
+August 29, 2021, Valerie, Chrissa, Austin, James, Jake, Hillary, Edward, Alton, George, Janelle, $2269.0, 362, 270, 290
+August 30, 2021, Valerie, Austin, Jake, Hillary, Edward, Alton, Lauren, James, George, Janelle, $2272.5, 361, 271, 291
+August 31, 2021, Austin, Hillary, Edward, Lauren, James, George, Jenna, Valerie, Alex, Charmaine, $2268.0, 362, 272, 288
+September 01, 2021, Austin, Hillary, Lauren, James, George, Jenna, Valerie, Alton, Anna, Charmaine, $2269.5, 363, 273, 287
+September 02, 2021, Austin, Hillary, James, George, Jenna, Alton, Chrissa, Alex, Svelko, Charmaine, $2270.0, 362, 274, 287
+September 04, 2021, Austin, Hillary, James, George, Jenna, Alton, Chrissa, Svelko, Satchel, Charmaine, $2247.5, 361, 275, 286
+September 05, 2021, Austin, Hillary, James, Jenna, Alton, Svelko, Satchel, Alex, Valerie, Charmaine, $2259.0, 363, 276, 281
+September 06, 2021, Austin, Hillary, James, Jenna, Alton, Svelko, Satchel, Alex, Valerie, Charmaine, $2264.0, 364, 276, 282
+September 07, 2021, Hillary, James, Jenna, Alton, Satchel, Alex, Paul, Anna, Austin, Charmaine, $2286.0, 366, 276, 288
+September 08, 2021, Hillary, James, Jenna, Alton, Satchel, Alex, Paul, Anna, Austin, Janelle, $2302.5, 364, 277, 294
+September 09, 2021, Hillary, James, Jenna, Satchel, Alex, Anna, Austin, Chrissa, Svelko, Janelle, $2290.0, 365, 278, 295
+September 11, 2021, Hillary, James, Jenna, Satchel, Alex, Austin, Chrissa, Svelko, Charlie, Jacob, $2290.5, 367, 279, 293
+September 12, 2021, James, Satchel, Austin, Chrissa, Svelko, Charlie, Hillary, Alton, Lauren, Jacob, $2287.0, 367, 280, 291
+September 13, 2021, James, Satchel, Chrissa, Svelko, Charlie, Alton, Jake, Hillary, Alex, Jacob, $2319.0, 367, 280, 295
+September 14, 2021, James, Satchel, Chrissa, Svelko, Charlie, Alton, Jake, Hillary, Alex, Jacob, $2314.5, 368, 281, 292
+September 15, 2021, James, Satchel, Chrissa, Charlie, Alton, Hillary, Alex, Layla, Svelko, Jacob, $2318.0, 368, 282, 299
+September 16, 2021, James, Chrissa, Charlie, Alton, Hillary, Alex, Svelko, Jenna, Edward, Jacob, $2334.0, 369, 282, 297
+September 18, 2021, James, Chrissa, Charlie, Hillary, Alex, Svelko, Jenna, Edward, George, Ana, $2335.5, 370, 283, 296
+September 19, 2021, James, Chrissa, Hillary, Alex, Jenna, Edward, George, Lauren, Valerie, Ana, $2334.0, 371, 284, 294
+September 20, 2021, James, Chrissa, Alex, Jenna, Edward, Lauren, Valerie, Layla, Hillary, Ana, $2339.5, 371, 285, 295
+September 21, 2021, James, Chrissa, Alex, Edward, Lauren, Valerie, Hillary, Anna, Austin, Ana, $2341.5, 369, 285, 297
+September 22, 2021, James, Alex, Lauren, Hillary, Austin, Svelko, Edward, Layla, Jake, Ana, $2323.5, 370, 285, 297
+September 23, 2021, James, Lauren, Hillary, Austin, Svelko, Edward, Layla, Jake, Chrissa, Ana, $2357.0, 371, 286, 300
+September 25, 2021, James, Lauren, Austin, Svelko, Layla, Jake, Chrissa, Anna, Edward, Ana, $2371.5, 371, 287, 304
+September 26, 2021, James, Lauren, Svelko, Jake, Chrissa, Anna, Edward, Valerie, Satchel, Ana, $2361.0, 372, 288, 299
+September 27, 2021, James, Lauren, Jake, Chrissa, Anna, Edward, Valerie, Satchel, Austin, Ana, $2355.0, 372, 288, 297
+September 28, 2021, James, Lauren, Chrissa, Anna, Edward, Valerie, Satchel, Austin, Layla, Charmaine, $2348.0, 373, 288, 294
+September 29, 2021, James, Lauren, Chrissa, Anna, Valerie, Satchel, Austin, Jake, Jenna, Janelle, $2343.5, 374, 289, 291
+September 30, 2021, James, Lauren, Chrissa, Anna, Valerie, Satchel, Austin, Jake, Jenna, Charmaine, $2346.5, 374, 289, 292
+October 02, 2021, James, Chrissa, Valerie, Satchel, Jake, Svelko, Layla, George, Hillary, Jacob, $2350.0, 373, 290, 293
+October 03, 2021, James, Valerie, Satchel, Jake, Svelko, Layla, George, Hillary, Lauren, Charmaine, $2369.5, 374, 291, 298
+October 04, 2021, James, Valerie, Jake, Svelko, Layla, Hillary, Austin, Anna, George, Charmaine, $2366.5, 375, 291, 303
+October 05, 2021, James, Valerie, Jake, Layla, Hillary, Austin, Anna, George, Paul, Charmaine, $2386.0, 375, 292, 302
+October 06, 2021, James, Valerie, Jake, Layla, Hillary, Austin, Anna, George, Paul, Charmaine, $2387.5, 376, 293, 301
+October 07, 2021, James, Valerie, Layla, Austin, George, Paul, Satchel, Charlie, Anna, Charmaine, $2406.5, 377, 295, 305
+October 09, 2021, James, Layla, Austin, Paul, Charlie, Anna, Svelko, Alex, Edward, Charmaine, $2409.0, 377, 296, 305
+October 10, 2021, Layla, Austin, Paul, Anna, Svelko, Edward, Jenna, Hillary, George, Charmaine, $2415.5, 379, 297, 305
+October 11, 2021, Austin, Anna, Edward, Jenna, George, Chrissa, Lauren, Jake, Valerie, Charmaine, $2423.5, 380, 297, 307
+October 12, 2021, Austin, Edward, Jenna, George, Chrissa, Lauren, Jake, Valerie, Svelko, Charmaine, $2417.0, 380, 298, 304
+October 13, 2021, Edward, Jenna, George, Chrissa, Lauren, Jake, Svelko, Austin, Paul, Charmaine, $2404.5, 381, 299, 305
+October 14, 2021, Jenna, George, Chrissa, Lauren, Jake, Svelko, Austin, Paul, Layla, Charmaine, $2406.0, 382, 300, 304
+October 16, 2021, Jenna, Chrissa, Lauren, Jake, Svelko, Austin, Paul, Layla, Satchel, Ana, $2427.0, 384, 300, 303
+October 17, 2021, Jenna, Chrissa, Lauren, Jake, Austin, Paul, Layla, Satchel, Svelko, Charmaine, $2417.0, 386, 300, 305
+October 18, 2021, Chrissa, Jake, Paul, Layla, Satchel, Hillary, Alex, Lauren, James, Charmaine, $2442.0, 387, 300, 306
+October 19, 2021, Jake, Paul, Layla, Satchel, Alex, Lauren, James, Valerie, Austin, Charmaine, $2461.5, 388, 301, 311
+October 20, 2021, Paul, Layla, Alex, Lauren, James, Valerie, Jenna, Hillary, Austin, Charmaine, $2466.0, 389, 302, 311
+October 21, 2021, Paul, Layla, Lauren, James, Valerie, Hillary, Austin, Svelko, Alex, Charmaine, $2448.5, 389, 303, 311
+October 23, 2021, Paul, Lauren, James, Valerie, Hillary, Austin, Svelko, Satchel, Chrissa, Charmaine, $2450.0, 390, 304, 310
+October 24, 2021, Paul, Lauren, Valerie, Hillary, Svelko, Chrissa, George, Alex, Austin, Janelle, $2468.0, 389, 304, 310
+October 25, 2021, Lauren, Valerie, Svelko, Chrissa, Alex, James, Edward, Anna, George, Janelle, $2471.0, 389, 304, 311
+October 26, 2021, Lauren, Valerie, Svelko, Alex, James, Edward, George, Austin, Hillary, Janelle, $2482.5, 389, 305, 314
+October 27, 2021, Lauren, Valerie, Alex, James, Edward, George, Hillary, Paul, Svelko, Charmaine, $2487.5, 390, 305, 315
+October 28, 2021, Valerie, Alex, James, George, Paul, Svelko, Edward, Layla, Charlie, Charmaine, $2507.0, 391, 306, 320
+October 30, 2021, Valerie, James, George, Paul, Svelko, Layla, Charlie, Jenna, Jake, Charmaine, $2503.0, 392, 306, 318
+October 31, 2021, Valerie, James, Paul, Layla, Jenna, Jake, Lauren, Chrissa, Austin, Charmaine, $2511.0, 393, 306, 320
+November 01, 2021, Valerie, Paul, Layla, Jenna, Lauren, Austin, Charlie, James, Satchel, Charmaine, $2510.5, 393, 307, 319
+November 02, 2021, Paul, Layla, Lauren, Austin, James, Satchel, Jake, Edward, Hillary, Charmaine, $2532.0, 395, 308, 324
+November 03, 2021, Paul, Layla, Lauren, Austin, James, Satchel, Jake, Edward, Valerie, Charmaine, $2534.5, 395, 309, 324
+November 04, 2021, Paul, Layla, Austin, James, Satchel, Jake, Edward, Valerie, Chrissa, Charmaine, $2534.5, 395, 309, 324
+November 06, 2021, Paul, Austin, James, Satchel, Jake, Edward, Chrissa, Layla, Jenna, Charmaine, $2537.0, 395, 310, 324
+November 07, 2021, Paul, Austin, James, Satchel, Edward, Chrissa, Layla, Jenna, Charlie, Charmaine, $2540.0, 395, 310, 325
+November 08, 2021, Paul, Austin, James, Satchel, Edward, Chrissa, Layla, Charlie, Hillary, Charmaine, $2553.5, 396, 311, 328
+November 09, 2021, Austin, Satchel, Edward, Chrissa, Layla, Charlie, Valerie, George, Svelko, Ana, $2563.0, 398, 312, 329
+November 10, 2021, Austin, Edward, Layla, Charlie, George, Svelko, Hillary, Chrissa, Satchel, Janelle, $2572.5, 400, 313, 330
+November 11, 2021, Austin, Edward, Charlie, George, Svelko, Hillary, Chrissa, Satchel, Lauren, Janelle, $2546.5, 400, 313, 328
+November 13, 2021, Austin, Charlie, George, Svelko, Hillary, Chrissa, Lauren, Alex, Satchel, Janelle, $2568.0, 401, 314, 327
+November 14, 2021, Austin, George, Svelko, Hillary, Chrissa, Alex, Satchel, Edward, Anna, Janelle, $2582.5, 401, 315, 331
+November 15, 2021, George, Svelko, Chrissa, Satchel, Edward, Anna, Charlie, Jake, Hillary, Janelle, $2590.0, 402, 316, 332
+November 16, 2021, George, Svelko, Chrissa, Edward, Anna, Charlie, Jake, Hillary, Layla, Charmaine, $2604.0, 402, 318, 335
+November 17, 2021, George, Svelko, Chrissa, Anna, Charlie, Jake, Hillary, Layla, Edward, Charmaine, $2602.5, 403, 319, 333
+November 18, 2021, Svelko, Anna, Charlie, Jake, Hillary, Layla, Edward, Lauren, Chrissa, Charmaine, $2605.5, 403, 319, 334
+November 20, 2021, Svelko, Anna, Charlie, Jake, Hillary, Layla, Edward, Lauren, Chrissa, Charmaine, $2589.0, 405, 320, 333
+November 21, 2021, Svelko, Anna, Charlie, Jake, Hillary, Layla, Lauren, Chrissa, Jenna, Charmaine, $2605.5, 405, 321, 331
+November 22, 2021, Svelko, Anna, Charlie, Jake, Layla, Lauren, Jenna, Alex, George, Charmaine, $2602.0, 405, 322, 329
+November 23, 2021, Svelko, Anna, Jake, Lauren, Alex, George, Hillary, Valerie, Charlie, Charmaine, $2618.5, 406, 323, 333
+November 24, 2021, Svelko, Jake, Alex, George, Valerie, Charlie, Jenna, Chrissa, Anna, Charmaine, $2609.5, 406, 323, 330
+November 25, 2021, Svelko, Jake, George, Valerie, Charlie, Jenna, Chrissa, Anna, Edward, Charmaine, $2641.0, 407, 324, 339
+November 27, 2021, Svelko, Jake, George, Charlie, Jenna, Chrissa, Edward, Alton, Satchel, Charmaine, $2658.0, 408, 324, 344
+November 28, 2021, Svelko, Jake, George, Charlie, Jenna, Chrissa, Alton, Satchel, Paul, Charmaine, $2650.5, 407, 325, 348
+November 29, 2021, Jake, George, Charlie, Jenna, Chrissa, Alton, Satchel, Paul, Edward, Charmaine, $2664.0, 407, 326, 345
+November 30, 2021, Jake, Charlie, Jenna, Chrissa, Alton, Paul, Valerie, Lauren, George, Charmaine, $2684.5, 410, 327, 349
+December 01, 2021, Jake, Charlie, Jenna, Chrissa, Paul, Valerie, George, Austin, Alex, Charmaine, $2700.5, 412, 327, 353
+December 02, 2021, Jake, Charlie, Jenna, Chrissa, Paul, Valerie, George, Alex, Svelko, Charmaine, $2677.0, 412, 328, 351
+December 04, 2021, Jake, Jenna, Chrissa, Paul, George, Alex, Svelko, Layla, Charlie, Charmaine, $2696.5, 412, 329, 350
+December 05, 2021, Jake, Chrissa, George, Alex, Svelko, Layla, Charlie, Satchel, Anna, Charmaine, $2694.0, 411, 330, 349
+December 06, 2021, Jake, Chrissa, Alex, Layla, Charlie, Satchel, Anna, Lauren, Paul, Charmaine, $2710.0, 413, 330, 353
+December 07, 2021, Chrissa, Alex, Layla, Charlie, Satchel, Lauren, Paul, Jake, James, Charmaine, $2711.0, 412, 330, 354
+December 08, 2021, Alex, Charlie, Satchel, Lauren, Jake, James, Anna, Jenna, Svelko, Charmaine, $2692.5, 413, 331, 353
+December 09, 2021, Alex, Charlie, Lauren, Jake, Anna, Jenna, Paul, Hillary, Satchel, Charmaine, $2720.0, 411, 332, 356
+December 11, 2021, Charlie, Lauren, Jake, Anna, Jenna, Hillary, James, Austin, Alex, Charmaine, $2733.5, 412, 333, 359
+December 12, 2021, Charlie, Jake, Anna, Jenna, Hillary, James, Alex, Satchel, Lauren, Charmaine, $2729.0, 413, 334, 356
+December 13, 2021, Charlie, Anna, Jenna, Hillary, James, Alex, Satchel, Lauren, Edward, Charmaine, $2741.0, 413, 334, 360
+December 14, 2021, Charlie, Anna, Hillary, Alex, Lauren, Edward, Chrissa, Jenna, James, Charmaine, $2727.5, 414, 335, 354
+December 15, 2021, Charlie, Anna, Hillary, Alex, Lauren, Edward, Chrissa, Jenna, James, Charmaine, $2718.5, 414, 335, 351
+December 16, 2021, Anna, Hillary, Alex, Lauren, Chrissa, Jenna, James, Valerie, Alton, Ana, $2702.5, 412, 335, 347
+December 18, 2021, Anna, Hillary, Lauren, Jenna, James, Valerie, Charlie, Chrissa, Jake, Ana, $2692.0, 413, 336, 342
+December 19, 2021, Anna, Lauren, James, Valerie, Charlie, Chrissa, Jake, Alex, George, Ana, $2696.0, 412, 336, 344
+December 20, 2021, Anna, James, Valerie, Chrissa, Jake, George, Lauren, Alton, Paul, Charmaine, $2696.0, 412, 336, 344
+December 21, 2021, Anna, James, Valerie, Jake, George, Lauren, Alton, Edward, Charlie, Charmaine, $2690.0, 412, 336, 342
+December 22, 2021, Anna, Valerie, Jake, Lauren, Alton, Charlie, Hillary, Svelko, Layla, Jacob, $2676.0, 412, 336, 344
+December 23, 2021, Anna, Valerie, Jake, Lauren, Charlie, Hillary, Layla, Alton, Austin, Jacob, $2692.0, 413, 336, 342
+December 25, 2021, Anna, Jake, Charlie, Layla, Austin, George, Alex, Paul, Hillary, Jacob, $2709.5, 413, 337, 347
+December 26, 2021, Anna, Charlie, Austin, George, Alex, Hillary, Jake, James, Paul, Jacob, $2713.0, 415, 338, 346
+December 27, 2021, Charlie, George, Alex, Hillary, Jake, James, Paul, Valerie, Satchel, Jacob, $2721.5, 415, 339, 348
+December 28, 2021, Charlie, George, Alex, Jake, Paul, Valerie, Satchel, Austin, Edward, Jacob, $2730.5, 415, 339, 351
+December 29, 2021, Charlie, George, Jake, Paul, Satchel, Austin, Chrissa, Hillary, Lauren, Jacob, $2741.5, 416, 339, 354
+December 30, 2021, Charlie, Jake, Paul, Satchel, Austin, Chrissa, Hillary, Lauren, Layla, Jacob, $2731.5, 414, 339, 352
+January 01, 2022, Charlie, Paul, Satchel, Austin, Hillary, Lauren, Layla, Alton, Edward, Ana, $2719.0, 414, 340, 347
+January 02, 2022, Charlie, Paul, Satchel, Austin, Hillary, Lauren, Alton, Edward, Svelko, Ana, $2704.0, 414, 340, 342
+January 03, 2022, Charlie, Satchel, Austin, Lauren, Edward, Jenna, Anna, George, Alex, Charmaine, $2685.5, 414, 341, 335
+January 04, 2022, Charlie, Satchel, Austin, Lauren, Edward, Jenna, Anna, Alex, Alton, Charmaine, $2674.5, 416, 341, 330
+January 05, 2022, Satchel, Austin, Edward, Jenna, Anna, Alex, James, Alton, Paul, Charmaine, $2676.5, 417, 341, 330
+January 06, 2022, Austin, Jenna, Anna, Alex, James, Paul, Charlie, Hillary, Alton, Charmaine, $2674.5, 419, 341, 328
+January 08, 2022, Austin, Jenna, Anna, Alex, James, Paul, Charlie, Hillary, Alton, Janelle, $2703.0, 420, 342, 336
+January 09, 2022, Austin, Anna, Alex, Paul, Charlie, Hillary, Layla, Lauren, James, Janelle, $2723.5, 420, 343, 342
+January 10, 2022, Austin, Anna, Alex, Charlie, Layla, James, Valerie, Jenna, Chrissa, Janelle, $2723.5, 420, 343, 342
+January 11, 2022, Anna, Alex, Charlie, James, Jenna, Chrissa, Paul, Jake, Hillary, Janelle, $2732.0, 423, 344, 342
+January 12, 2022, Anna, Charlie, James, Jenna, Chrissa, Jake, George, Alton, Alex, Ana, $2756.5, 422, 345, 350
+January 13, 2022, Anna, Charlie, James, Jenna, Chrissa, Jake, George, Alex, Lauren, Charmaine, $2761.5, 423, 345, 351
+January 15, 2022, Anna, Charlie, Jenna, Chrissa, Jake, George, Alex, Paul, Austin, Charmaine, $2769.0, 424, 346, 352
+January 16, 2022, Anna, Charlie, Chrissa, Jake, George, Alex, Paul, Austin, Svelko, Charmaine, $2750.5, 425, 347, 351
+January 17, 2022, Charlie, Chrissa, Jake, George, Alex, Austin, Svelko, Lauren, Valerie, Charmaine, $2776.0, 425, 348, 352
+January 18, 2022, Charlie, Jake, Alex, Svelko, Valerie, James, Paul, Chrissa, Alton, Ana, $2758.0, 425, 348, 346
+January 19, 2022, Charlie, Jake, Alex, Valerie, Paul, Alton, Edward, James, Layla, Ana, $2758.5, 424, 349, 346
+January 20, 2022, Jake, Alex, Valerie, Alton, Edward, James, Layla, Charlie, Lauren, Ana, $2759.5, 423, 349, 347
+January 22, 2022, Jake, Alex, Valerie, Alton, Edward, Layla, Lauren, Paul, Austin, Ana, $2763.5, 425, 349, 347
+January 23, 2022, Jake, Alex, Alton, Edward, Layla, Lauren, Paul, Austin, Jenna, Ana, $2748.5, 425, 349, 342
+January 24, 2022, Alex, Alton, Edward, Layla, Lauren, Austin, Jenna, Anna, Paul, Ana, $2753.5, 426, 349, 343
+January 25, 2022, Alex, Alton, Edward, Lauren, Austin, Anna, Svelko, Hillary, Paul, Ana, $2778.5, 427, 351, 349
+January 26, 2022, Alex, Alton, Edward, Lauren, Anna, Hillary, Jake, Layla, Charlie, Ana, $2787.0, 427, 352, 351
+January 27, 2022, Alex, Edward, Lauren, Anna, Hillary, Jake, Charlie, Svelko, Layla, Ana, $2772.0, 428, 352, 352
+January 29, 2022, Edward, Lauren, Hillary, Charlie, Svelko, Layla, Alex, James, Paul, Ana, $2794.5, 428, 353, 352
+January 30, 2022, Edward, Lauren, Charlie, Svelko, Alex, James, Paul, Jenna, Alton, Ana, $2777.0, 428, 354, 352
+January 31, 2022, Edward, Charlie, Svelko, Alex, James, Paul, Jenna, Alton, Chrissa, Charmaine, $2774.0, 431, 354, 349
+February 01, 2022, Edward, Charlie, Svelko, Alex, Paul, Alton, Chrissa, Anna, James, Charmaine, $2797.0, 431, 354, 350
+February 02, 2022, Charlie, Alex, Paul, Alton, Anna, James, Lauren, Valerie, Austin, Charmaine, $2822.5, 432, 355, 357
+February 03, 2022, Alex, Paul, Alton, Anna, James, Lauren, Valerie, Hillary, Jake, Charmaine, $2836.5, 433, 355, 361
+February 05, 2022, Alex, Paul, Anna, James, Lauren, Valerie, Hillary, Jake, Chrissa, Charmaine, $2824.5, 433, 355, 357
+February 06, 2022, Alex, Paul, Anna, Lauren, Valerie, Hillary, Jake, Chrissa, Charlie, Janelle, $2833.0, 433, 356, 359
+February 07, 2022, Alex, Paul, Anna, Lauren, Valerie, Hillary, Jake, Charlie, Svelko, Janelle, $2820.5, 435, 355, 361
+February 08, 2022, Paul, Anna, Valerie, Hillary, Charlie, Satchel, Edward, Jenna, George, Charmaine, $2838.0, 437, 356, 358
+February 09, 2022, Paul, Anna, Valerie, Charlie, Satchel, Edward, George, Alton, Alex, Charmaine, $2837.0, 438, 356, 357
+February 10, 2022, Paul, Anna, Charlie, Satchel, Edward, George, Alex, Jake, Austin, Charmaine, $2857.0, 439, 356, 363
+February 12, 2022, Paul, Anna, Charlie, Satchel, George, Alex, Austin, Alton, Svelko, Charmaine, $2852.5, 440, 357, 360
+February 13, 2022, Paul, Anna, Charlie, Satchel, George, Alex, Alton, Svelko, Layla, Charmaine, $2851.5, 441, 357, 359
+February 14, 2022, Anna, Charlie, Satchel, Alex, Alton, Svelko, Layla, Austin, Paul, Jacob, $2852.5, 440, 357, 360
+February 15, 2022, Charlie, Satchel, Alex, Alton, Svelko, Layla, Paul, Chrissa, Edward, Jacob, $2845.5, 441, 357, 357
+February 16, 2022, Satchel, Alex, Alton, Layla, Paul, Chrissa, Jake, James, Lauren, Jacob, $2862.0, 442, 358, 361
+February 17, 2022, Alex, Alton, Layla, Chrissa, James, Lauren, Austin, Jenna, Paul, Jacob, $2856.0, 442, 358, 359
+February 19, 2022, Alton, Layla, Chrissa, James, Lauren, Austin, Jenna, Paul, Charlie, Charmaine, $2851.5, 441, 357, 359
+February 20, 2022, Layla, Chrissa, Lauren, Austin, Jenna, Paul, Charlie, George, Alton, Charmaine, $2854.5, 441, 357, 360
+February 21, 2022, Layla, Chrissa, Austin, Paul, Charlie, George, Alton, Jake, Valerie, Charmaine, $2856.0, 439, 358, 361
+February 22, 2022, Chrissa, Austin, Paul, Charlie, George, Alton, Jake, Anna, Edward, Charmaine, $2867.0, 437, 358, 366
+February 23, 2022, Chrissa, Austin, Charlie, George, Jake, Anna, Edward, James, Alton, Jacob, $2868.5, 438, 359, 365
+February 24, 2022, Chrissa, Charlie, George, Jake, Edward, James, Alton, Layla, Lauren, Jacob, $2869.5, 440, 359, 364
+February 26, 2022, Chrissa, Charlie, George, Jake, James, Alton, Layla, Lauren, Austin, Charmaine, $2877.0, 441, 360, 365
+February 27, 2022, Chrissa, Charlie, George, Jake, James, Alton, Lauren, Austin, Svelko, Charmaine, $2907.5, 443, 361, 373
+February 28, 2022, Chrissa, Charlie, Jake, James, Alton, Lauren, Svelko, Jenna, Hillary, Janelle, $2922.0, 443, 362, 377
+March 01, 2022, Chrissa, Charlie, Jake, James, Alton, Lauren, Svelko, Hillary, Layla, Janelle, $2924.0, 444, 362, 377
+March 02, 2022, Chrissa, Charlie, Jake, Alton, Lauren, Hillary, Layla, Jenna, Svelko, Janelle, $2926.0, 445, 362, 377
+March 03, 2022, Chrissa, Charlie, Jake, Alton, Lauren, Layla, Svelko, George, Edward, Jacob, $2921.5, 446, 363, 374
+March 05, 2022, Charlie, Alton, Lauren, Layla, George, Edward, Chrissa, Paul, Valerie, Ana, $2929.0, 447, 364, 375
+March 06, 2022, Charlie, Lauren, Layla, George, Chrissa, Paul, Valerie, Alton, Austin, Ana, $2919.5, 447, 365, 371
+March 07, 2022, Charlie, Lauren, Layla, George, Paul, Alton, Austin, Svelko, Anna, Ana, $2888.5, 446, 365, 368
+March 08, 2022, Charlie, Lauren, George, Alton, Austin, Svelko, Anna, Alex, Chrissa, Janelle, $2917.0, 446, 366, 370
+March 09, 2022, Lauren, George, Alton, Austin, Svelko, Alex, Chrissa, Valerie, Paul, Janelle, $2907.0, 444, 366, 368
+March 10, 2022, Lauren, George, Alton, Svelko, Chrissa, Valerie, Paul, Jenna, Layla, Janelle, $2923.5, 445, 367, 372
+
+LOCATION: Downers Grove
+Rent: $4200
+
+March 13, 2021, Jett, Aryan, Grace, Prashant, Thomas, Shiven, Max, $891.0, 149, 110, 106
+March 14, 2021, Jett, Grace, Thomas, Shiven, Camil, Arnav, Max, $896.5, 148, 113, 106
+March 15, 2021, Grace, Thomas, Camil, Arnav, Arun, Shiven, Max, $885.0, 147, 108, 107
+March 16, 2021, Grace, Thomas, Arnav, Shiven, Jett, Arun, Andres, $882.5, 147, 107, 107
+March 17, 2021, Grace, Thomas, Arnav, Shiven, Jett, Camil, Kimberly, $877.5, 147, 105, 107
+March 18, 2021, Grace, Arnav, Jett, Mallory, Neeraj, Elena, Kimberly, $883.5, 146, 107, 108
+March 20, 2021, Grace, Jett, Mallory, Elena, Arun, Camil, Kimberly, $877.5, 146, 107, 106
+March 21, 2021, Jett, Mallory, Arun, Camil, Shiven, Arnav, Kimberly, $874.5, 146, 107, 105
+March 22, 2021, Mallory, Arun, Shiven, Arnav, Jett, Mark, Kimberly, $869.5, 146, 105, 105
+March 23, 2021, Arun, Shiven, Arnav, Mark, Aryan, Thomas, Kimberly, $875.5, 145, 107, 106
+March 24, 2021, Arun, Arnav, Mark, Thomas, Anushka, Aryan, Kimberly, $880.5, 145, 109, 106
+March 25, 2021, Arnav, Mark, Thomas, Anushka, Aryan, Jett, Kimberly, $880.0, 145, 110, 105
+March 27, 2021, Mark, Thomas, Aryan, Prashant, Camil, Elena, Kimberly, $870.0, 145, 106, 105
+March 28, 2021, Mark, Thomas, Prashant, Camil, Elena, Neeraj, Kimberly, $875.5, 145, 107, 106
+March 29, 2021, Mark, Prashant, Camil, Neeraj, Thomas, Arnav, Kimberly, $874.5, 144, 105, 108
+March 30, 2021, Mark, Prashant, Camil, Thomas, Arnav, Arun, Kimberly, $880.0, 144, 106, 109
+March 31, 2021, Prashant, Camil, Thomas, Arun, Arnav, Grace, Kimberly, $881.0, 144, 104, 111
+April 01, 2021, Prashant, Camil, Thomas, Arun, Arnav, Mallory, Kimberly, $883.5, 145, 103, 112
+April 03, 2021, Prashant, Thomas, Arun, Arnav, Mallory, Grace, Kimberly, $890.0, 146, 106, 111
+April 04, 2021, Prashant, Arun, Mallory, Grace, Thomas, Aryan, Kimberly, $885.0, 146, 104, 111
+April 05, 2021, Prashant, Arun, Grace, Thomas, Aryan, Anushka, Kimberly, $890.5, 146, 105, 112
+April 06, 2021, Prashant, Arun, Grace, Aryan, Anushka, Camil, Kimberly, $893.0, 146, 106, 112
+April 07, 2021, Prashant, Grace, Aryan, Anushka, Camil, Jett, Kimberly, $905.5, 147, 109, 113
+April 08, 2021, Grace, Aryan, Anushka, Camil, Jett, Thomas, Kimberly, $900.5, 147, 107, 113
+April 10, 2021, Aryan, Anushka, Camil, Jett, Thomas, Prashant, Kimberly, $898.0, 147, 106, 113
+April 11, 2021, Anushka, Camil, Jett, Thomas, Mallory, Neeraj, Kimberly, $898.0, 146, 108, 112
+April 12, 2021, Anushka, Camil, Jett, Mallory, Grace, Thomas, Kimberly, $898.0, 145, 110, 111
+April 13, 2021, Anushka, Camil, Mallory, Thomas, Shiven, Mark, Kimberly, $901.5, 144, 111, 112
+April 14, 2021, Anushka, Camil, Thomas, Shiven, Mark, Grace, Kimberly, $907.0, 143, 114, 112
+April 15, 2021, Camil, Shiven, Grace, Elena, Prashant, Arnav, Kimberly, $892.0, 142, 110, 111
+April 17, 2021, Shiven, Grace, Elena, Prashant, Arnav, Neeraj, Kimberly, $898.0, 142, 110, 113
+April 18, 2021, Grace, Elena, Prashant, Arnav, Neeraj, Aryan, Max, $904.0, 142, 110, 115
+April 19, 2021, Grace, Elena, Prashant, Arnav, Aryan, Shiven, Andres, $891.5, 141, 107, 114
+April 20, 2021, Grace, Prashant, Arnav, Shiven, Aryan, Anushka, Andres, $896.5, 141, 109, 114
+April 21, 2021, Prashant, Shiven, Aryan, Anushka, Jett, Neeraj, Andres, $894.5, 140, 109, 114
+April 22, 2021, Shiven, Aryan, Anushka, Jett, Neeraj, Thomas, Andres, $899.5, 140, 111, 114
+April 24, 2021, Shiven, Anushka, Jett, Thomas, Camil, Mallory, Andres, $894.5, 140, 109, 114
+April 25, 2021, Shiven, Anushka, Jett, Thomas, Camil, Arnav, Andres, $895.5, 139, 109, 115
+April 26, 2021, Shiven, Jett, Camil, Arnav, Grace, Aryan, Max, $895.0, 139, 110, 114
+April 27, 2021, Shiven, Jett, Camil, Arnav, Grace, Aryan, Max, $903.0, 139, 112, 115
+April 28, 2021, Shiven, Jett, Camil, Grace, Aryan, Elena, Max, $911.0, 139, 114, 116
+April 29, 2021, Shiven, Jett, Grace, Aryan, Elena, Arnav, Max, $919.0, 139, 116, 117
+May 01, 2021, Shiven, Grace, Aryan, Elena, Arnav, Jett, Max, $922.5, 139, 115, 119
+May 02, 2021, Shiven, Grace, Aryan, Elena, Jett, Camil, Max, $910.5, 138, 111, 119
+May 03, 2021, Shiven, Aryan, Jett, Grace, Arnav, Arun, Max, $916.0, 138, 112, 120
+May 04, 2021, Shiven, Jett, Grace, Arnav, Arun, Camil, Kimberly, $908.5, 138, 109, 120
+May 05, 2021, Shiven, Jett, Grace, Arnav, Arun, Camil, Kimberly, $916.5, 138, 111, 121
+May 06, 2021, Shiven, Jett, Arnav, Arun, Camil, Grace, Kimberly, $915.0, 138, 108, 123
+May 08, 2021, Shiven, Arnav, Arun, Camil, Anushka, Thomas, Kimberly, $920.0, 138, 110, 123
+May 09, 2021, Arnav, Arun, Camil, Anushka, Thomas, Mark, Kimberly, $917.5, 138, 109, 123
+May 10, 2021, Arun, Anushka, Thomas, Mallory, Aryan, Prashant, Kimberly, $930.0, 139, 112, 124
+May 11, 2021, Arun, Thomas, Aryan, Prashant, Mark, Camil, Max, $930.0, 139, 112, 124
+May 12, 2021, Thomas, Aryan, Prashant, Mark, Camil, Anushka, Andres, $925.5, 139, 109, 125
+May 13, 2021, Thomas, Aryan, Prashant, Mark, Camil, Anushka, Andres, $931.0, 139, 110, 126
+May 15, 2021, Thomas, Aryan, Prashant, Camil, Neeraj, Arnav, Andres, $942.0, 139, 112, 128
+May 16, 2021, Thomas, Aryan, Camil, Neeraj, Arnav, Jett, Andres, $942.0, 139, 112, 128
+May 17, 2021, Thomas, Aryan, Neeraj, Arnav, Mallory, Grace, Andres, $947.0, 139, 114, 128
+May 18, 2021, Aryan, Neeraj, Mallory, Grace, Prashant, Shiven, Andres, $949.5, 139, 115, 128
+May 19, 2021, Neeraj, Mallory, Grace, Prashant, Shiven, Mark, Andres, $947.5, 138, 115, 128
+May 20, 2021, Neeraj, Mallory, Grace, Prashant, Mark, Arun, Andres, $953.0, 138, 116, 129
+May 22, 2021, Mallory, Grace, Prashant, Mark, Jett, Neeraj, Andres, $955.5, 138, 117, 129
+May 23, 2021, Mallory, Grace, Prashant, Mark, Jett, Arun, Kimberly, $953.5, 138, 115, 130
+May 24, 2021, Mallory, Grace, Mark, Arun, Aryan, Thomas, Kimberly, $948.5, 137, 115, 129
+May 25, 2021, Grace, Arun, Thomas, Arnav, Mallory, Camil, Kimberly, $949.5, 137, 113, 131
+May 26, 2021, Grace, Thomas, Arnav, Mallory, Camil, Jett, Kimberly, $957.5, 137, 115, 132
+May 27, 2021, Thomas, Arnav, Mallory, Jett, Mark, Grace, Kimberly, $968.0, 137, 118, 133
+May 29, 2021, Arnav, Mallory, Jett, Mark, Grace, Shiven, Max, $975.5, 138, 119, 134
+May 30, 2021, Arnav, Jett, Mark, Shiven, Aryan, Thomas, Max, $982.5, 139, 121, 134
+May 31, 2021, Jett, Mark, Aryan, Thomas, Mallory, Arnav, Max, $985.5, 139, 121, 135
+June 01, 2021, Jett, Mark, Aryan, Thomas, Mallory, Arnav, Andres, $995.5, 139, 125, 135
+June 02, 2021, Jett, Mark, Thomas, Arnav, Grace, Prashant, Max, $1003.0, 139, 128, 135
+June 03, 2021, Jett, Thomas, Grace, Prashant, Arun, Neeraj, Max, $1000.5, 139, 127, 135
+June 05, 2021, Jett, Thomas, Grace, Prashant, Arun, Arnav, Kimberly, $997.5, 139, 127, 134
+June 06, 2021, Thomas, Grace, Prashant, Arnav, Neeraj, Aryan, Andres, $998.0, 139, 126, 135
+June 07, 2021, Grace, Prashant, Arnav, Aryan, Anushka, Camil, Andres, $1001.0, 138, 128, 135
+June 08, 2021, Grace, Prashant, Arnav, Anushka, Camil, Mallory, Andres, $1008.5, 138, 131, 135
+June 09, 2021, Grace, Prashant, Anushka, Camil, Arun, Aryan, Andres, $1008.0, 138, 132, 134
+June 10, 2021, Grace, Prashant, Anushka, Arun, Elena, Aryan, Andres, $1004.5, 138, 133, 132
+June 12, 2021, Grace, Anushka, Arun, Elena, Aryan, Arnav, Andres, $995.5, 139, 131, 130
+June 13, 2021, Grace, Anushka, Arun, Elena, Aryan, Arnav, Kimberly, $998.5, 139, 131, 131
+June 14, 2021, Anushka, Elena, Aryan, Arnav, Mallory, Mark, Kimberly, $1003.5, 139, 133, 131
+June 15, 2021, Anushka, Elena, Aryan, Arnav, Mallory, Mark, Max, $995.5, 139, 131, 130
+June 16, 2021, Anushka, Elena, Aryan, Arnav, Mallory, Mark, Max, $991.0, 139, 128, 131
+June 17, 2021, Anushka, Elena, Arnav, Mallory, Mark, Arun, Max, $993.5, 139, 129, 131
+June 19, 2021, Elena, Arnav, Mark, Arun, Anushka, Prashant, Max, $986.0, 139, 126, 131
+June 20, 2021, Arnav, Arun, Anushka, Prashant, Shiven, Mark, Andres, $989.0, 139, 126, 132
+June 21, 2021, Arnav, Arun, Anushka, Prashant, Shiven, Thomas, Andres, $996.5, 139, 129, 132
+June 22, 2021, Arun, Anushka, Prashant, Shiven, Grace, Aryan, Andres, $991.5, 139, 127, 132
+June 23, 2021, Arun, Anushka, Prashant, Shiven, Grace, Aryan, Andres, $988.0, 139, 128, 130
+June 24, 2021, Arun, Anushka, Shiven, Aryan, Prashant, Mark, Andres, $993.0, 139, 130, 130
+June 26, 2021, Anushka, Aryan, Prashant, Mark, Camil, Thomas, Andres, $987.5, 139, 129, 129
+June 27, 2021, Aryan, Prashant, Mark, Camil, Thomas, Mallory, Andres, $982.0, 139, 128, 128
+June 28, 2021, Aryan, Mark, Camil, Thomas, Mallory, Elena, Andres, $989.5, 139, 131, 128
+June 29, 2021, Aryan, Mark, Camil, Thomas, Elena, Grace, Andres, $992.5, 139, 131, 129
+June 30, 2021, Aryan, Mark, Camil, Thomas, Elena, Grace, Andres, $997.5, 139, 133, 129
+July 01, 2021, Mark, Camil, Thomas, Grace, Mallory, Prashant, Andres, $1000.0, 139, 134, 129
+July 03, 2021, Mark, Camil, Thomas, Grace, Prashant, Anushka, Andres, $1003.0, 139, 134, 130
+July 04, 2021, Camil, Thomas, Prashant, Anushka, Elena, Jett, Andres, $1006.0, 139, 134, 131
+July 05, 2021, Camil, Prashant, Anushka, Elena, Jett, Aryan, Andres, $1008.0, 139, 136, 130
+July 06, 2021, Camil, Prashant, Elena, Aryan, Grace, Shiven, Andres, $1003.0, 139, 134, 130
+July 07, 2021, Camil, Prashant, Elena, Aryan, Shiven, Arun, Andres, $999.5, 139, 135, 128
+July 08, 2021, Camil, Elena, Aryan, Shiven, Thomas, Mark, Andres, $1000.5, 138, 135, 129
+July 10, 2021, Camil, Aryan, Shiven, Thomas, Mark, Arun, Andres, $1005.0, 138, 138, 128
+July 11, 2021, Aryan, Shiven, Mark, Arun, Camil, Prashant, Andres, $1002.5, 138, 137, 128
+July 12, 2021, Aryan, Shiven, Mark, Camil, Prashant, Thomas, Max, $1011.0, 138, 138, 130
+July 13, 2021, Aryan, Mark, Prashant, Anushka, Elena, Thomas, Max, $1010.5, 138, 139, 129
+July 14, 2021, Aryan, Mark, Prashant, Anushka, Elena, Thomas, Andres, $1010.5, 138, 139, 129
+July 15, 2021, Mark, Anushka, Elena, Thomas, Aryan, Grace, Kimberly, $1018.0, 139, 140, 130
+July 17, 2021, Mark, Anushka, Elena, Thomas, Aryan, Grace, Kimberly, $1020.0, 139, 142, 129
+July 18, 2021, Anushka, Elena, Thomas, Aryan, Grace, Shiven, Kimberly, $1025.5, 139, 143, 130
+July 19, 2021, Elena, Thomas, Grace, Shiven, Jett, Anushka, Kimberly, $1028.0, 139, 144, 130
+July 20, 2021, Thomas, Shiven, Jett, Arun, Aryan, Anushka, Kimberly, $1031.5, 138, 145, 131
+July 21, 2021, Shiven, Arun, Aryan, Anushka, Thomas, Elena, Kimberly, $1040.0, 138, 146, 133
+July 22, 2021, Shiven, Aryan, Anushka, Thomas, Elena, Arun, Max, $1042.5, 139, 145, 134
+July 24, 2021, Aryan, Thomas, Elena, Arun, Mark, Shiven, Max, $1050.5, 139, 147, 135
+July 25, 2021, Aryan, Thomas, Arun, Shiven, Mallory, Elena, Max, $1046.0, 137, 148, 134
+July 26, 2021, Aryan, Thomas, Arun, Shiven, Elena, Prashant, Max, $1056.0, 138, 150, 135
+July 27, 2021, Thomas, Arun, Shiven, Elena, Prashant, Mallory, Max, $1051.5, 138, 147, 136
+July 28, 2021, Thomas, Shiven, Elena, Mallory, Grace, Anushka, Max, $1054.5, 138, 147, 137
+July 29, 2021, Thomas, Shiven, Elena, Mallory, Grace, Anushka, Max, $1052.0, 137, 148, 136
+July 31, 2021, Shiven, Elena, Mallory, Grace, Anushka, Camil, Max, $1060.0, 137, 150, 137
+August 01, 2021, Shiven, Elena, Mallory, Anushka, Camil, Mark, Max, $1064.0, 138, 152, 136
+August 02, 2021, Elena, Anushka, Camil, Jett, Arnav, Prashant, Max, $1061.0, 138, 152, 135
+August 03, 2021, Elena, Anushka, Jett, Prashant, Shiven, Arnav, Max, $1056.0, 138, 150, 135
+August 04, 2021, Anushka, Jett, Shiven, Arun, Mallory, Camil, Kimberly, $1066.5, 138, 153, 136
+August 05, 2021, Jett, Shiven, Arun, Camil, Elena, Arnav, Kimberly, $1072.0, 138, 154, 137
+August 07, 2021, Jett, Shiven, Camil, Elena, Arnav, Thomas, Kimberly, $1088.0, 138, 158, 139
+August 08, 2021, Jett, Shiven, Camil, Elena, Arnav, Arun, Kimberly, $1088.0, 138, 158, 139
+August 09, 2021, Jett, Camil, Elena, Arnav, Arun, Aryan, Kimberly, $1086.0, 137, 158, 139
+August 10, 2021, Jett, Camil, Elena, Arnav, Arun, Anushka, Andres, $1086.0, 138, 156, 140
+August 11, 2021, Camil, Arnav, Anushka, Jett, Prashant, Neeraj, Andres, $1081.0, 137, 156, 139
+August 12, 2021, Camil, Arnav, Anushka, Jett, Neeraj, Shiven, Kimberly, $1088.5, 137, 159, 139
+August 14, 2021, Camil, Arnav, Anushka, Jett, Neeraj, Shiven, Andres, $1091.0, 137, 160, 139
+August 15, 2021, Camil, Anushka, Neeraj, Shiven, Mark, Jett, Max, $1092.0, 136, 160, 140
+August 16, 2021, Camil, Anushka, Neeraj, Shiven, Mark, Jett, Max, $1092.0, 136, 160, 140
+August 17, 2021, Anushka, Shiven, Mark, Thomas, Camil, Prashant, Max, $1089.5, 135, 161, 139
+August 18, 2021, Shiven, Thomas, Prashant, Aryan, Camil, Grace, Max, $1097.5, 135, 163, 140
+August 19, 2021, Shiven, Thomas, Prashant, Camil, Grace, Mallory, Max, $1089.5, 135, 161, 139
+August 21, 2021, Shiven, Thomas, Camil, Grace, Mallory, Jett, Max, $1083.5, 136, 159, 138
+August 22, 2021, Shiven, Thomas, Grace, Mallory, Jett, Mark, Max, $1075.5, 136, 157, 137
+August 23, 2021, Shiven, Thomas, Mallory, Mark, Arun, Anushka, Andres, $1083.0, 137, 158, 138
+August 24, 2021, Shiven, Thomas, Mallory, Mark, Anushka, Jett, Andres, $1084.5, 137, 155, 141
+August 25, 2021, Shiven, Mallory, Mark, Jett, Neeraj, Elena, Andres, $1092.5, 137, 157, 142
+August 26, 2021, Shiven, Mark, Jett, Neeraj, Elena, Anushka, Andres, $1095.5, 136, 159, 142
+August 28, 2021, Mark, Jett, Neeraj, Elena, Aryan, Anushka, Andres, $1103.0, 137, 160, 143
+August 29, 2021, Mark, Jett, Neeraj, Aryan, Anushka, Mallory, Andres, $1106.0, 137, 160, 144
+August 30, 2021, Jett, Neeraj, Aryan, Anushka, Mallory, Arun, Max, $1113.0, 137, 164, 143
+August 31, 2021, Jett, Neeraj, Aryan, Mallory, Arun, Camil, Max, $1112.5, 137, 165, 142
+September 01, 2021, Neeraj, Aryan, Mallory, Arun, Arnav, Jett, Max, $1118.0, 137, 166, 143
+September 02, 2021, Neeraj, Mallory, Arnav, Jett, Shiven, Prashant, Max, $1123.0, 137, 168, 143
+September 04, 2021, Neeraj, Mallory, Jett, Prashant, Thomas, Shiven, Max, $1128.0, 137, 170, 143
+September 05, 2021, Neeraj, Mallory, Jett, Prashant, Thomas, Shiven, Max, $1127.0, 138, 170, 142
+September 06, 2021, Neeraj, Mallory, Prashant, Thomas, Shiven, Arun, Max, $1125.5, 137, 169, 143
+September 07, 2021, Neeraj, Mallory, Thomas, Arun, Anushka, Arnav, Max, $1133.5, 137, 171, 144
+September 08, 2021, Neeraj, Mallory, Thomas, Arun, Arnav, Mark, Andres, $1141.0, 137, 174, 144
+September 09, 2021, Neeraj, Mallory, Arun, Arnav, Mark, Shiven, Max, $1142.5, 137, 177, 142
+September 11, 2021, Neeraj, Mallory, Arun, Arnav, Mark, Thomas, Kimberly, $1147.5, 137, 179, 142
+September 12, 2021, Mallory, Arun, Arnav, Mark, Thomas, Elena, Kimberly, $1149.5, 137, 181, 141
+September 13, 2021, Arun, Arnav, Mark, Thomas, Elena, Grace, Max, $1147.0, 136, 182, 140
+September 14, 2021, Arun, Mark, Elena, Grace, Jett, Camil, Max, $1154.5, 137, 183, 141
+September 15, 2021, Arun, Elena, Grace, Jett, Camil, Neeraj, Max, $1157.5, 137, 183, 142
+September 16, 2021, Elena, Grace, Jett, Camil, Neeraj, Prashant, Max, $1159.5, 137, 185, 141
+September 18, 2021, Elena, Jett, Camil, Neeraj, Prashant, Anushka, Andres, $1155.0, 137, 182, 142
+September 19, 2021, Elena, Jett, Camil, Prashant, Anushka, Arun, Max, $1146.5, 137, 181, 140
+September 20, 2021, Elena, Jett, Camil, Anushka, Arun, Shiven, Kimberly, $1147.0, 137, 180, 141
+September 21, 2021, Jett, Camil, Anushka, Arun, Shiven, Mallory, Kimberly, $1142.0, 137, 178, 141
+September 22, 2021, Jett, Anushka, Shiven, Mallory, Mark, Prashant, Kimberly, $1149.5, 137, 181, 141
+September 23, 2021, Anushka, Shiven, Mark, Prashant, Thomas, Grace, Andres, $1152.0, 137, 182, 141
+September 25, 2021, Shiven, Mark, Prashant, Thomas, Camil, Neeraj, Andres, $1159.0, 137, 186, 140
+September 26, 2021, Shiven, Prashant, Thomas, Neeraj, Aryan, Mallory, Andres, $1144.0, 136, 182, 139
+September 27, 2021, Prashant, Thomas, Neeraj, Mallory, Grace, Arun, Andres, $1140.0, 135, 180, 140
+September 28, 2021, Prashant, Thomas, Neeraj, Mallory, Arun, Camil, Max, $1140.0, 135, 180, 140
+September 29, 2021, Prashant, Thomas, Neeraj, Arun, Camil, Elena, Max, $1145.0, 135, 182, 140
+September 30, 2021, Thomas, Neeraj, Camil, Elena, Arnav, Jett, Max, $1140.5, 134, 181, 140
+October 02, 2021, Thomas, Neeraj, Elena, Arnav, Jett, Grace, Max, $1132.5, 134, 179, 139
+October 03, 2021, Neeraj, Arnav, Jett, Grace, Camil, Thomas, Andres, $1133.0, 134, 178, 140
+October 04, 2021, Arnav, Jett, Grace, Camil, Thomas, Mallory, Andres, $1136.0, 133, 180, 140
+October 05, 2021, Jett, Grace, Camil, Thomas, Mallory, Arnav, Andres, $1131.5, 132, 179, 140
+October 06, 2021, Jett, Grace, Camil, Mallory, Arnav, Anushka, Andres, $1133.5, 132, 181, 139
+October 07, 2021, Grace, Camil, Mallory, Arnav, Anushka, Shiven, Andres, $1139.5, 132, 181, 141
+October 09, 2021, Grace, Camil, Arnav, Anushka, Shiven, Mallory, Andres, $1141.5, 132, 183, 140
+October 10, 2021, Grace, Camil, Arnav, Shiven, Thomas, Arun, Andres, $1147.0, 132, 184, 141
+October 11, 2021, Grace, Camil, Arnav, Shiven, Thomas, Arun, Andres, $1150.5, 132, 183, 143
+October 12, 2021, Grace, Arnav, Thomas, Arun, Neeraj, Prashant, Kimberly, $1151.0, 131, 184, 143
+October 13, 2021, Grace, Arnav, Thomas, Arun, Neeraj, Prashant, Kimberly, $1157.0, 131, 184, 145
+October 14, 2021, Grace, Arnav, Arun, Prashant, Mallory, Mark, Max, $1163.0, 131, 184, 147
+October 16, 2021, Arnav, Arun, Prashant, Mark, Anushka, Mallory, Max, $1168.0, 131, 186, 147
+October 17, 2021, Arnav, Arun, Prashant, Mark, Anushka, Mallory, Max, $1166.0, 130, 186, 147
+October 18, 2021, Arun, Prashant, Mark, Anushka, Mallory, Camil, Max, $1163.0, 130, 186, 146
+October 19, 2021, Arun, Prashant, Mark, Anushka, Camil, Thomas, Max, $1170.0, 130, 190, 145
+October 20, 2021, Arun, Mark, Camil, Thomas, Aryan, Arnav, Max, $1168.5, 129, 189, 146
+October 21, 2021, Mark, Thomas, Aryan, Jett, Anushka, Neeraj, Andres, $1167.5, 130, 189, 145
+October 23, 2021, Thomas, Aryan, Jett, Anushka, Neeraj, Prashant, Andres, $1167.0, 130, 190, 144
+October 24, 2021, Thomas, Jett, Neeraj, Elena, Shiven, Mark, Andres, $1166.0, 131, 190, 143
+October 25, 2021, Jett, Elena, Shiven, Mark, Neeraj, Grace, Andres, $1155.5, 131, 187, 142
+October 26, 2021, Jett, Elena, Mark, Grace, Shiven, Arnav, Andres, $1159.5, 130, 187, 144
+October 27, 2021, Jett, Elena, Mark, Grace, Shiven, Arnav, Andres, $1159.5, 130, 187, 144
+October 28, 2021, Elena, Grace, Shiven, Arnav, Prashant, Arun, Andres, $1157.0, 130, 186, 144
+October 30, 2021, Elena, Grace, Arnav, Arun, Mallory, Shiven, Andres, $1149.5, 130, 183, 144
+October 31, 2021, Elena, Grace, Arun, Shiven, Neeraj, Jett, Andres, $1163.0, 129, 188, 145
+November 01, 2021, Elena, Arun, Shiven, Jett, Arnav, Prashant, Andres, $1163.0, 129, 188, 145
+November 02, 2021, Elena, Arun, Shiven, Jett, Arnav, Prashant, Andres, $1165.5, 129, 189, 145
+November 03, 2021, Elena, Arun, Shiven, Arnav, Prashant, Thomas, Andres, $1173.0, 129, 192, 145
+November 04, 2021, Elena, Arun, Arnav, Prashant, Mark, Jett, Andres, $1177.0, 128, 192, 147
+November 06, 2021, Arun, Arnav, Prashant, Mark, Jett, Camil, Andres, $1170.0, 127, 190, 147
+November 07, 2021, Arun, Prashant, Mark, Jett, Neeraj, Shiven, Andres, $1170.0, 127, 190, 147
+November 08, 2021, Arun, Mark, Neeraj, Shiven, Prashant, Thomas, Kimberly, $1172.5, 127, 191, 147
+November 09, 2021, Arun, Mark, Neeraj, Prashant, Shiven, Camil, Kimberly, $1167.0, 127, 190, 146
+November 10, 2021, Arun, Neeraj, Prashant, Shiven, Camil, Aryan, Kimberly, $1162.0, 126, 190, 145
+November 11, 2021, Arun, Neeraj, Prashant, Shiven, Camil, Aryan, Max, $1156.0, 126, 190, 143
+November 13, 2021, Neeraj, Prashant, Shiven, Aryan, Thomas, Anushka, Max, $1154.5, 125, 189, 144
+November 14, 2021, Neeraj, Prashant, Shiven, Aryan, Thomas, Anushka, Max, $1162.0, 125, 192, 144
+November 15, 2021, Prashant, Shiven, Thomas, Anushka, Aryan, Camil, Andres, $1158.5, 126, 191, 143
+November 16, 2021, Prashant, Shiven, Thomas, Anushka, Aryan, Camil, Andres, $1155.0, 126, 192, 141
+November 17, 2021, Shiven, Thomas, Anushka, Camil, Arnav, Arun, Andres, $1152.0, 126, 192, 140
+November 18, 2021, Shiven, Thomas, Anushka, Arnav, Prashant, Mark, Kimberly, $1151.5, 126, 193, 139
+November 20, 2021, Thomas, Anushka, Arnav, Mark, Arun, Mallory, Andres, $1154.5, 125, 195, 139
+November 21, 2021, Anushka, Arnav, Mark, Arun, Mallory, Grace, Andres, $1153.5, 125, 197, 137
+November 22, 2021, Arnav, Mark, Arun, Grace, Prashant, Camil, Andres, $1156.5, 125, 197, 138
+November 23, 2021, Arnav, Mark, Arun, Grace, Prashant, Aryan, Andres, $1164.0, 126, 198, 139
+November 24, 2021, Arnav, Mark, Arun, Grace, Prashant, Aryan, Andres, $1148.5, 126, 193, 138
+November 25, 2021, Arnav, Mark, Arun, Prashant, Aryan, Neeraj, Andres, $1148.5, 126, 193, 138
+November 27, 2021, Mark, Arun, Prashant, Aryan, Neeraj, Mallory, Andres, $1156.5, 126, 195, 139
+November 28, 2021, Arun, Prashant, Aryan, Neeraj, Mallory, Anushka, Max, $1163.5, 127, 197, 139
+November 29, 2021, Arun, Prashant, Aryan, Neeraj, Mallory, Anushka, Kimberly, $1161.5, 127, 195, 140
+November 30, 2021, Arun, Prashant, Aryan, Neeraj, Mallory, Anushka, Andres, $1165.5, 127, 199, 138
+December 01, 2021, Prashant, Neeraj, Mallory, Elena, Jett, Shiven, Andres, $1171.0, 127, 200, 139
+December 02, 2021, Prashant, Neeraj, Mallory, Elena, Jett, Shiven, Andres, $1173.5, 127, 201, 139
+December 04, 2021, Prashant, Neeraj, Elena, Shiven, Mark, Jett, Andres, $1170.5, 127, 201, 138
+December 05, 2021, Prashant, Elena, Shiven, Jett, Arun, Mark, Andres, $1175.5, 127, 203, 138
+December 06, 2021, Prashant, Elena, Shiven, Arun, Arnav, Aryan, Andres, $1163.5, 126, 199, 138
+December 07, 2021, Prashant, Shiven, Arun, Arnav, Aryan, Thomas, Andres, $1166.5, 125, 201, 138
+December 08, 2021, Prashant, Arun, Arnav, Aryan, Thomas, Mark, Andres, $1181.5, 126, 205, 139
+December 09, 2021, Prashant, Arun, Arnav, Aryan, Mark, Neeraj, Max, $1184.0, 126, 206, 139
+December 11, 2021, Prashant, Arnav, Aryan, Mark, Neeraj, Camil, Kimberly, $1189.0, 126, 208, 139
+December 12, 2021, Prashant, Arnav, Aryan, Neeraj, Camil, Grace, Kimberly, $1198.5, 127, 211, 139
+December 13, 2021, Prashant, Arnav, Aryan, Camil, Grace, Mallory, Max, $1201.0, 128, 210, 140
+December 14, 2021, Prashant, Aryan, Camil, Grace, Elena, Mallory, Max, $1209.5, 128, 211, 142
+December 15, 2021, Prashant, Aryan, Camil, Grace, Elena, Mallory, Max, $1215.5, 127, 213, 143
+December 16, 2021, Aryan, Grace, Mallory, Mark, Shiven, Arun, Max, $1226.5, 127, 215, 145
+December 18, 2021, Grace, Mallory, Shiven, Anushka, Mark, Neeraj, Max, $1226.5, 127, 215, 145
+December 19, 2021, Mallory, Shiven, Mark, Aryan, Arnav, Grace, Max, $1237.5, 127, 217, 147
+December 20, 2021, Mallory, Mark, Aryan, Arnav, Grace, Camil, Max, $1241.5, 128, 219, 146
+December 21, 2021, Mark, Aryan, Arnav, Grace, Camil, Mallory, Andres, $1242.0, 128, 218, 147
+December 22, 2021, Mark, Arnav, Grace, Mallory, Elena, Neeraj, Andres, $1246.5, 129, 219, 147
+December 23, 2021, Mark, Arnav, Mallory, Neeraj, Grace, Arun, Max, $1264.5, 129, 225, 148
+December 25, 2021, Arnav, Mallory, Grace, Arun, Prashant, Camil, Max, $1269.5, 130, 225, 149
+December 26, 2021, Arnav, Mallory, Arun, Prashant, Camil, Jett, Max, $1259.0, 130, 222, 148
+December 27, 2021, Mallory, Prashant, Camil, Jett, Grace, Mark, Max, $1262.0, 130, 222, 149
+December 28, 2021, Mallory, Prashant, Jett, Mark, Camil, Elena, Kimberly, $1267.5, 130, 223, 150
+December 29, 2021, Mallory, Prashant, Jett, Mark, Elena, Arun, Kimberly, $1270.5, 130, 223, 151
+December 30, 2021, Prashant, Jett, Mark, Elena, Arun, Anushka, Andres, $1275.5, 131, 223, 152
+January 01, 2022, Prashant, Jett, Mark, Elena, Anushka, Aryan, Andres, $1278.5, 131, 223, 153
+January 02, 2022, Prashant, Jett, Elena, Aryan, Mallory, Camil, Kimberly, $1288.0, 132, 226, 153
+January 03, 2022, Prashant, Jett, Aryan, Mallory, Camil, Neeraj, Kimberly, $1301.5, 132, 229, 155
+January 04, 2022, Prashant, Jett, Aryan, Mallory, Neeraj, Mark, Kimberly, $1292.0, 131, 226, 155
+January 05, 2022, Jett, Aryan, Neeraj, Mark, Camil, Shiven, Kimberly, $1296.5, 131, 229, 154
+January 06, 2022, Jett, Aryan, Neeraj, Mark, Camil, Arnav, Kimberly, $1293.0, 132, 228, 153
+January 08, 2022, Jett, Aryan, Neeraj, Mark, Camil, Arnav, Kimberly, $1289.5, 132, 229, 151
+January 09, 2022, Jett, Aryan, Neeraj, Camil, Arnav, Anushka, Kimberly, $1295.5, 132, 229, 153
+January 10, 2022, Jett, Aryan, Neeraj, Arnav, Anushka, Grace, Kimberly, $1298.5, 132, 229, 154
+January 11, 2022, Aryan, Neeraj, Arnav, Anushka, Grace, Jett, Max, $1306.5, 132, 231, 155
+January 12, 2022, Aryan, Neeraj, Arnav, Anushka, Grace, Jett, Max, $1313.0, 131, 232, 157
+January 13, 2022, Neeraj, Anushka, Grace, Jett, Elena, Aryan, Max, $1322.0, 130, 234, 159
+January 15, 2022, Anushka, Jett, Elena, Aryan, Arnav, Camil, Andres, $1317.5, 129, 233, 159
+January 16, 2022, Anushka, Jett, Elena, Aryan, Arnav, Thomas, Kimberly, $1315.0, 129, 232, 159
+January 17, 2022, Anushka, Jett, Elena, Aryan, Arnav, Mallory, Kimberly, $1315.5, 129, 231, 160
+January 18, 2022, Jett, Elena, Arnav, Shiven, Arun, Aryan, Kimberly, $1321.5, 128, 233, 161
+January 19, 2022, Jett, Arnav, Shiven, Arun, Anushka, Prashant, Kimberly, $1324.0, 128, 234, 161
+January 20, 2022, Jett, Arnav, Shiven, Arun, Prashant, Grace, Kimberly, $1321.0, 128, 234, 160
+January 22, 2022, Jett, Arnav, Arun, Prashant, Grace, Thomas, Kimberly, $1326.0, 128, 236, 160
+January 23, 2022, Jett, Arnav, Prashant, Thomas, Neeraj, Arun, Kimberly, $1329.0, 127, 238, 160
+January 24, 2022, Jett, Arnav, Prashant, Neeraj, Mallory, Grace, Kimberly, $1335.5, 127, 237, 163
+January 25, 2022, Jett, Arnav, Prashant, Neeraj, Mallory, Grace, Kimberly, $1335.5, 128, 235, 164
+January 26, 2022, Jett, Arnav, Prashant, Neeraj, Mallory, Thomas, Kimberly, $1343.5, 128, 237, 165
+January 27, 2022, Arnav, Prashant, Neeraj, Mallory, Thomas, Arun, Andres, $1341.5, 128, 235, 166
+January 29, 2022, Prashant, Mallory, Thomas, Arun, Arnav, Jett, Andres, $1354.5, 128, 239, 167
+January 30, 2022, Prashant, Mallory, Thomas, Arnav, Shiven, Mark, Kimberly, $1360.5, 128, 239, 169
+January 31, 2022, Mallory, Arnav, Mark, Prashant, Camil, Shiven, Kimberly, $1357.5, 128, 239, 168
+February 01, 2022, Arnav, Prashant, Camil, Anushka, Elena, Shiven, Kimberly, $1352.5, 127, 239, 167
+February 02, 2022, Arnav, Prashant, Camil, Anushka, Elena, Mallory, Kimberly, $1361.0, 127, 240, 169
+February 03, 2022, Prashant, Anushka, Elena, Mallory, Arun, Arnav, Kimberly, $1364.0, 127, 240, 170
+February 05, 2022, Prashant, Anushka, Mallory, Arnav, Mark, Aryan, Kimberly, $1361.5, 127, 239, 170
+February 06, 2022, Prashant, Mallory, Mark, Anushka, Elena, Camil, Max, $1349.5, 126, 235, 170
+February 07, 2022, Prashant, Mark, Anushka, Elena, Camil, Arun, Andres, $1357.5, 127, 235, 172
+February 08, 2022, Mark, Anushka, Elena, Arun, Prashant, Aryan, Max, $1357.5, 127, 235, 172
+February 09, 2022, Mark, Anushka, Arun, Aryan, Elena, Prashant, Kimberly, $1358.5, 126, 235, 173
+February 10, 2022, Mark, Anushka, Arun, Elena, Prashant, Jett, Kimberly, $1360.5, 126, 237, 172
+February 12, 2022, Mark, Arun, Elena, Prashant, Jett, Aryan, Kimberly, $1370.0, 126, 242, 171
+February 13, 2022, Mark, Arun, Elena, Prashant, Jett, Aryan, Andres, $1363.0, 125, 240, 171
+February 14, 2022, Mark, Elena, Jett, Thomas, Anushka, Camil, Andres, $1363.0, 125, 240, 171
+February 15, 2022, Mark, Elena, Jett, Anushka, Prashant, Thomas, Andres, $1355.0, 125, 238, 170
+February 16, 2022, Mark, Elena, Anushka, Prashant, Thomas, Jett, Andres, $1362.5, 126, 239, 171
+February 17, 2022, Elena, Anushka, Prashant, Jett, Arnav, Aryan, Andres, $1362.5, 126, 239, 171
+February 19, 2022, Elena, Anushka, Jett, Arnav, Aryan, Arun, Andres, $1365.0, 126, 240, 171
+February 20, 2022, Elena, Jett, Arnav, Aryan, Anushka, Thomas, Andres, $1360.0, 126, 238, 171
+February 21, 2022, Elena, Jett, Arnav, Anushka, Thomas, Grace, Andres, $1365.5, 126, 239, 172
+February 22, 2022, Jett, Arnav, Anushka, Grace, Mark, Elena, Andres, $1354.5, 126, 237, 170
+February 23, 2022, Arnav, Anushka, Grace, Mark, Elena, Camil, Andres, $1359.5, 126, 239, 170
+February 24, 2022, Anushka, Grace, Mark, Elena, Camil, Mallory, Andres, $1352.0, 126, 236, 170
+February 26, 2022, Grace, Mark, Camil, Mallory, Arnav, Jett, Kimberly, $1342.5, 124, 235, 169
+February 27, 2022, Mark, Camil, Mallory, Arnav, Jett, Shiven, Andres, $1348.0, 125, 234, 171
+February 28, 2022, Camil, Arnav, Jett, Neeraj, Mark, Prashant, Andres, $1340.0, 125, 232, 170
+March 01, 2022, Camil, Arnav, Jett, Neeraj, Mark, Prashant, Max, $1342.5, 125, 233, 170
+March 02, 2022, Arnav, Jett, Neeraj, Mark, Prashant, Anushka, Kimberly, $1345.0, 125, 234, 170
+March 03, 2022, Jett, Neeraj, Prashant, Arnav, Camil, Mark, Kimberly, $1339.5, 125, 233, 169
+March 05, 2022, Jett, Neeraj, Arnav, Mark, Grace, Shiven, Kimberly, $1340.0, 124, 234, 169
+March 06, 2022, Jett, Arnav, Mark, Grace, Shiven, Anushka, Kimberly, $1345.0, 124, 236, 169
+March 07, 2022, Jett, Mark, Grace, Anushka, Thomas, Arun, Kimberly, $1348.0, 124, 236, 170
+March 08, 2022, Mark, Grace, Anushka, Arun, Elena, Arnav, Andres, $1355.0, 123, 236, 173
+March 09, 2022, Mark, Grace, Arun, Elena, Arnav, Neeraj, Andres, $1368.0, 123, 240, 174
+March 10, 2022, Mark, Grace, Arun, Elena, Arnav, Neeraj, Andres, $1368.0, 123, 240, 174
+
+LOCATION: Willowbrook
+Rent: $3900
+
+
+March 13, 2021, Emmanuel, Carlos, Viha, Rishika, $712.0, 127, 92, 76
+March 14, 2021, Emmanuel, Viha, Vladimir, Rishika, $701.5, 128, 87, 76
+March 15, 2021, Emmanuel, Viha, Vladimir, Caroline, $704.0, 128, 88, 76
+March 16, 2021, Emmanuel, Viha, Vladimir, Caroline, $709.0, 128, 90, 76
+March 17, 2021, Emmanuel, Vladimir, Viha, Caroline, $712.5, 128, 89, 78
+March 18, 2021, Vladimir, Viha, Songting, Rishika, $704.5, 128, 87, 77
+March 20, 2021, Vladimir, Viha, Songting, Caroline, $703.0, 128, 84, 79
+March 21, 2021, Vladimir, Viha, Emmanuel, Caroline, $708.0, 129, 84, 80
+March 22, 2021, Viha, Emmanuel, Jesus, Caroline, $707.5, 129, 85, 79
+March 23, 2021, Viha, Emmanuel, Jesus, Caroline, $711.5, 130, 87, 78
+March 24, 2021, Emmanuel, Jesus, Viha, Caroline, $703.5, 130, 85, 77
+March 25, 2021, Emmanuel, Viha, Luca, Caroline, $705.5, 130, 87, 76
+March 27, 2021, Viha, Vladimir, Jesus, Caroline, $705.5, 131, 85, 77
+March 28, 2021, Viha, Vladimir, Luca, Caroline, $715.0, 132, 88, 77
+March 29, 2021, Viha, Luca, Songting, Caroline, $717.0, 132, 90, 76
+March 30, 2021, Viha, Luca, Songting, Caroline, $714.5, 133, 87, 77
+March 31, 2021, Viha, Luca, Songting, Caroline, $713.5, 134, 87, 76
+April 01, 2021, Viha, Luca, Igor, Caroline, $708.0, 135, 84, 76
+April 03, 2021, Viha, Luca, Jesus, Caroline, $707.5, 135, 85, 75
+April 04, 2021, Viha, Jesus, Emmanuel, Rishika, $707.0, 136, 84, 75
+April 05, 2021, Viha, Jesus, Emmanuel, Rishika, $712.0, 137, 84, 76
+April 06, 2021, Viha, Jesus, Songting, Rishika, $707.0, 138, 80, 77
+April 07, 2021, Viha, Jesus, Songting, Rishika, $706.0, 139, 80, 76
+April 08, 2021, Viha, Jesus, Songting, Rishika, $705.5, 139, 81, 75
+April 10, 2021, Viha, Jesus, Songting, Rishika, $699.5, 140, 79, 74
+April 11, 2021, Jesus, Viha, Songting, Caroline, $691.5, 141, 75, 74
+April 12, 2021, Jesus, Songting, Vladimir, Caroline, $692.0, 141, 74, 75
+April 13, 2021, Jesus, Songting, Vladimir, Rishika, $701.5, 142, 77, 75
+April 14, 2021, Jesus, Vladimir, Viha, Caroline, $709.0, 142, 80, 75
+April 15, 2021, Jesus, Vladimir, Viha, Caroline, $708.5, 142, 81, 74
+April 17, 2021, Vladimir, Viha, Emmanuel, Caroline, $716.0, 143, 82, 75
+April 18, 2021, Vladimir, Viha, Emmanuel, Caroline, $721.5, 143, 83, 76
+April 19, 2021, Vladimir, Emmanuel, Jesus, Rishika, $726.0, 144, 84, 76
+April 20, 2021, Vladimir, Emmanuel, Jesus, Rishika, $727.5, 145, 85, 75
+April 21, 2021, Vladimir, Jesus, Songting, Rishika, $729.5, 146, 85, 75
+April 22, 2021, Vladimir, Jesus, Songting, Rishika, $729.5, 147, 83, 76
+April 24, 2021, Vladimir, Jesus, Songting, Caroline, $744.0, 148, 88, 76
+April 25, 2021, Vladimir, Jesus, Emmanuel, Rishika, $753.5, 149, 91, 76
+April 26, 2021, Jesus, Emmanuel, Songting, Rishika, $758.5, 150, 91, 77
+April 27, 2021, Emmanuel, Songting, Luca, Rishika, $765.5, 151, 93, 77
+April 28, 2021, Emmanuel, Songting, Luca, Rishika, $771.0, 151, 94, 78
+April 29, 2021, Songting, Luca, Vladimir, Rishika, $768.0, 151, 94, 77
+May 01, 2021, Songting, Vladimir, Viha, Rishika, $765.0, 152, 92, 77
+May 02, 2021, Songting, Vladimir, Viha, Rishika, $762.0, 153, 90, 77
+May 03, 2021, Songting, Viha, Jesus, Rishika, $774.5, 154, 93, 78
+May 04, 2021, Songting, Jesus, Vladimir, Rishika, $774.0, 155, 92, 78
+May 05, 2021, Songting, Jesus, Carlos, Caroline, $775.5, 156, 93, 77
+May 06, 2021, Songting, Carlos, Emmanuel, Caroline, $780.5, 156, 95, 77
+May 08, 2021, Songting, Emmanuel, Jesus, Caroline, $790.0, 157, 98, 77
+May 09, 2021, Songting, Emmanuel, Jesus, Caroline, $795.0, 158, 98, 78
+May 10, 2021, Songting, Emmanuel, Jesus, Caroline, $805.5, 159, 99, 80
+May 11, 2021, Songting, Emmanuel, Jesus, Caroline, $808.5, 158, 101, 80
+May 12, 2021, Emmanuel, Jesus, Vladimir, Caroline, $803.0, 157, 102, 78
+May 13, 2021, Jesus, Luca, Carlos, Caroline, $798.5, 157, 99, 79
+May 15, 2021, Luca, Carlos, Vladimir, Caroline, $805.0, 157, 98, 82
+May 16, 2021, Luca, Vladimir, Viha, Caroline, $809.5, 158, 99, 82
+May 17, 2021, Luca, Vladimir, Viha, Caroline, $808.0, 160, 98, 81
+May 18, 2021, Luca, Vladimir, Viha, Caroline, $805.5, 161, 95, 82
+May 19, 2021, Vladimir, Emmanuel, Igor, Caroline, $800.5, 162, 91, 83
+May 20, 2021, Emmanuel, Igor, Vladimir, Rishika, $800.5, 163, 89, 84
+May 22, 2021, Emmanuel, Igor, Vladimir, Rishika, $803.0, 163, 90, 84
+May 23, 2021, Emmanuel, Igor, Vladimir, Rishika, $813.5, 164, 91, 86
+May 24, 2021, Igor, Vladimir, Carlos, Rishika, $808.5, 164, 89, 86
+May 25, 2021, Igor, Carlos, Emmanuel, Rishika, $808.0, 165, 88, 86
+May 26, 2021, Igor, Emmanuel, Luca, Rishika, $807.5, 166, 87, 86
+May 27, 2021, Igor, Emmanuel, Luca, Rishika, $815.0, 167, 88, 87
+May 29, 2021, Igor, Emmanuel, Luca, Rishika, $813.5, 167, 85, 89
+May 30, 2021, Igor, Emmanuel, Luca, Rishika, $811.5, 167, 83, 90
+May 31, 2021, Emmanuel, Luca, Vladimir, Caroline, $822.0, 167, 86, 91
+June 01, 2021, Luca, Vladimir, Viha, Caroline, $827.0, 168, 86, 92
+June 02, 2021, Luca, Viha, Vladimir, Caroline, $832.5, 169, 85, 94
+June 03, 2021, Luca, Viha, Vladimir, Rishika, $835.5, 170, 83, 96
+June 05, 2021, Viha, Jesus, Luca, Caroline, $842.5, 171, 85, 96
+June 06, 2021, Jesus, Viha, Vladimir, Caroline, $839.5, 171, 85, 95
+June 07, 2021, Jesus, Viha, Vladimir, Caroline, $852.0, 172, 88, 96
+June 08, 2021, Viha, Vladimir, Carlos, Caroline, $855.5, 172, 87, 98
+June 09, 2021, Viha, Vladimir, Emmanuel, Rishika, $851.0, 172, 84, 99
+June 10, 2021, Viha, Vladimir, Emmanuel, Rishika, $854.0, 174, 86, 97
+June 12, 2021, Viha, Vladimir, Emmanuel, Rishika, $855.5, 175, 87, 96
+June 13, 2021, Vladimir, Emmanuel, Luca, Rishika, $857.0, 176, 88, 95
+June 14, 2021, Vladimir, Luca, Viha, Rishika, $856.5, 177, 87, 95
+June 15, 2021, Vladimir, Luca, Viha, Rishika, $853.5, 177, 87, 94
+June 16, 2021, Vladimir, Luca, Viha, Rishika, $847.5, 178, 85, 93
+June 17, 2021, Vladimir, Viha, Carlos, Rishika, $855.0, 179, 86, 94
+June 19, 2021, Vladimir, Viha, Luca, Rishika, $856.5, 180, 87, 93
+June 20, 2021, Viha, Luca, Emmanuel, Rishika, $858.0, 181, 88, 92
+June 21, 2021, Viha, Emmanuel, Jesus, Rishika, $855.0, 181, 88, 91
+June 22, 2021, Viha, Emmanuel, Jesus, Rishika, $855.0, 181, 88, 91
+June 23, 2021, Viha, Jesus, Vladimir, Rishika, $862.5, 181, 91, 91
+June 24, 2021, Viha, Jesus, Vladimir, Rishika, $862.0, 181, 92, 90
+June 26, 2021, Viha, Jesus, Songting, Rishika, $850.5, 182, 89, 88
+June 27, 2021, Jesus, Songting, Viha, Rishika, $859.5, 184, 91, 88
+June 28, 2021, Jesus, Songting, Vladimir, Rishika, $861.0, 185, 92, 87
+June 29, 2021, Songting, Vladimir, Emmanuel, Rishika, $861.5, 185, 91, 88
+June 30, 2021, Songting, Vladimir, Emmanuel, Rishika, $866.5, 185, 93, 88
+July 01, 2021, Songting, Vladimir, Emmanuel, Rishika, $875.5, 185, 93, 91
+July 03, 2021, Vladimir, Emmanuel, Carlos, Rishika, $877.5, 185, 95, 90
+July 04, 2021, Vladimir, Carlos, Jesus, Rishika, $874.0, 186, 94, 89
+July 05, 2021, Vladimir, Carlos, Jesus, Rishika, $876.0, 187, 94, 89
+July 06, 2021, Vladimir, Jesus, Luca, Rishika, $880.5, 188, 95, 89
+July 07, 2021, Jesus, Luca, Igor, Rishika, $882.5, 189, 95, 89
+July 08, 2021, Luca, Songting, Emmanuel, Caroline, $889.5, 190, 97, 89
+July 10, 2021, Luca, Songting, Emmanuel, Caroline, $897.5, 190, 99, 90
+July 11, 2021, Luca, Emmanuel, Viha, Rishika, $882.5, 190, 93, 90
+July 12, 2021, Luca, Emmanuel, Carlos, Rishika, $888.0, 191, 92, 92
+July 13, 2021, Luca, Carlos, Vladimir, Rishika, $897.5, 192, 95, 92
+July 14, 2021, Luca, Carlos, Jesus, Rishika, $895.0, 191, 96, 91
+July 15, 2021, Luca, Carlos, Jesus, Rishika, $894.0, 192, 96, 90
+July 17, 2021, Carlos, Jesus, Viha, Rishika, $885.0, 191, 92, 91
+July 18, 2021, Carlos, Jesus, Viha, Rishika, $887.5, 192, 91, 92
+July 19, 2021, Carlos, Jesus, Viha, Rishika, $891.5, 193, 93, 91
+July 20, 2021, Carlos, Jesus, Luca, Rishika, $894.5, 193, 93, 92
+July 21, 2021, Carlos, Jesus, Luca, Rishika, $886.0, 195, 88, 92
+July 22, 2021, Jesus, Luca, Songting, Rishika, $884.0, 195, 86, 93
+July 24, 2021, Jesus, Luca, Songting, Rishika, $881.0, 195, 86, 92
+July 25, 2021, Luca, Songting, Viha, Rishika, $877.0, 196, 86, 90
+July 26, 2021, Songting, Vladimir, Luca, Rishika, $878.0, 198, 86, 89
+July 27, 2021, Songting, Luca, Emmanuel, Rishika, $880.0, 199, 86, 89
+July 28, 2021, Songting, Emmanuel, Igor, Rishika, $886.5, 199, 91, 87
+July 29, 2021, Songting, Igor, Viha, Rishika, $886.0, 200, 90, 87
+July 31, 2021, Songting, Igor, Viha, Rishika, $876.0, 199, 88, 86
+August 01, 2021, Songting, Viha, Emmanuel, Rishika, $883.5, 199, 91, 86
+August 02, 2021, Viha, Emmanuel, Jesus, Rishika, $890.5, 200, 93, 86
+August 03, 2021, Viha, Emmanuel, Jesus, Rishika, $888.5, 201, 89, 88
+August 04, 2021, Viha, Jesus, Luca, Rishika, $891.0, 202, 88, 89
+August 05, 2021, Viha, Jesus, Luca, Caroline, $893.5, 203, 87, 90
+August 07, 2021, Viha, Luca, Emmanuel, Caroline, $898.0, 204, 88, 90
+August 08, 2021, Viha, Luca, Emmanuel, Caroline, $897.0, 205, 88, 89
+August 09, 2021, Viha, Emmanuel, Songting, Caroline, $896.5, 206, 87, 89
+August 10, 2021, Viha, Emmanuel, Songting, Caroline, $902.5, 206, 87, 91
+August 11, 2021, Emmanuel, Songting, Luca, Caroline, $896.5, 207, 85, 90
+August 12, 2021, Emmanuel, Songting, Luca, Caroline, $896.5, 207, 85, 90
+August 14, 2021, Emmanuel, Luca, Carlos, Rishika, $896.5, 208, 83, 91
+August 15, 2021, Emmanuel, Luca, Carlos, Rishika, $890.5, 209, 81, 90
+August 16, 2021, Emmanuel, Luca, Igor, Caroline, $895.5, 210, 81, 91
+August 17, 2021, Luca, Songting, Viha, Caroline, $897.0, 212, 80, 91
+August 18, 2021, Luca, Viha, Songting, Caroline, $902.0, 212, 82, 91
+August 19, 2021, Luca, Viha, Songting, Caroline, $902.5, 212, 81, 92
+August 21, 2021, Luca, Viha, Songting, Caroline, $911.0, 212, 82, 94
+August 22, 2021, Viha, Songting, Vladimir, Caroline, $908.5, 213, 79, 95
+August 23, 2021, Viha, Songting, Emmanuel, Caroline, $920.0, 215, 82, 95
+August 24, 2021, Songting, Emmanuel, Luca, Caroline, $916.5, 216, 81, 94
+August 25, 2021, Songting, Luca, Vladimir, Caroline, $920.5, 217, 83, 93
+August 26, 2021, Luca, Songting, Jesus, Caroline, $923.5, 217, 83, 94
+August 28, 2021, Luca, Songting, Jesus, Caroline, $926.5, 217, 83, 95
+August 29, 2021, Luca, Songting, Jesus, Caroline, $928.0, 218, 84, 94
+August 30, 2021, Songting, Jesus, Luca, Caroline, $935.5, 219, 85, 95
+August 31, 2021, Songting, Luca, Vladimir, Caroline, $942.5, 220, 87, 95
+September 01, 2021, Songting, Luca, Vladimir, Caroline, $944.5, 221, 87, 95
+September 02, 2021, Luca, Viha, Igor, Rishika, $934.0, 222, 82, 95
+September 04, 2021, Luca, Viha, Igor, Rishika, $946.5, 223, 85, 96
+September 05, 2021, Viha, Emmanuel, Luca, Rishika, $948.5, 224, 85, 96
+September 06, 2021, Emmanuel, Luca, Jesus, Rishika, $948.5, 224, 85, 96
+September 07, 2021, Emmanuel, Luca, Jesus, Rishika, $947.5, 225, 85, 95
+September 08, 2021, Emmanuel, Jesus, Songting, Rishika, $949.5, 225, 87, 94
+September 09, 2021, Emmanuel, Songting, Carlos, Rishika, $956.0, 225, 86, 97
+September 11, 2021, Emmanuel, Carlos, Songting, Rishika, $958.0, 226, 86, 97
+September 12, 2021, Carlos, Emmanuel, Songting, Rishika, $970.0, 227, 90, 97
+September 13, 2021, Emmanuel, Luca, Jesus, Rishika, $965.0, 227, 88, 97
+September 14, 2021, Emmanuel, Luca, Jesus, Caroline, $967.5, 227, 89, 97
+September 15, 2021, Emmanuel, Luca, Jesus, Caroline, $973.5, 227, 89, 99
+September 16, 2021, Luca, Jesus, Igor, Rishika, $981.0, 228, 90, 100
+September 18, 2021, Jesus, Igor, Viha, Rishika, $988.5, 229, 91, 101
+September 19, 2021, Jesus, Igor, Songting, Rishika, $984.0, 230, 92, 98
+September 20, 2021, Jesus, Igor, Emmanuel, Rishika, $982.0, 230, 90, 99
+September 21, 2021, Jesus, Igor, Emmanuel, Caroline, $987.0, 230, 92, 99
+September 22, 2021, Igor, Emmanuel, Carlos, Caroline, $989.0, 231, 92, 99
+September 23, 2021, Igor, Emmanuel, Carlos, Caroline, $988.5, 232, 91, 99
+September 25, 2021, Emmanuel, Vladimir, Viha, Rishika, $981.0, 232, 88, 99
+September 26, 2021, Emmanuel, Vladimir, Viha, Rishika, $973.0, 232, 86, 98
+September 27, 2021, Emmanuel, Viha, Carlos, Rishika, $965.0, 232, 84, 97
+September 28, 2021, Emmanuel, Carlos, Jesus, Rishika, $959.5, 233, 81, 97
+September 29, 2021, Carlos, Jesus, Songting, Caroline, $962.5, 233, 81, 98
+September 30, 2021, Carlos, Jesus, Songting, Rishika, $970.5, 233, 83, 99
+October 02, 2021, Carlos, Jesus, Songting, Rishika, $962.0, 234, 80, 98
+October 03, 2021, Carlos, Jesus, Songting, Caroline, $957.0, 234, 78, 98
+October 04, 2021, Carlos, Jesus, Songting, Caroline, $957.5, 234, 77, 99
+October 05, 2021, Jesus, Songting, Vladimir, Caroline, $960.5, 234, 77, 100
+October 06, 2021, Jesus, Songting, Vladimir, Caroline, $968.0, 234, 80, 100
+October 07, 2021, Jesus, Songting, Vladimir, Caroline, $967.0, 235, 80, 99
+October 09, 2021, Jesus, Vladimir, Viha, Caroline, $965.0, 235, 78, 100
+October 10, 2021, Jesus, Viha, Carlos, Caroline, $969.5, 236, 79, 100
+October 11, 2021, Jesus, Viha, Carlos, Caroline, $971.5, 237, 79, 100
+October 12, 2021, Viha, Carlos, Luca, Caroline, $982.0, 237, 82, 101
+October 13, 2021, Viha, Carlos, Luca, Caroline, $987.0, 238, 82, 102
+October 14, 2021, Viha, Carlos, Luca, Caroline, $981.5, 238, 81, 101
+October 16, 2021, Viha, Carlos, Songting, Caroline, $986.0, 239, 82, 101
+October 17, 2021, Carlos, Songting, Vladimir, Caroline, $975.0, 239, 80, 99
+October 18, 2021, Carlos, Songting, Vladimir, Caroline, $979.5, 240, 81, 99
+October 19, 2021, Carlos, Songting, Luca, Caroline, $982.5, 240, 81, 100
+October 20, 2021, Carlos, Songting, Luca, Caroline, $974.5, 240, 79, 99
+October 21, 2021, Songting, Luca, Jesus, Caroline, $982.0, 240, 82, 99
+October 23, 2021, Songting, Luca, Jesus, Caroline, $978.5, 241, 81, 98
+October 24, 2021, Songting, Luca, Vladimir, Caroline, $980.0, 242, 82, 97
+October 25, 2021, Songting, Luca, Vladimir, Caroline, $971.5, 242, 81, 95
+October 26, 2021, Songting, Vladimir, Jesus, Caroline, $971.0, 242, 82, 94
+October 27, 2021, Songting, Vladimir, Luca, Caroline, $967.5, 243, 81, 93
+October 28, 2021, Songting, Luca, Emmanuel, Caroline, $964.0, 244, 80, 92
+October 30, 2021, Songting, Luca, Jesus, Caroline, $964.5, 245, 77, 94
+October 31, 2021, Songting, Jesus, Luca, Rishika, $974.5, 246, 79, 95
+November 01, 2021, Songting, Jesus, Luca, Rishika, $979.5, 246, 81, 95
+November 02, 2021, Songting, Luca, Jesus, Rishika, $983.0, 246, 80, 97
+November 03, 2021, Songting, Luca, Jesus, Rishika, $985.0, 246, 82, 96
+November 04, 2021, Songting, Luca, Jesus, Rishika, $991.5, 247, 85, 95
+November 06, 2021, Luca, Jesus, Emmanuel, Rishika, $988.0, 247, 86, 93
+November 07, 2021, Luca, Jesus, Emmanuel, Rishika, $986.0, 247, 84, 94
+November 08, 2021, Luca, Jesus, Emmanuel, Caroline, $994.0, 247, 86, 95
+November 09, 2021, Jesus, Emmanuel, Vladimir, Caroline, $986.0, 247, 84, 94
+November 10, 2021, Emmanuel, Viha, Jesus, Caroline, $983.0, 247, 84, 93
+November 11, 2021, Emmanuel, Jesus, Vladimir, Caroline, $993.0, 247, 88, 93
+November 13, 2021, Emmanuel, Jesus, Viha, Caroline, $991.5, 247, 85, 95
+November 14, 2021, Emmanuel, Viha, Carlos, Caroline, $1003.5, 248, 89, 95
+November 15, 2021, Emmanuel, Viha, Carlos, Caroline, $1010.5, 249, 91, 95
+November 16, 2021, Viha, Carlos, Jesus, Caroline, $1018.5, 249, 93, 96
+November 17, 2021, Carlos, Jesus, Emmanuel, Caroline, $1025.0, 250, 96, 95
+November 18, 2021, Carlos, Jesus, Emmanuel, Caroline, $1027.5, 251, 95, 96
+November 20, 2021, Carlos, Emmanuel, Luca, Caroline, $1023.5, 251, 97, 93
+November 21, 2021, Carlos, Emmanuel, Luca, Caroline, $1026.0, 251, 98, 93
+November 22, 2021, Emmanuel, Vladimir, Songting, Caroline, $1036.0, 252, 100, 94
+November 23, 2021, Vladimir, Songting, Carlos, Caroline, $1022.5, 253, 95, 93
+November 24, 2021, Vladimir, Carlos, Jesus, Caroline, $1028.0, 254, 94, 95
+November 25, 2021, Vladimir, Carlos, Jesus, Caroline, $1036.5, 255, 93, 98
+November 27, 2021, Vladimir, Carlos, Jesus, Caroline, $1044.0, 256, 94, 99
+November 28, 2021, Carlos, Jesus, Viha, Caroline, $1045.5, 257, 95, 98
+November 29, 2021, Carlos, Viha, Luca, Caroline, $1045.0, 258, 94, 98
+November 30, 2021, Viha, Luca, Igor, Caroline, $1036.5, 258, 93, 96
+December 01, 2021, Viha, Igor, Songting, Caroline, $1039.0, 258, 94, 96
+December 02, 2021, Igor, Songting, Viha, Rishika, $1036.0, 258, 94, 95
+December 04, 2021, Igor, Songting, Viha, Caroline, $1039.0, 258, 94, 96
+December 05, 2021, Igor, Songting, Viha, Caroline, $1028.0, 258, 92, 94
+December 06, 2021, Igor, Viha, Carlos, Caroline, $1037.5, 259, 95, 94
+December 07, 2021, Igor, Carlos, Vladimir, Rishika, $1034.5, 260, 93, 94
+December 08, 2021, Igor, Carlos, Luca, Caroline, $1038.0, 260, 92, 96
+December 09, 2021, Carlos, Luca, Songting, Caroline, $1038.5, 261, 89, 98
+December 11, 2021, Carlos, Luca, Songting, Rishika, $1048.5, 262, 91, 99
+December 12, 2021, Luca, Songting, Carlos, Rishika, $1047.5, 263, 91, 98
+December 13, 2021, Songting, Carlos, Jesus, Rishika, $1054.0, 264, 94, 97
+December 14, 2021, Songting, Jesus, Emmanuel, Rishika, $1053.5, 264, 95, 96
+December 15, 2021, Songting, Emmanuel, Luca, Caroline, $1055.0, 265, 96, 95
+December 16, 2021, Songting, Emmanuel, Jesus, Caroline, $1055.5, 265, 95, 96
+December 18, 2021, Emmanuel, Jesus, Igor, Caroline, $1052.5, 265, 95, 95
+December 19, 2021, Jesus, Igor, Songting, Caroline, $1054.0, 266, 96, 94
+December 20, 2021, Jesus, Igor, Songting, Caroline, $1054.5, 266, 95, 95
+December 21, 2021, Igor, Emmanuel, Vladimir, Caroline, $1051.0, 266, 96, 93
+December 22, 2021, Igor, Emmanuel, Vladimir, Caroline, $1047.5, 266, 97, 91
+December 23, 2021, Emmanuel, Vladimir, Songting, Caroline, $1045.0, 267, 94, 92
+December 25, 2021, Vladimir, Songting, Jesus, Caroline, $1054.5, 268, 97, 92
+December 26, 2021, Vladimir, Songting, Jesus, Caroline, $1068.0, 268, 100, 94
+December 27, 2021, Vladimir, Jesus, Viha, Caroline, $1067.0, 269, 100, 93
+December 28, 2021, Vladimir, Jesus, Viha, Caroline, $1064.5, 268, 101, 92
+December 29, 2021, Vladimir, Jesus, Viha, Caroline, $1067.0, 269, 100, 93
+December 30, 2021, Vladimir, Jesus, Emmanuel, Caroline, $1077.0, 270, 102, 94
+January 01, 2022, Vladimir, Emmanuel, Carlos, Caroline, $1083.0, 270, 102, 96
+January 02, 2022, Vladimir, Emmanuel, Carlos, Caroline, $1090.0, 271, 104, 96
+January 03, 2022, Vladimir, Carlos, Jesus, Caroline, $1092.0, 272, 104, 96
+January 04, 2022, Vladimir, Carlos, Jesus, Caroline, $1089.5, 272, 103, 96
+January 05, 2022, Vladimir, Carlos, Jesus, Caroline, $1076.5, 272, 99, 95
+January 06, 2022, Vladimir, Carlos, Jesus, Caroline, $1080.5, 273, 101, 94
+January 08, 2022, Vladimir, Carlos, Jesus, Caroline, $1082.0, 274, 102, 93
+January 09, 2022, Vladimir, Carlos, Jesus, Caroline, $1076.5, 274, 101, 92
+January 10, 2022, Carlos, Jesus, Luca, Caroline, $1076.5, 275, 99, 93
+January 11, 2022, Carlos, Jesus, Luca, Caroline, $1072.0, 275, 96, 94
+January 12, 2022, Carlos, Jesus, Luca, Caroline, $1073.5, 276, 97, 93
+January 13, 2022, Carlos, Jesus, Songting, Caroline, $1078.5, 277, 97, 94
+January 15, 2022, Jesus, Carlos, Igor, Caroline, $1075.5, 278, 95, 94
+January 16, 2022, Carlos, Songting, Igor, Rishika, $1083.0, 279, 96, 95
+January 17, 2022, Songting, Igor, Viha, Caroline, $1072.5, 278, 95, 93
+January 18, 2022, Igor, Viha, Carlos, Rishika, $1077.0, 279, 96, 93
+January 19, 2022, Igor, Viha, Carlos, Rishika, $1069.5, 279, 93, 93
+January 20, 2022, Igor, Viha, Carlos, Rishika, $1064.0, 280, 90, 93
+January 22, 2022, Igor, Viha, Songting, Rishika, $1074.5, 281, 91, 95
+January 23, 2022, Igor, Viha, Songting, Rishika, $1079.0, 282, 92, 95
+January 24, 2022, Igor, Viha, Songting, Rishika, $1087.0, 282, 94, 96
+January 25, 2022, Viha, Emmanuel, Songting, Rishika, $1086.0, 283, 94, 95
+January 26, 2022, Viha, Emmanuel, Songting, Rishika, $1084.0, 283, 92, 96
+January 27, 2022, Emmanuel, Songting, Viha, Rishika, $1084.0, 283, 92, 96
+January 29, 2022, Songting, Emmanuel, Jesus, Rishika, $1068.0, 284, 86, 95
+January 30, 2022, Songting, Emmanuel, Jesus, Rishika, $1065.0, 284, 86, 94
+January 31, 2022, Emmanuel, Jesus, Viha, Rishika, $1061.5, 285, 85, 93
+February 01, 2022, Emmanuel, Jesus, Viha, Rishika, $1053.5, 286, 81, 93
+February 02, 2022, Jesus, Viha, Songting, Rishika, $1060.5, 287, 83, 93
+February 03, 2022, Viha, Luca, Igor, Rishika, $1060.0, 288, 82, 93
+February 05, 2022, Viha, Luca, Igor, Rishika, $1063.0, 288, 82, 94
+February 06, 2022, Viha, Luca, Igor, Rishika, $1063.0, 289, 80, 95
+February 07, 2022, Viha, Luca, Igor, Rishika, $1068.0, 290, 80, 96
+February 08, 2022, Viha, Luca, Igor, Rishika, $1063.5, 291, 75, 98
+February 09, 2022, Luca, Igor, Songting, Rishika, $1055.0, 292, 72, 97
+February 10, 2022, Luca, Songting, Carlos, Rishika, $1062.0, 293, 74, 97
+February 12, 2022, Songting, Carlos, Igor, Caroline, $1067.5, 293, 75, 98
+February 13, 2022, Songting, Carlos, Luca, Rishika, $1069.5, 294, 75, 98
+February 14, 2022, Carlos, Luca, Jesus, Rishika, $1079.5, 295, 77, 99
+February 15, 2022, Carlos, Luca, Jesus, Rishika, $1091.5, 296, 81, 99
+February 16, 2022, Luca, Jesus, Igor, Rishika, $1091.5, 296, 81, 99
+February 17, 2022, Jesus, Igor, Vladimir, Rishika, $1094.0, 296, 82, 99
+February 19, 2022, Jesus, Igor, Vladimir, Rishika, $1099.5, 296, 83, 100
+February 20, 2022, Jesus, Vladimir, Carlos, Caroline, $1094.0, 297, 80, 100
+February 21, 2022, Jesus, Vladimir, Carlos, Caroline, $1104.5, 297, 83, 101
+February 22, 2022, Jesus, Carlos, Igor, Caroline, $1109.5, 297, 85, 101
+February 23, 2022, Jesus, Carlos, Vladimir, Caroline, $1104.5, 297, 83, 101
+February 24, 2022, Carlos, Vladimir, Viha, Caroline, $1096.5, 298, 79, 101
+February 26, 2022, Carlos, Vladimir, Viha, Caroline, $1099.0, 299, 78, 102
+February 27, 2022, Carlos, Vladimir, Songting, Caroline, $1097.0, 299, 76, 103
+February 28, 2022, Vladimir, Igor, Viha, Caroline, $1098.0, 299, 74, 105
+March 01, 2022, Vladimir, Viha, Luca, Caroline, $1105.5, 299, 77, 105
+March 02, 2022, Viha, Luca, Carlos, Caroline, $1113.0, 300, 78, 106
+March 03, 2022, Viha, Luca, Carlos, Caroline, $1118.0, 301, 78, 107
+March 05, 2022, Viha, Luca, Carlos, Caroline, $1107.5, 301, 75, 106
+March 06, 2022, Viha, Luca, Carlos, Caroline, $1114.5, 302, 77, 106
+March 07, 2022, Viha, Luca, Carlos, Rishika, $1114.0, 303, 76, 106
+March 08, 2022, Viha, Carlos, Vladimir, Rishika, $1118.5, 304, 77, 106
+March 09, 2022, Carlos, Igor, Vladimir, Rishika, $1115.5, 305, 75, 106
+March 10, 2022, Carlos, Igor, Viha, Rishika, $1115.0, 306, 74, 106
+
+LOCATION: Lombard
+Rent: $3200
+
+March 13, 2021, Kristine, Jack, Mary Anne, Dan, $962.0, 146, 160, 90
+March 14, 2021, Kristine, Mary Anne, Jack, Dan, $949.0, 145, 158, 88
+March 15, 2021, Mary Anne, Jack, Samantha, Dan, $939.0, 143, 158, 86
+March 16, 2021, Mary Anne, Jack, Samantha, Dan, $931.5, 142, 157, 85
+March 17, 2021, Mary Anne, Jack, Samantha, Xiaoqing, $931.5, 142, 157, 85
+March 18, 2021, Mary Anne, Jack, Angeline, Dan, $936.5, 141, 161, 84
+March 20, 2021, Mary Anne, Jack, Angeline, Dan, $941.5, 140, 165, 83
+March 21, 2021, Jack, Angeline, Bernadette, Dan, $962.0, 140, 166, 89
+March 22, 2021, Jack, Angeline, Bernadette, Dan, $966.5, 139, 165, 92
+March 23, 2021, Angeline, Bernadette, Jack, Dan, $974.0, 138, 164, 96
+March 24, 2021, Bernadette, Jack, Kristine, Dan, $991.5, 138, 165, 101
+March 25, 2021, Bernadette, Kristine, Mary Anne, Dan, $1002.0, 137, 164, 106
+March 27, 2021, Bernadette, Mary Anne, Kristine, Dan, $1012.5, 136, 163, 111
+March 28, 2021, Bernadette, Mary Anne, Kristine, Dan, $1013.5, 135, 163, 112
+March 29, 2021, Bernadette, Mary Anne, Kristine, Xiaoqing, $1018.0, 134, 162, 115
+March 30, 2021, Bernadette, Kristine, Stephen, Xiaoqing, $1031.0, 133, 162, 120
+March 31, 2021, Kristine, Stephen, Mary Anne, Xiaoqing, $1025.5, 132, 163, 118
+April 01, 2021, Stephen, Mary Anne, Jack, Xiaoqing, $1017.0, 131, 164, 115
+April 03, 2021, Mary Anne, Jack, Kristine, Xiaoqing, $1014.5, 130, 165, 114
+April 04, 2021, Jack, Kristine, Mary Anne, Xiaoqing, $1007.0, 129, 164, 113
+April 05, 2021, Jack, Kristine, Mary Anne, Xiaoqing, $1005.5, 129, 167, 110
+April 06, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $1007.0, 128, 172, 107
+April 07, 2021, Mary Anne, Alexey, Kristine, Xiaoqing, $993.0, 127, 172, 103
+April 08, 2021, Mary Anne, Kristine, Jack, Xiaoqing, $983.0, 126, 170, 102
+April 10, 2021, Mary Anne, Kristine, Jack, Dan, $988.5, 125, 173, 102
+April 11, 2021, Mary Anne, Kristine, Jack, Dan, $991.5, 124, 175, 102
+April 12, 2021, Mary Anne, Kristine, Jack, Xiaoqing, $980.0, 124, 174, 99
+April 13, 2021, Kristine, Jack, Alexey, Xiaoqing, $979.5, 124, 175, 98
+April 14, 2021, Kristine, Alexey, Samantha, Dan, $977.0, 123, 176, 97
+April 15, 2021, Kristine, Alexey, Samantha, Dan, $972.0, 123, 174, 97
+April 17, 2021, Kristine, Alexey, Samantha, Dan, $964.0, 122, 174, 95
+April 18, 2021, Kristine, Alexey, Samantha, Dan, $958.0, 121, 176, 92
+April 19, 2021, Kristine, Alexey, Mary Anne, Dan, $946.5, 121, 175, 89
+April 20, 2021, Kristine, Alexey, Mary Anne, Xiaoqing, $949.0, 120, 178, 88
+April 21, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $935.5, 119, 177, 85
+April 22, 2021, Mary Anne, Alexey, Samantha, Xiaoqing, $932.0, 119, 178, 83
+April 24, 2021, Mary Anne, Samantha, Bernadette, Xiaoqing, $942.5, 119, 181, 84
+April 25, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $959.5, 119, 183, 88
+April 26, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $953.5, 118, 179, 90
+April 27, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $950.0, 117, 176, 92
+April 28, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $958.5, 116, 173, 98
+April 29, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $970.5, 116, 173, 102
+May 01, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $980.0, 116, 172, 106
+May 02, 2021, Mary Anne, Stephen, Bernadette, Xiaoqing, $992.5, 116, 171, 111
+May 03, 2021, Mary Anne, Stephen, Bernadette, Xiaoqing, $989.0, 115, 168, 113
+May 04, 2021, Mary Anne, Bernadette, Jack, Xiaoqing, $988.0, 114, 166, 115
+May 05, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $1001.5, 113, 165, 121
+May 06, 2021, Bernadette, Mary Anne, Samantha, Xiaoqing, $1012.5, 112, 163, 127
+May 08, 2021, Bernadette, Mary Anne, Samantha, Xiaoqing, $1016.5, 112, 161, 130
+May 09, 2021, Bernadette, Mary Anne, Samantha, Dan, $1015.0, 112, 158, 132
+May 10, 2021, Bernadette, Samantha, Angeline, Dan, $1010.5, 112, 155, 133
+May 11, 2021, Samantha, Angeline, Mary Anne, Xiaoqing, $1002.5, 111, 155, 131
+May 12, 2021, Angeline, Mary Anne, Bernadette, Dan, $1012.0, 111, 154, 135
+May 13, 2021, Mary Anne, Bernadette, Kristine, Dan, $1017.0, 110, 152, 139
+May 15, 2021, Bernadette, Kristine, Stephen, Dan, $1026.0, 109, 154, 141
+May 16, 2021, Bernadette, Kristine, Alexey, Dan, $1049.5, 109, 155, 148
+May 17, 2021, Bernadette, Kristine, Alexey, Dan, $1066.5, 108, 159, 151
+May 18, 2021, Kristine, Alexey, Mary Anne, Dan, $1052.5, 107, 159, 147
+May 19, 2021, Kristine, Alexey, Mary Anne, Dan, $1036.5, 106, 157, 144
+May 20, 2021, Kristine, Alexey, Stephen, Dan, $1038.5, 105, 161, 142
+May 22, 2021, Kristine, Stephen, Samantha, Dan, $1027.5, 105, 159, 140
+May 23, 2021, Kristine, Stephen, Samantha, Dan, $1009.5, 104, 155, 138
+May 24, 2021, Stephen, Samantha, Kristine, Dan, $1009.0, 104, 156, 137
+May 25, 2021, Stephen, Samantha, Kristine, Xiaoqing, $1011.0, 104, 158, 136
+May 26, 2021, Stephen, Kristine, Samantha, Dan, $1010.0, 104, 160, 134
+May 27, 2021, Kristine, Alexey, Bernadette, Dan, $1013.5, 103, 161, 135
+May 29, 2021, Alexey, Angeline, Kristine, Dan, $1012.5, 102, 165, 132
+May 30, 2021, Angeline, Kristine, Samantha, Dan, $1008.5, 102, 167, 129
+May 31, 2021, Kristine, Samantha, Alexey, Dan, $1012.5, 103, 169, 128
+June 01, 2021, Samantha, Alexey, Jack, Dan, $1002.0, 102, 168, 126
+June 02, 2021, Samantha, Alexey, Jack, Dan, $1013.5, 103, 173, 125
+June 03, 2021, Samantha, Alexey, Jack, Dan, $997.5, 102, 171, 122
+June 05, 2021, Samantha, Alexey, Jack, Dan, $986.0, 102, 170, 119
+June 06, 2021, Samantha, Alexey, Jack, Dan, $981.0, 101, 170, 118
+June 07, 2021, Samantha, Alexey, Jack, Xiaoqing, $976.5, 99, 171, 117
+June 08, 2021, Alexey, Samantha, Bernadette, Xiaoqing, $972.5, 98, 169, 118
+June 09, 2021, Alexey, Samantha, Jack, Xiaoqing, $963.5, 98, 169, 115
+June 10, 2021, Alexey, Samantha, Kristine, Dan, $950.0, 98, 166, 113
+June 12, 2021, Samantha, Kristine, Jack, Dan, $939.0, 97, 166, 110
+June 13, 2021, Samantha, Kristine, Jack, Dan, $938.5, 97, 167, 109
+June 14, 2021, Samantha, Kristine, Bernadette, Dan, $929.0, 96, 164, 109
+June 15, 2021, Samantha, Bernadette, Angeline, Dan, $941.0, 96, 164, 113
+June 16, 2021, Bernadette, Kristine, Mary Anne, Dan, $952.5, 96, 165, 116
+June 17, 2021, Bernadette, Kristine, Mary Anne, Dan, $958.0, 95, 162, 121
+June 19, 2021, Bernadette, Kristine, Mary Anne, Dan, $978.5, 95, 163, 127
+June 20, 2021, Bernadette, Kristine, Mary Anne, Dan, $989.0, 94, 162, 132
+June 21, 2021, Bernadette, Kristine, Alexey, Dan, $994.0, 93, 160, 136
+June 22, 2021, Bernadette, Kristine, Alexey, Dan, $1003.0, 93, 160, 139
+June 23, 2021, Bernadette, Alexey, Kristine, Dan, $1010.5, 93, 157, 144
+June 24, 2021, Alexey, Kristine, Mary Anne, Xiaoqing, $1002.5, 93, 155, 143
+June 26, 2021, Alexey, Kristine, Mary Anne, Xiaoqing, $988.5, 93, 153, 140
+June 27, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $977.5, 93, 151, 138
+June 28, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $976.5, 92, 155, 135
+June 29, 2021, Kristine, Mary Anne, Bernadette, Xiaoqing, $972.0, 91, 154, 135
+June 30, 2021, Kristine, Mary Anne, Bernadette, Xiaoqing, $987.5, 90, 155, 140
+July 01, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $993.5, 90, 155, 142
+July 03, 2021, Mary Anne, Bernadette, Samantha, Xiaoqing, $993.5, 90, 155, 142
+July 04, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $997.5, 89, 155, 144
+July 05, 2021, Bernadette, Alexey, Stephen, Xiaoqing, $1006.0, 89, 156, 146
+July 06, 2021, Alexey, Stephen, Kristine, Xiaoqing, $995.0, 89, 154, 144
+July 07, 2021, Alexey, Stephen, Kristine, Xiaoqing, $991.0, 89, 156, 141
+July 08, 2021, Alexey, Kristine, Jack, Xiaoqing, $980.5, 88, 155, 139
+July 10, 2021, Alexey, Jack, Kristine, Xiaoqing, $967.0, 88, 152, 137
+July 11, 2021, Alexey, Jack, Kristine, Xiaoqing, $952.0, 87, 148, 136
+July 12, 2021, Alexey, Kristine, Angeline, Xiaoqing, $944.5, 86, 147, 135
+July 13, 2021, Alexey, Kristine, Angeline, Xiaoqing, $943.0, 86, 150, 132
+July 14, 2021, Kristine, Bernadette, Alexey, Dan, $953.5, 87, 151, 134
+July 15, 2021, Kristine, Bernadette, Alexey, Dan, $963.0, 86, 152, 137
+July 17, 2021, Kristine, Bernadette, Alexey, Dan, $976.0, 85, 152, 142
+July 18, 2021, Bernadette, Alexey, Stephen, Dan, $994.5, 84, 153, 148
+July 19, 2021, Alexey, Kristine, Angeline, Dan, $972.5, 84, 149, 144
+July 20, 2021, Alexey, Kristine, Angeline, Dan, $952.5, 84, 147, 139
+July 21, 2021, Alexey, Angeline, Bernadette, Dan, $952.5, 83, 143, 143
+July 22, 2021, Alexey, Angeline, Bernadette, Dan, $948.5, 83, 139, 145
+July 24, 2021, Angeline, Jack, Alexey, Xiaoqing, $940.0, 83, 138, 143
+July 25, 2021, Angeline, Jack, Alexey, Xiaoqing, $939.5, 83, 139, 142
+July 26, 2021, Angeline, Jack, Alexey, Xiaoqing, $923.5, 83, 135, 140
+July 27, 2021, Angeline, Jack, Alexey, Xiaoqing, $923.0, 83, 136, 139
+July 28, 2021, Angeline, Alexey, Mary Anne, Xiaoqing, $910.5, 82, 133, 138
+July 29, 2021, Angeline, Alexey, Mary Anne, Dan, $902.0, 82, 132, 136
+July 31, 2021, Angeline, Alexey, Kristine, Dan, $898.0, 82, 134, 133
+August 01, 2021, Angeline, Alexey, Kristine, Dan, $897.5, 82, 135, 132
+August 02, 2021, Angeline, Alexey, Kristine, Dan, $892.0, 82, 134, 131
+August 03, 2021, Angeline, Alexey, Jack, Dan, $894.0, 82, 136, 130
+August 04, 2021, Alexey, Jack, Bernadette, Dan, $890.5, 81, 133, 132
+August 05, 2021, Alexey, Bernadette, Mary Anne, Xiaoqing, $897.0, 81, 132, 135
+August 07, 2021, Alexey, Mary Anne, Samantha, Xiaoqing, $894.0, 80, 134, 133
+August 08, 2021, Alexey, Mary Anne, Samantha, Xiaoqing, $892.0, 79, 134, 133
+August 09, 2021, Alexey, Samantha, Kristine, Xiaoqing, $886.0, 79, 134, 131
+August 10, 2021, Alexey, Samantha, Kristine, Xiaoqing, $866.0, 77, 130, 129
+August 11, 2021, Alexey, Samantha, Kristine, Dan, $863.0, 77, 130, 128
+August 12, 2021, Alexey, Kristine, Bernadette, Xiaoqing, $870.5, 77, 127, 133
+August 14, 2021, Kristine, Bernadette, Jack, Xiaoqing, $877.5, 77, 125, 137
+August 15, 2021, Bernadette, Jack, Stephen, Xiaoqing, $876.0, 77, 122, 139
+August 16, 2021, Bernadette, Stephen, Mary Anne, Xiaoqing, $875.0, 77, 118, 142
+August 17, 2021, Stephen, Mary Anne, Bernadette, Xiaoqing, $880.5, 77, 119, 143
+August 18, 2021, Stephen, Mary Anne, Bernadette, Xiaoqing, $895.0, 77, 120, 147
+August 19, 2021, Stephen, Mary Anne, Bernadette, Dan, $896.0, 77, 118, 149
+August 21, 2021, Stephen, Mary Anne, Angeline, Dan, $885.0, 76, 118, 146
+August 22, 2021, Stephen, Mary Anne, Angeline, Dan, $885.0, 75, 120, 145
+August 23, 2021, Stephen, Mary Anne, Angeline, Xiaoqing, $881.0, 75, 122, 142
+August 24, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $875.5, 74, 123, 140
+August 25, 2021, Mary Anne, Samantha, Angeline, Dan, $854.0, 74, 118, 137
+August 26, 2021, Mary Anne, Angeline, Alexey, Dan, $847.5, 74, 119, 134
+August 28, 2021, Mary Anne, Angeline, Alexey, Dan, $842.0, 73, 120, 132
+August 29, 2021, Mary Anne, Angeline, Samantha, Dan, $836.0, 73, 120, 130
+August 30, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $838.0, 73, 122, 129
+August 31, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $835.0, 73, 122, 128
+September 01, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $834.0, 73, 124, 126
+September 02, 2021, Angeline, Samantha, Kristine, Xiaoqing, $814.5, 73, 121, 122
+September 04, 2021, Angeline, Samantha, Kristine, Dan, $796.0, 73, 116, 120
+September 05, 2021, Angeline, Samantha, Kristine, Dan, $797.0, 71, 118, 120
+September 06, 2021, Angeline, Kristine, Mary Anne, Dan, $791.0, 71, 118, 118
+September 07, 2021, Kristine, Mary Anne, Stephen, Dan, $790.0, 71, 120, 116
+September 08, 2021, Kristine, Stephen, Jack, Dan, $782.0, 72, 116, 116
+September 09, 2021, Kristine, Jack, Samantha, Dan, $779.0, 72, 116, 115
+September 11, 2021, Kristine, Samantha, Alexey, Dan, $766.5, 71, 113, 114
+September 12, 2021, Kristine, Samantha, Alexey, Dan, $758.5, 70, 113, 112
+September 13, 2021, Kristine, Samantha, Alexey, Dan, $745.5, 69, 111, 110
+September 14, 2021, Kristine, Samantha, Alexey, Dan, $740.5, 68, 111, 109
+September 15, 2021, Kristine, Samantha, Stephen, Dan, $734.5, 68, 111, 107
+September 16, 2021, Samantha, Kristine, Bernadette, Dan, $749.0, 68, 112, 111
+September 18, 2021, Samantha, Kristine, Bernadette, Dan, $747.5, 67, 111, 112
+September 19, 2021, Samantha, Kristine, Bernadette, Dan, $763.0, 66, 112, 117
+September 20, 2021, Samantha, Kristine, Mary Anne, Dan, $752.0, 66, 110, 115
+September 21, 2021, Samantha, Kristine, Alexey, Dan, $748.5, 66, 111, 113
+September 22, 2021, Samantha, Kristine, Alexey, Xiaoqing, $749.5, 67, 113, 111
+September 23, 2021, Samantha, Kristine, Alexey, Xiaoqing, $731.0, 67, 108, 109
+September 25, 2021, Samantha, Kristine, Alexey, Xiaoqing, $722.0, 67, 108, 106
+September 26, 2021, Samantha, Alexey, Stephen, Xiaoqing, $709.0, 67, 104, 105
+September 27, 2021, Samantha, Alexey, Stephen, Dan, $690.5, 67, 99, 103
+September 28, 2021, Alexey, Stephen, Bernadette, Dan, $697.5, 66, 99, 106
+September 29, 2021, Alexey, Stephen, Bernadette, Xiaoqing, $703.5, 66, 99, 108
+September 30, 2021, Stephen, Bernadette, Alexey, Dan, $713.0, 65, 100, 111
+October 02, 2021, Bernadette, Jack, Stephen, Dan, $730.5, 65, 101, 116
+October 03, 2021, Jack, Bernadette, Stephen, Dan, $744.5, 65, 103, 119
+October 04, 2021, Jack, Stephen, Angeline, Dan, $738.5, 65, 103, 117
+October 05, 2021, Stephen, Alexey, Angeline, Dan, $733.0, 64, 104, 115
+October 06, 2021, Alexey, Angeline, Stephen, Dan, $736.0, 63, 106, 115
+October 07, 2021, Alexey, Stephen, Angeline, Dan, $728.0, 63, 104, 114
+October 09, 2021, Stephen, Angeline, Samantha, Dan, $738.5, 63, 107, 115
+October 10, 2021, Stephen, Angeline, Kristine, Dan, $719.0, 63, 104, 111
+October 11, 2021, Stephen, Kristine, Alexey, Xiaoqing, $703.0, 63, 100, 109
+October 12, 2021, Kristine, Alexey, Bernadette, Xiaoqing, $715.5, 63, 99, 114
+October 13, 2021, Kristine, Alexey, Bernadette, Xiaoqing, $737.5, 62, 99, 122
+October 14, 2021, Alexey, Bernadette, Samantha, Xiaoqing, $754.5, 62, 101, 126
+October 16, 2021, Bernadette, Samantha, Kristine, Dan, $766.0, 62, 102, 129
+October 17, 2021, Samantha, Kristine, Alexey, Dan, $756.0, 61, 100, 128
+October 18, 2021, Kristine, Alexey, Bernadette, Dan, $776.0, 60, 104, 132
+October 19, 2021, Kristine, Alexey, Bernadette, Dan, $776.0, 59, 100, 136
+October 20, 2021, Kristine, Bernadette, Mary Anne, Xiaoqing, $790.5, 59, 101, 140
+October 21, 2021, Kristine, Bernadette, Mary Anne, Xiaoqing, $805.0, 59, 102, 144
+October 23, 2021, Kristine, Mary Anne, Jack, Xiaoqing, $791.0, 59, 100, 141
+October 24, 2021, Kristine, Jack, Samantha, Xiaoqing, $790.0, 60, 100, 140
+October 25, 2021, Jack, Samantha, Bernadette, Dan, $800.0, 59, 100, 144
+October 26, 2021, Jack, Samantha, Bernadette, Dan, $806.5, 59, 99, 147
+October 27, 2021, Jack, Samantha, Bernadette, Dan, $807.5, 59, 97, 149
+October 28, 2021, Jack, Samantha, Mary Anne, Dan, $798.5, 59, 97, 146
+October 30, 2021, Jack, Samantha, Mary Anne, Dan, $797.5, 60, 97, 145
+October 31, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $780.5, 60, 95, 141
+November 01, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $774.5, 60, 95, 139
+November 02, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $771.5, 60, 95, 138
+November 03, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $763.0, 60, 94, 136
+November 04, 2021, Jack, Samantha, Kristine, Xiaoqing, $764.5, 60, 97, 134
+November 06, 2021, Jack, Kristine, Alexey, Xiaoqing, $755.5, 60, 97, 131
+November 07, 2021, Jack, Kristine, Mary Anne, Xiaoqing, $745.0, 59, 96, 129
+November 08, 2021, Kristine, Angeline, Samantha, Xiaoqing, $744.0, 59, 98, 127
+November 09, 2021, Kristine, Samantha, Mary Anne, Xiaoqing, $726.0, 58, 94, 125
+November 10, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $717.0, 58, 94, 122
+November 11, 2021, Mary Anne, Stephen, Angeline, Dan, $707.0, 57, 92, 121
+November 13, 2021, Stephen, Angeline, Mary Anne, Dan, $695.5, 57, 91, 118
+November 14, 2021, Stephen, Angeline, Mary Anne, Dan, $689.5, 57, 91, 116
+November 15, 2021, Stephen, Mary Anne, Jack, Dan, $683.5, 57, 91, 114
+November 16, 2021, Stephen, Mary Anne, Jack, Dan, $685.5, 56, 95, 112
+November 17, 2021, Stephen, Mary Anne, Kristine, Dan, $683.0, 58, 96, 109
+November 18, 2021, Stephen, Mary Anne, Kristine, Dan, $672.0, 58, 94, 107
+November 20, 2021, Mary Anne, Alexey, Jack, Dan, $668.5, 58, 95, 105
+November 21, 2021, Mary Anne, Alexey, Bernadette, Dan, $676.5, 58, 97, 106
+November 22, 2021, Alexey, Bernadette, Kristine, Xiaoqing, $685.0, 58, 98, 108
+November 23, 2021, Alexey, Kristine, Bernadette, Xiaoqing, $686.5, 58, 95, 111
+November 24, 2021, Alexey, Kristine, Bernadette, Dan, $681.0, 59, 92, 111
+November 25, 2021, Alexey, Bernadette, Stephen, Dan, $701.5, 59, 93, 117
+November 27, 2021, Alexey, Bernadette, Stephen, Dan, $713.5, 59, 93, 121
+November 28, 2021, Bernadette, Stephen, Mary Anne, Xiaoqing, $731.5, 58, 95, 126
+November 29, 2021, Bernadette, Stephen, Mary Anne, Dan, $739.5, 58, 97, 127
+November 30, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $750.5, 59, 97, 130
+December 01, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $760.0, 59, 96, 134
+December 02, 2021, Mary Anne, Alexey, Angeline, Dan, $749.0, 58, 96, 131
+December 04, 2021, Mary Anne, Alexey, Jack, Dan, $748.0, 58, 98, 129
+December 05, 2021, Mary Anne, Alexey, Jack, Dan, $749.5, 58, 101, 127
+December 06, 2021, Mary Anne, Alexey, Samantha, Dan, $743.0, 58, 102, 124
+December 07, 2021, Mary Anne, Alexey, Samantha, Dan, $745.0, 58, 104, 123
+December 08, 2021, Mary Anne, Alexey, Samantha, Dan, $742.5, 59, 107, 119
+December 09, 2021, Mary Anne, Alexey, Samantha, Dan, $724.5, 58, 103, 117
+December 11, 2021, Alexey, Bernadette, Samantha, Dan, $743.5, 58, 107, 120
+December 12, 2021, Alexey, Samantha, Angeline, Dan, $740.5, 58, 107, 119
+December 13, 2021, Alexey, Samantha, Angeline, Dan, $731.5, 58, 107, 116
+December 14, 2021, Samantha, Angeline, Jack, Dan, $720.0, 58, 106, 113
+December 15, 2021, Samantha, Jack, Bernadette, Dan, $734.5, 59, 105, 118
+December 16, 2021, Jack, Bernadette, Samantha, Dan, $746.0, 60, 104, 122
+December 18, 2021, Jack, Bernadette, Samantha, Dan, $757.0, 59, 108, 123
+December 19, 2021, Jack, Bernadette, Samantha, Dan, $766.5, 59, 107, 127
+December 20, 2021, Jack, Bernadette, Mary Anne, Dan, $778.0, 59, 108, 130
+December 21, 2021, Jack, Bernadette, Mary Anne, Xiaoqing, $770.0, 59, 106, 129
+December 22, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $771.5, 58, 111, 126
+December 23, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $760.0, 58, 110, 123
+December 25, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $746.0, 59, 106, 121
+December 26, 2021, Jack, Mary Anne, Bernadette, Xiaoqing, $751.0, 59, 102, 126
+December 27, 2021, Jack, Bernadette, Stephen, Xiaoqing, $766.5, 59, 101, 132
+December 28, 2021, Jack, Stephen, Samantha, Xiaoqing, $775.5, 60, 105, 131
+December 29, 2021, Jack, Stephen, Samantha, Xiaoqing, $754.0, 60, 100, 128
+December 30, 2021, Stephen, Samantha, Jack, Xiaoqing, $746.5, 59, 99, 127
+January 01, 2022, Stephen, Jack, Mary Anne, Xiaoqing, $738.0, 59, 98, 125
+January 02, 2022, Stephen, Jack, Mary Anne, Xiaoqing, $724.5, 59, 95, 123
+January 03, 2022, Stephen, Mary Anne, Kristine, Xiaoqing, $728.5, 59, 99, 121
+January 04, 2022, Mary Anne, Kristine, Bernadette, Xiaoqing, $738.5, 58, 99, 125
+January 05, 2022, Mary Anne, Bernadette, Alexey, Xiaoqing, $746.0, 57, 98, 129
+January 06, 2022, Mary Anne, Bernadette, Alexey, Xiaoqing, $758.0, 57, 98, 133
+January 08, 2022, Mary Anne, Bernadette, Angeline, Xiaoqing, $765.0, 57, 96, 137
+January 09, 2022, Mary Anne, Bernadette, Samantha, Xiaoqing, $766.0, 56, 96, 138
+January 10, 2022, Bernadette, Samantha, Stephen, Xiaoqing, $769.5, 56, 95, 140
+January 11, 2022, Bernadette, Samantha, Stephen, Xiaoqing, $768.0, 56, 92, 142
+January 12, 2022, Bernadette, Stephen, Mary Anne, Xiaoqing, $774.0, 56, 92, 144
+January 13, 2022, Bernadette, Mary Anne, Alexey, Xiaoqing, $795.5, 56, 91, 152
+January 15, 2022, Bernadette, Mary Anne, Alexey, Xiaoqing, $804.5, 56, 91, 155
+January 16, 2022, Bernadette, Mary Anne, Alexey, Xiaoqing, $813.5, 56, 91, 158
+January 17, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $808.5, 55, 85, 162
+January 18, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $807.0, 55, 82, 164
+January 19, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $819.0, 55, 82, 168
+January 20, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $830.0, 55, 84, 170
+January 22, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $840.0, 55, 82, 175
+January 23, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $842.5, 54, 79, 179
+January 24, 2022, Alexey, Mary Anne, Stephen, Xiaoqing, $819.0, 53, 74, 176
+January 25, 2022, Mary Anne, Angeline, Alexey, Xiaoqing, $820.5, 53, 77, 174
+January 26, 2022, Angeline, Alexey, Mary Anne, Xiaoqing, $809.0, 53, 76, 171
+January 27, 2022, Angeline, Alexey, Mary Anne, Xiaoqing, $790.5, 52, 73, 168
+January 29, 2022, Angeline, Alexey, Mary Anne, Xiaoqing, $780.0, 52, 70, 167
+January 30, 2022, Angeline, Mary Anne, Stephen, Xiaoqing, $769.0, 51, 70, 164
+January 31, 2022, Angeline, Mary Anne, Stephen, Xiaoqing, $763.0, 51, 70, 162
+February 01, 2022, Angeline, Mary Anne, Bernadette, Xiaoqing, $756.0, 51, 66, 163
+February 02, 2022, Angeline, Mary Anne, Bernadette, Dan, $770.5, 51, 67, 167
+February 03, 2022, Angeline, Mary Anne, Bernadette, Dan, $772.5, 52, 67, 167
+February 05, 2022, Angeline, Mary Anne, Bernadette, Dan, $786.0, 52, 70, 169
+February 06, 2022, Angeline, Mary Anne, Bernadette, Xiaoqing, $794.5, 52, 71, 171
+February 07, 2022, Angeline, Mary Anne, Bernadette, Xiaoqing, $788.0, 52, 66, 173
+February 08, 2022, Angeline, Mary Anne, Bernadette, Dan, $803.5, 51, 67, 178
+February 09, 2022, Angeline, Bernadette, Samantha, Xiaoqing, $806.0, 51, 68, 178
+February 10, 2022, Angeline, Bernadette, Stephen, Xiaoqing, $813.5, 52, 69, 179
+February 12, 2022, Bernadette, Stephen, Angeline, Xiaoqing, $818.5, 53, 69, 180
+February 13, 2022, Stephen, Angeline, Jack, Xiaoqing, $814.0, 53, 72, 176
+February 14, 2022, Angeline, Jack, Samantha, Xiaoqing, $807.5, 53, 73, 173
+February 15, 2022, Angeline, Jack, Samantha, Xiaoqing, $801.5, 54, 71, 172
+February 16, 2022, Angeline, Jack, Samantha, Xiaoqing, $796.0, 53, 72, 170
+February 17, 2022, Angeline, Jack, Samantha, Xiaoqing, $785.5, 52, 71, 168
+February 19, 2022, Angeline, Samantha, Stephen, Xiaoqing, $777.5, 51, 71, 166
+February 20, 2022, Samantha, Stephen, Jack, Xiaoqing, $755.0, 52, 66, 162
+February 21, 2022, Samantha, Jack, Angeline, Xiaoqing, $752.0, 51, 68, 160
+February 22, 2022, Samantha, Jack, Mary Anne, Xiaoqing, $750.5, 51, 71, 157
+February 23, 2022, Jack, Mary Anne, Kristine, Xiaoqing, $737.5, 50, 69, 155
+February 24, 2022, Jack, Kristine, Alexey, Xiaoqing, $724.5, 49, 67, 153
+February 26, 2022, Kristine, Alexey, Stephen, Xiaoqing, $721.0, 49, 68, 151
+February 27, 2022, Alexey, Stephen, Jack, Xiaoqing, $719.5, 49, 71, 148
+February 28, 2022, Stephen, Jack, Alexey, Xiaoqing, $712.0, 50, 72, 144
+March 01, 2022, Jack, Alexey, Mary Anne, Xiaoqing, $708.5, 50, 73, 142
+March 02, 2022, Jack, Mary Anne, Stephen, Xiaoqing, $707.5, 51, 73, 141
+March 03, 2022, Jack, Mary Anne, Alexey, Xiaoqing, $692.0, 50, 70, 139
+March 05, 2022, Jack, Alexey, Kristine, Xiaoqing, $688.5, 50, 71, 137
+March 06, 2022, Jack, Alexey, Kristine, Dan, $684.0, 51, 72, 134
+March 07, 2022, Alexey, Jack, Mary Anne, Dan, $677.5, 51, 73, 131
+March 08, 2022, Jack, Bernadette, Alexey, Dan, $690.0, 51, 72, 136
+March 09, 2022, Jack, Bernadette, Stephen, Dan, $701.0, 51, 74, 138
+March 10, 2022, Jack, Bernadette, Stephen, Dan, $713.5, 52, 77, 139

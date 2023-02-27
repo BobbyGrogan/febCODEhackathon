@@ -1,0 +1,312 @@
+March 13, 2021, Kristine, Jack, Mary Anne, Dan, $962.0, 146, 160, 90
+March 14, 2021, Kristine, Mary Anne, Jack, Dan, $949.0, 145, 158, 88
+March 15, 2021, Mary Anne, Jack, Samantha, Dan, $939.0, 143, 158, 86
+March 16, 2021, Mary Anne, Jack, Samantha, Dan, $931.5, 142, 157, 85
+March 17, 2021, Mary Anne, Jack, Samantha, Xiaoqing, $931.5, 142, 157, 85
+March 18, 2021, Mary Anne, Jack, Angeline, Dan, $936.5, 141, 161, 84
+March 20, 2021, Mary Anne, Jack, Angeline, Dan, $941.5, 140, 165, 83
+March 21, 2021, Jack, Angeline, Bernadette, Dan, $962.0, 140, 166, 89
+March 22, 2021, Jack, Angeline, Bernadette, Dan, $966.5, 139, 165, 92
+March 23, 2021, Angeline, Bernadette, Jack, Dan, $974.0, 138, 164, 96
+March 24, 2021, Bernadette, Jack, Kristine, Dan, $991.5, 138, 165, 101
+March 25, 2021, Bernadette, Kristine, Mary Anne, Dan, $1002.0, 137, 164, 106
+March 27, 2021, Bernadette, Mary Anne, Kristine, Dan, $1012.5, 136, 163, 111
+March 28, 2021, Bernadette, Mary Anne, Kristine, Dan, $1013.5, 135, 163, 112
+March 29, 2021, Bernadette, Mary Anne, Kristine, Xiaoqing, $1018.0, 134, 162, 115
+March 30, 2021, Bernadette, Kristine, Stephen, Xiaoqing, $1031.0, 133, 162, 120
+March 31, 2021, Kristine, Stephen, Mary Anne, Xiaoqing, $1025.5, 132, 163, 118
+April 01, 2021, Stephen, Mary Anne, Jack, Xiaoqing, $1017.0, 131, 164, 115
+April 03, 2021, Mary Anne, Jack, Kristine, Xiaoqing, $1014.5, 130, 165, 114
+April 04, 2021, Jack, Kristine, Mary Anne, Xiaoqing, $1007.0, 129, 164, 113
+April 05, 2021, Jack, Kristine, Mary Anne, Xiaoqing, $1005.5, 129, 167, 110
+April 06, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $1007.0, 128, 172, 107
+April 07, 2021, Mary Anne, Alexey, Kristine, Xiaoqing, $993.0, 127, 172, 103
+April 08, 2021, Mary Anne, Kristine, Jack, Xiaoqing, $983.0, 126, 170, 102
+April 10, 2021, Mary Anne, Kristine, Jack, Dan, $988.5, 125, 173, 102
+April 11, 2021, Mary Anne, Kristine, Jack, Dan, $991.5, 124, 175, 102
+April 12, 2021, Mary Anne, Kristine, Jack, Xiaoqing, $980.0, 124, 174, 99
+April 13, 2021, Kristine, Jack, Alexey, Xiaoqing, $979.5, 124, 175, 98
+April 14, 2021, Kristine, Alexey, Samantha, Dan, $977.0, 123, 176, 97
+April 15, 2021, Kristine, Alexey, Samantha, Dan, $972.0, 123, 174, 97
+April 17, 2021, Kristine, Alexey, Samantha, Dan, $964.0, 122, 174, 95
+April 18, 2021, Kristine, Alexey, Samantha, Dan, $958.0, 121, 176, 92
+April 19, 2021, Kristine, Alexey, Mary Anne, Dan, $946.5, 121, 175, 89
+April 20, 2021, Kristine, Alexey, Mary Anne, Xiaoqing, $949.0, 120, 178, 88
+April 21, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $935.5, 119, 177, 85
+April 22, 2021, Mary Anne, Alexey, Samantha, Xiaoqing, $932.0, 119, 178, 83
+April 24, 2021, Mary Anne, Samantha, Bernadette, Xiaoqing, $942.5, 119, 181, 84
+April 25, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $959.5, 119, 183, 88
+April 26, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $953.5, 118, 179, 90
+April 27, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $950.0, 117, 176, 92
+April 28, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $958.5, 116, 173, 98
+April 29, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $970.5, 116, 173, 102
+May 01, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $980.0, 116, 172, 106
+May 02, 2021, Mary Anne, Stephen, Bernadette, Xiaoqing, $992.5, 116, 171, 111
+May 03, 2021, Mary Anne, Stephen, Bernadette, Xiaoqing, $989.0, 115, 168, 113
+May 04, 2021, Mary Anne, Bernadette, Jack, Xiaoqing, $988.0, 114, 166, 115
+May 05, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $1001.5, 113, 165, 121
+May 06, 2021, Bernadette, Mary Anne, Samantha, Xiaoqing, $1012.5, 112, 163, 127
+May 08, 2021, Bernadette, Mary Anne, Samantha, Xiaoqing, $1016.5, 112, 161, 130
+May 09, 2021, Bernadette, Mary Anne, Samantha, Dan, $1015.0, 112, 158, 132
+May 10, 2021, Bernadette, Samantha, Angeline, Dan, $1010.5, 112, 155, 133
+May 11, 2021, Samantha, Angeline, Mary Anne, Xiaoqing, $1002.5, 111, 155, 131
+May 12, 2021, Angeline, Mary Anne, Bernadette, Dan, $1012.0, 111, 154, 135
+May 13, 2021, Mary Anne, Bernadette, Kristine, Dan, $1017.0, 110, 152, 139
+May 15, 2021, Bernadette, Kristine, Stephen, Dan, $1026.0, 109, 154, 141
+May 16, 2021, Bernadette, Kristine, Alexey, Dan, $1049.5, 109, 155, 148
+May 17, 2021, Bernadette, Kristine, Alexey, Dan, $1066.5, 108, 159, 151
+May 18, 2021, Kristine, Alexey, Mary Anne, Dan, $1052.5, 107, 159, 147
+May 19, 2021, Kristine, Alexey, Mary Anne, Dan, $1036.5, 106, 157, 144
+May 20, 2021, Kristine, Alexey, Stephen, Dan, $1038.5, 105, 161, 142
+May 22, 2021, Kristine, Stephen, Samantha, Dan, $1027.5, 105, 159, 140
+May 23, 2021, Kristine, Stephen, Samantha, Dan, $1009.5, 104, 155, 138
+May 24, 2021, Stephen, Samantha, Kristine, Dan, $1009.0, 104, 156, 137
+May 25, 2021, Stephen, Samantha, Kristine, Xiaoqing, $1011.0, 104, 158, 136
+May 26, 2021, Stephen, Kristine, Samantha, Dan, $1010.0, 104, 160, 134
+May 27, 2021, Kristine, Alexey, Bernadette, Dan, $1013.5, 103, 161, 135
+May 29, 2021, Alexey, Angeline, Kristine, Dan, $1012.5, 102, 165, 132
+May 30, 2021, Angeline, Kristine, Samantha, Dan, $1008.5, 102, 167, 129
+May 31, 2021, Kristine, Samantha, Alexey, Dan, $1012.5, 103, 169, 128
+June 01, 2021, Samantha, Alexey, Jack, Dan, $1002.0, 102, 168, 126
+June 02, 2021, Samantha, Alexey, Jack, Dan, $1013.5, 103, 173, 125
+June 03, 2021, Samantha, Alexey, Jack, Dan, $997.5, 102, 171, 122
+June 05, 2021, Samantha, Alexey, Jack, Dan, $986.0, 102, 170, 119
+June 06, 2021, Samantha, Alexey, Jack, Dan, $981.0, 101, 170, 118
+June 07, 2021, Samantha, Alexey, Jack, Xiaoqing, $976.5, 99, 171, 117
+June 08, 2021, Alexey, Samantha, Bernadette, Xiaoqing, $972.5, 98, 169, 118
+June 09, 2021, Alexey, Samantha, Jack, Xiaoqing, $963.5, 98, 169, 115
+June 10, 2021, Alexey, Samantha, Kristine, Dan, $950.0, 98, 166, 113
+June 12, 2021, Samantha, Kristine, Jack, Dan, $939.0, 97, 166, 110
+June 13, 2021, Samantha, Kristine, Jack, Dan, $938.5, 97, 167, 109
+June 14, 2021, Samantha, Kristine, Bernadette, Dan, $929.0, 96, 164, 109
+June 15, 2021, Samantha, Bernadette, Angeline, Dan, $941.0, 96, 164, 113
+June 16, 2021, Bernadette, Kristine, Mary Anne, Dan, $952.5, 96, 165, 116
+June 17, 2021, Bernadette, Kristine, Mary Anne, Dan, $958.0, 95, 162, 121
+June 19, 2021, Bernadette, Kristine, Mary Anne, Dan, $978.5, 95, 163, 127
+June 20, 2021, Bernadette, Kristine, Mary Anne, Dan, $989.0, 94, 162, 132
+June 21, 2021, Bernadette, Kristine, Alexey, Dan, $994.0, 93, 160, 136
+June 22, 2021, Bernadette, Kristine, Alexey, Dan, $1003.0, 93, 160, 139
+June 23, 2021, Bernadette, Alexey, Kristine, Dan, $1010.5, 93, 157, 144
+June 24, 2021, Alexey, Kristine, Mary Anne, Xiaoqing, $1002.5, 93, 155, 143
+June 26, 2021, Alexey, Kristine, Mary Anne, Xiaoqing, $988.5, 93, 153, 140
+June 27, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $977.5, 93, 151, 138
+June 28, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $976.5, 92, 155, 135
+June 29, 2021, Kristine, Mary Anne, Bernadette, Xiaoqing, $972.0, 91, 154, 135
+June 30, 2021, Kristine, Mary Anne, Bernadette, Xiaoqing, $987.5, 90, 155, 140
+July 01, 2021, Mary Anne, Bernadette, Stephen, Xiaoqing, $993.5, 90, 155, 142
+July 03, 2021, Mary Anne, Bernadette, Samantha, Xiaoqing, $993.5, 90, 155, 142
+July 04, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $997.5, 89, 155, 144
+July 05, 2021, Bernadette, Alexey, Stephen, Xiaoqing, $1006.0, 89, 156, 146
+July 06, 2021, Alexey, Stephen, Kristine, Xiaoqing, $995.0, 89, 154, 144
+July 07, 2021, Alexey, Stephen, Kristine, Xiaoqing, $991.0, 89, 156, 141
+July 08, 2021, Alexey, Kristine, Jack, Xiaoqing, $980.5, 88, 155, 139
+July 10, 2021, Alexey, Jack, Kristine, Xiaoqing, $967.0, 88, 152, 137
+July 11, 2021, Alexey, Jack, Kristine, Xiaoqing, $952.0, 87, 148, 136
+July 12, 2021, Alexey, Kristine, Angeline, Xiaoqing, $944.5, 86, 147, 135
+July 13, 2021, Alexey, Kristine, Angeline, Xiaoqing, $943.0, 86, 150, 132
+July 14, 2021, Kristine, Bernadette, Alexey, Dan, $953.5, 87, 151, 134
+July 15, 2021, Kristine, Bernadette, Alexey, Dan, $963.0, 86, 152, 137
+July 17, 2021, Kristine, Bernadette, Alexey, Dan, $976.0, 85, 152, 142
+July 18, 2021, Bernadette, Alexey, Stephen, Dan, $994.5, 84, 153, 148
+July 19, 2021, Alexey, Kristine, Angeline, Dan, $972.5, 84, 149, 144
+July 20, 2021, Alexey, Kristine, Angeline, Dan, $952.5, 84, 147, 139
+July 21, 2021, Alexey, Angeline, Bernadette, Dan, $952.5, 83, 143, 143
+July 22, 2021, Alexey, Angeline, Bernadette, Dan, $948.5, 83, 139, 145
+July 24, 2021, Angeline, Jack, Alexey, Xiaoqing, $940.0, 83, 138, 143
+July 25, 2021, Angeline, Jack, Alexey, Xiaoqing, $939.5, 83, 139, 142
+July 26, 2021, Angeline, Jack, Alexey, Xiaoqing, $923.5, 83, 135, 140
+July 27, 2021, Angeline, Jack, Alexey, Xiaoqing, $923.0, 83, 136, 139
+July 28, 2021, Angeline, Alexey, Mary Anne, Xiaoqing, $910.5, 82, 133, 138
+July 29, 2021, Angeline, Alexey, Mary Anne, Dan, $902.0, 82, 132, 136
+July 31, 2021, Angeline, Alexey, Kristine, Dan, $898.0, 82, 134, 133
+August 01, 2021, Angeline, Alexey, Kristine, Dan, $897.5, 82, 135, 132
+August 02, 2021, Angeline, Alexey, Kristine, Dan, $892.0, 82, 134, 131
+August 03, 2021, Angeline, Alexey, Jack, Dan, $894.0, 82, 136, 130
+August 04, 2021, Alexey, Jack, Bernadette, Dan, $890.5, 81, 133, 132
+August 05, 2021, Alexey, Bernadette, Mary Anne, Xiaoqing, $897.0, 81, 132, 135
+August 07, 2021, Alexey, Mary Anne, Samantha, Xiaoqing, $894.0, 80, 134, 133
+August 08, 2021, Alexey, Mary Anne, Samantha, Xiaoqing, $892.0, 79, 134, 133
+August 09, 2021, Alexey, Samantha, Kristine, Xiaoqing, $886.0, 79, 134, 131
+August 10, 2021, Alexey, Samantha, Kristine, Xiaoqing, $866.0, 77, 130, 129
+August 11, 2021, Alexey, Samantha, Kristine, Dan, $863.0, 77, 130, 128
+August 12, 2021, Alexey, Kristine, Bernadette, Xiaoqing, $870.5, 77, 127, 133
+August 14, 2021, Kristine, Bernadette, Jack, Xiaoqing, $877.5, 77, 125, 137
+August 15, 2021, Bernadette, Jack, Stephen, Xiaoqing, $876.0, 77, 122, 139
+August 16, 2021, Bernadette, Stephen, Mary Anne, Xiaoqing, $875.0, 77, 118, 142
+August 17, 2021, Stephen, Mary Anne, Bernadette, Xiaoqing, $880.5, 77, 119, 143
+August 18, 2021, Stephen, Mary Anne, Bernadette, Xiaoqing, $895.0, 77, 120, 147
+August 19, 2021, Stephen, Mary Anne, Bernadette, Dan, $896.0, 77, 118, 149
+August 21, 2021, Stephen, Mary Anne, Angeline, Dan, $885.0, 76, 118, 146
+August 22, 2021, Stephen, Mary Anne, Angeline, Dan, $885.0, 75, 120, 145
+August 23, 2021, Stephen, Mary Anne, Angeline, Xiaoqing, $881.0, 75, 122, 142
+August 24, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $875.5, 74, 123, 140
+August 25, 2021, Mary Anne, Samantha, Angeline, Dan, $854.0, 74, 118, 137
+August 26, 2021, Mary Anne, Angeline, Alexey, Dan, $847.5, 74, 119, 134
+August 28, 2021, Mary Anne, Angeline, Alexey, Dan, $842.0, 73, 120, 132
+August 29, 2021, Mary Anne, Angeline, Samantha, Dan, $836.0, 73, 120, 130
+August 30, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $838.0, 73, 122, 129
+August 31, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $835.0, 73, 122, 128
+September 01, 2021, Mary Anne, Angeline, Samantha, Xiaoqing, $834.0, 73, 124, 126
+September 02, 2021, Angeline, Samantha, Kristine, Xiaoqing, $814.5, 73, 121, 122
+September 04, 2021, Angeline, Samantha, Kristine, Dan, $796.0, 73, 116, 120
+September 05, 2021, Angeline, Samantha, Kristine, Dan, $797.0, 71, 118, 120
+September 06, 2021, Angeline, Kristine, Mary Anne, Dan, $791.0, 71, 118, 118
+September 07, 2021, Kristine, Mary Anne, Stephen, Dan, $790.0, 71, 120, 116
+September 08, 2021, Kristine, Stephen, Jack, Dan, $782.0, 72, 116, 116
+September 09, 2021, Kristine, Jack, Samantha, Dan, $779.0, 72, 116, 115
+September 11, 2021, Kristine, Samantha, Alexey, Dan, $766.5, 71, 113, 114
+September 12, 2021, Kristine, Samantha, Alexey, Dan, $758.5, 70, 113, 112
+September 13, 2021, Kristine, Samantha, Alexey, Dan, $745.5, 69, 111, 110
+September 14, 2021, Kristine, Samantha, Alexey, Dan, $740.5, 68, 111, 109
+September 15, 2021, Kristine, Samantha, Stephen, Dan, $734.5, 68, 111, 107
+September 16, 2021, Samantha, Kristine, Bernadette, Dan, $749.0, 68, 112, 111
+September 18, 2021, Samantha, Kristine, Bernadette, Dan, $747.5, 67, 111, 112
+September 19, 2021, Samantha, Kristine, Bernadette, Dan, $763.0, 66, 112, 117
+September 20, 2021, Samantha, Kristine, Mary Anne, Dan, $752.0, 66, 110, 115
+September 21, 2021, Samantha, Kristine, Alexey, Dan, $748.5, 66, 111, 113
+September 22, 2021, Samantha, Kristine, Alexey, Xiaoqing, $749.5, 67, 113, 111
+September 23, 2021, Samantha, Kristine, Alexey, Xiaoqing, $731.0, 67, 108, 109
+September 25, 2021, Samantha, Kristine, Alexey, Xiaoqing, $722.0, 67, 108, 106
+September 26, 2021, Samantha, Alexey, Stephen, Xiaoqing, $709.0, 67, 104, 105
+September 27, 2021, Samantha, Alexey, Stephen, Dan, $690.5, 67, 99, 103
+September 28, 2021, Alexey, Stephen, Bernadette, Dan, $697.5, 66, 99, 106
+September 29, 2021, Alexey, Stephen, Bernadette, Xiaoqing, $703.5, 66, 99, 108
+September 30, 2021, Stephen, Bernadette, Alexey, Dan, $713.0, 65, 100, 111
+October 02, 2021, Bernadette, Jack, Stephen, Dan, $730.5, 65, 101, 116
+October 03, 2021, Jack, Bernadette, Stephen, Dan, $744.5, 65, 103, 119
+October 04, 2021, Jack, Stephen, Angeline, Dan, $738.5, 65, 103, 117
+October 05, 2021, Stephen, Alexey, Angeline, Dan, $733.0, 64, 104, 115
+October 06, 2021, Alexey, Angeline, Stephen, Dan, $736.0, 63, 106, 115
+October 07, 2021, Alexey, Stephen, Angeline, Dan, $728.0, 63, 104, 114
+October 09, 2021, Stephen, Angeline, Samantha, Dan, $738.5, 63, 107, 115
+October 10, 2021, Stephen, Angeline, Kristine, Dan, $719.0, 63, 104, 111
+October 11, 2021, Stephen, Kristine, Alexey, Xiaoqing, $703.0, 63, 100, 109
+October 12, 2021, Kristine, Alexey, Bernadette, Xiaoqing, $715.5, 63, 99, 114
+October 13, 2021, Kristine, Alexey, Bernadette, Xiaoqing, $737.5, 62, 99, 122
+October 14, 2021, Alexey, Bernadette, Samantha, Xiaoqing, $754.5, 62, 101, 126
+October 16, 2021, Bernadette, Samantha, Kristine, Dan, $766.0, 62, 102, 129
+October 17, 2021, Samantha, Kristine, Alexey, Dan, $756.0, 61, 100, 128
+October 18, 2021, Kristine, Alexey, Bernadette, Dan, $776.0, 60, 104, 132
+October 19, 2021, Kristine, Alexey, Bernadette, Dan, $776.0, 59, 100, 136
+October 20, 2021, Kristine, Bernadette, Mary Anne, Xiaoqing, $790.5, 59, 101, 140
+October 21, 2021, Kristine, Bernadette, Mary Anne, Xiaoqing, $805.0, 59, 102, 144
+October 23, 2021, Kristine, Mary Anne, Jack, Xiaoqing, $791.0, 59, 100, 141
+October 24, 2021, Kristine, Jack, Samantha, Xiaoqing, $790.0, 60, 100, 140
+October 25, 2021, Jack, Samantha, Bernadette, Dan, $800.0, 59, 100, 144
+October 26, 2021, Jack, Samantha, Bernadette, Dan, $806.5, 59, 99, 147
+October 27, 2021, Jack, Samantha, Bernadette, Dan, $807.5, 59, 97, 149
+October 28, 2021, Jack, Samantha, Mary Anne, Dan, $798.5, 59, 97, 146
+October 30, 2021, Jack, Samantha, Mary Anne, Dan, $797.5, 60, 97, 145
+October 31, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $780.5, 60, 95, 141
+November 01, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $774.5, 60, 95, 139
+November 02, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $771.5, 60, 95, 138
+November 03, 2021, Jack, Samantha, Mary Anne, Xiaoqing, $763.0, 60, 94, 136
+November 04, 2021, Jack, Samantha, Kristine, Xiaoqing, $764.5, 60, 97, 134
+November 06, 2021, Jack, Kristine, Alexey, Xiaoqing, $755.5, 60, 97, 131
+November 07, 2021, Jack, Kristine, Mary Anne, Xiaoqing, $745.0, 59, 96, 129
+November 08, 2021, Kristine, Angeline, Samantha, Xiaoqing, $744.0, 59, 98, 127
+November 09, 2021, Kristine, Samantha, Mary Anne, Xiaoqing, $726.0, 58, 94, 125
+November 10, 2021, Kristine, Mary Anne, Samantha, Xiaoqing, $717.0, 58, 94, 122
+November 11, 2021, Mary Anne, Stephen, Angeline, Dan, $707.0, 57, 92, 121
+November 13, 2021, Stephen, Angeline, Mary Anne, Dan, $695.5, 57, 91, 118
+November 14, 2021, Stephen, Angeline, Mary Anne, Dan, $689.5, 57, 91, 116
+November 15, 2021, Stephen, Mary Anne, Jack, Dan, $683.5, 57, 91, 114
+November 16, 2021, Stephen, Mary Anne, Jack, Dan, $685.5, 56, 95, 112
+November 17, 2021, Stephen, Mary Anne, Kristine, Dan, $683.0, 58, 96, 109
+November 18, 2021, Stephen, Mary Anne, Kristine, Dan, $672.0, 58, 94, 107
+November 20, 2021, Mary Anne, Alexey, Jack, Dan, $668.5, 58, 95, 105
+November 21, 2021, Mary Anne, Alexey, Bernadette, Dan, $676.5, 58, 97, 106
+November 22, 2021, Alexey, Bernadette, Kristine, Xiaoqing, $685.0, 58, 98, 108
+November 23, 2021, Alexey, Kristine, Bernadette, Xiaoqing, $686.5, 58, 95, 111
+November 24, 2021, Alexey, Kristine, Bernadette, Dan, $681.0, 59, 92, 111
+November 25, 2021, Alexey, Bernadette, Stephen, Dan, $701.5, 59, 93, 117
+November 27, 2021, Alexey, Bernadette, Stephen, Dan, $713.5, 59, 93, 121
+November 28, 2021, Bernadette, Stephen, Mary Anne, Xiaoqing, $731.5, 58, 95, 126
+November 29, 2021, Bernadette, Stephen, Mary Anne, Dan, $739.5, 58, 97, 127
+November 30, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $750.5, 59, 97, 130
+December 01, 2021, Bernadette, Mary Anne, Alexey, Xiaoqing, $760.0, 59, 96, 134
+December 02, 2021, Mary Anne, Alexey, Angeline, Dan, $749.0, 58, 96, 131
+December 04, 2021, Mary Anne, Alexey, Jack, Dan, $748.0, 58, 98, 129
+December 05, 2021, Mary Anne, Alexey, Jack, Dan, $749.5, 58, 101, 127
+December 06, 2021, Mary Anne, Alexey, Samantha, Dan, $743.0, 58, 102, 124
+December 07, 2021, Mary Anne, Alexey, Samantha, Dan, $745.0, 58, 104, 123
+December 08, 2021, Mary Anne, Alexey, Samantha, Dan, $742.5, 59, 107, 119
+December 09, 2021, Mary Anne, Alexey, Samantha, Dan, $724.5, 58, 103, 117
+December 11, 2021, Alexey, Bernadette, Samantha, Dan, $743.5, 58, 107, 120
+December 12, 2021, Alexey, Samantha, Angeline, Dan, $740.5, 58, 107, 119
+December 13, 2021, Alexey, Samantha, Angeline, Dan, $731.5, 58, 107, 116
+December 14, 2021, Samantha, Angeline, Jack, Dan, $720.0, 58, 106, 113
+December 15, 2021, Samantha, Jack, Bernadette, Dan, $734.5, 59, 105, 118
+December 16, 2021, Jack, Bernadette, Samantha, Dan, $746.0, 60, 104, 122
+December 18, 2021, Jack, Bernadette, Samantha, Dan, $757.0, 59, 108, 123
+December 19, 2021, Jack, Bernadette, Samantha, Dan, $766.5, 59, 107, 127
+December 20, 2021, Jack, Bernadette, Mary Anne, Dan, $778.0, 59, 108, 130
+December 21, 2021, Jack, Bernadette, Mary Anne, Xiaoqing, $770.0, 59, 106, 129
+December 22, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $771.5, 58, 111, 126
+December 23, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $760.0, 58, 110, 123
+December 25, 2021, Jack, Mary Anne, Alexey, Xiaoqing, $746.0, 59, 106, 121
+December 26, 2021, Jack, Mary Anne, Bernadette, Xiaoqing, $751.0, 59, 102, 126
+December 27, 2021, Jack, Bernadette, Stephen, Xiaoqing, $766.5, 59, 101, 132
+December 28, 2021, Jack, Stephen, Samantha, Xiaoqing, $775.5, 60, 105, 131
+December 29, 2021, Jack, Stephen, Samantha, Xiaoqing, $754.0, 60, 100, 128
+December 30, 2021, Stephen, Samantha, Jack, Xiaoqing, $746.5, 59, 99, 127
+January 01, 2022, Stephen, Jack, Mary Anne, Xiaoqing, $738.0, 59, 98, 125
+January 02, 2022, Stephen, Jack, Mary Anne, Xiaoqing, $724.5, 59, 95, 123
+January 03, 2022, Stephen, Mary Anne, Kristine, Xiaoqing, $728.5, 59, 99, 121
+January 04, 2022, Mary Anne, Kristine, Bernadette, Xiaoqing, $738.5, 58, 99, 125
+January 05, 2022, Mary Anne, Bernadette, Alexey, Xiaoqing, $746.0, 57, 98, 129
+January 06, 2022, Mary Anne, Bernadette, Alexey, Xiaoqing, $758.0, 57, 98, 133
+January 08, 2022, Mary Anne, Bernadette, Angeline, Xiaoqing, $765.0, 57, 96, 137
+January 09, 2022, Mary Anne, Bernadette, Samantha, Xiaoqing, $766.0, 56, 96, 138
+January 10, 2022, Bernadette, Samantha, Stephen, Xiaoqing, $769.5, 56, 95, 140
+January 11, 2022, Bernadette, Samantha, Stephen, Xiaoqing, $768.0, 56, 92, 142
+January 12, 2022, Bernadette, Stephen, Mary Anne, Xiaoqing, $774.0, 56, 92, 144
+January 13, 2022, Bernadette, Mary Anne, Alexey, Xiaoqing, $795.5, 56, 91, 152
+January 15, 2022, Bernadette, Mary Anne, Alexey, Xiaoqing, $804.5, 56, 91, 155
+January 16, 2022, Bernadette, Mary Anne, Alexey, Xiaoqing, $813.5, 56, 91, 158
+January 17, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $808.5, 55, 85, 162
+January 18, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $807.0, 55, 82, 164
+January 19, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $819.0, 55, 82, 168
+January 20, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $830.0, 55, 84, 170
+January 22, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $840.0, 55, 82, 175
+January 23, 2022, Mary Anne, Alexey, Bernadette, Xiaoqing, $842.5, 54, 79, 179
+January 24, 2022, Alexey, Mary Anne, Stephen, Xiaoqing, $819.0, 53, 74, 176
+January 25, 2022, Mary Anne, Angeline, Alexey, Xiaoqing, $820.5, 53, 77, 174
+January 26, 2022, Angeline, Alexey, Mary Anne, Xiaoqing, $809.0, 53, 76, 171
+January 27, 2022, Angeline, Alexey, Mary Anne, Xiaoqing, $790.5, 52, 73, 168
+January 29, 2022, Angeline, Alexey, Mary Anne, Xiaoqing, $780.0, 52, 70, 167
+January 30, 2022, Angeline, Mary Anne, Stephen, Xiaoqing, $769.0, 51, 70, 164
+January 31, 2022, Angeline, Mary Anne, Stephen, Xiaoqing, $763.0, 51, 70, 162
+February 01, 2022, Angeline, Mary Anne, Bernadette, Xiaoqing, $756.0, 51, 66, 163
+February 02, 2022, Angeline, Mary Anne, Bernadette, Dan, $770.5, 51, 67, 167
+February 03, 2022, Angeline, Mary Anne, Bernadette, Dan, $772.5, 52, 67, 167
+February 05, 2022, Angeline, Mary Anne, Bernadette, Dan, $786.0, 52, 70, 169
+February 06, 2022, Angeline, Mary Anne, Bernadette, Xiaoqing, $794.5, 52, 71, 171
+February 07, 2022, Angeline, Mary Anne, Bernadette, Xiaoqing, $788.0, 52, 66, 173
+February 08, 2022, Angeline, Mary Anne, Bernadette, Dan, $803.5, 51, 67, 178
+February 09, 2022, Angeline, Bernadette, Samantha, Xiaoqing, $806.0, 51, 68, 178
+February 10, 2022, Angeline, Bernadette, Stephen, Xiaoqing, $813.5, 52, 69, 179
+February 12, 2022, Bernadette, Stephen, Angeline, Xiaoqing, $818.5, 53, 69, 180
+February 13, 2022, Stephen, Angeline, Jack, Xiaoqing, $814.0, 53, 72, 176
+February 14, 2022, Angeline, Jack, Samantha, Xiaoqing, $807.5, 53, 73, 173
+February 15, 2022, Angeline, Jack, Samantha, Xiaoqing, $801.5, 54, 71, 172
+February 16, 2022, Angeline, Jack, Samantha, Xiaoqing, $796.0, 53, 72, 170
+February 17, 2022, Angeline, Jack, Samantha, Xiaoqing, $785.5, 52, 71, 168
+February 19, 2022, Angeline, Samantha, Stephen, Xiaoqing, $777.5, 51, 71, 166
+February 20, 2022, Samantha, Stephen, Jack, Xiaoqing, $755.0, 52, 66, 162
+February 21, 2022, Samantha, Jack, Angeline, Xiaoqing, $752.0, 51, 68, 160
+February 22, 2022, Samantha, Jack, Mary Anne, Xiaoqing, $750.5, 51, 71, 157
+February 23, 2022, Jack, Mary Anne, Kristine, Xiaoqing, $737.5, 50, 69, 155
+February 24, 2022, Jack, Kristine, Alexey, Xiaoqing, $724.5, 49, 67, 153
+February 26, 2022, Kristine, Alexey, Stephen, Xiaoqing, $721.0, 49, 68, 151
+February 27, 2022, Alexey, Stephen, Jack, Xiaoqing, $719.5, 49, 71, 148
+February 28, 2022, Stephen, Jack, Alexey, Xiaoqing, $712.0, 50, 72, 144
+March 01, 2022, Jack, Alexey, Mary Anne, Xiaoqing, $708.5, 50, 73, 142
+March 02, 2022, Jack, Mary Anne, Stephen, Xiaoqing, $707.5, 51, 73, 141
+March 03, 2022, Jack, Mary Anne, Alexey, Xiaoqing, $692.0, 50, 70, 139
+March 05, 2022, Jack, Alexey, Kristine, Xiaoqing, $688.5, 50, 71, 137
+March 06, 2022, Jack, Alexey, Kristine, Dan, $684.0, 51, 72, 134
+March 07, 2022, Alexey, Jack, Mary Anne, Dan, $677.5, 51, 73, 131
+March 08, 2022, Jack, Bernadette, Alexey, Dan, $690.0, 51, 72, 136
+March 09, 2022, Jack, Bernadette, Stephen, Dan, $701.0, 51, 74, 138
+March 10, 2022, Jack, Bernadette, Stephen, Dan, $713.5, 52, 77, 139

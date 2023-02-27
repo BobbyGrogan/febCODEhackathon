@@ -1,0 +1,19 @@
+store_locations = ["Hinsdale", "Naperville", "Downers Grove", "Willowbrook", "Lombard"]
+
+"Cole", "Jason"
+"Janelle", "Ana", "Jacob", "Charmaine"
+"Kimberly", "Andres", "Max"
+"Rishika", "Caroline"
+"Dan", "Xiaoqing"
+
+"Shreya", "Taiyo", "Sabiha", "Robert", "Evelyn", "Enris", "Maurizio" 
+
+"Alton", "Satchel", "Charlie", "Jenna", "Chrissa", "Lauren", "Hillary", "Svelko", 
+"Paul", "Anna", "George", "Alex", "Layla", "Edward", "James", "Austin", "Jake", "Valerie"
+
+
+"Mallory", "Mark", "Arnav", "Shiven", "Camil", "Grace", "Elena", "Jett", "Thomas", "Arun", "Neeraj", "Aryan", "Prashant", "Anushka"
+
+"Viha", "Songting", "Carlos", "Emmanuel", "Jesus", "Igor", "Vladimir", "Luca"
+
+"Bernadette", "Mary Anne", "Stephen", "Jack", "Angeline", "Kristine", "Samantha", "Alexey"
